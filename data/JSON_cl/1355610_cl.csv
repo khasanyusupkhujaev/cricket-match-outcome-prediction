@@ -1,0 +1,206 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,0,0
+2,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,0,0
+3,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,4,0
+4,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,4,0
+5,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,5,0
+6,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,DP Conway,DJ Willey,FH Allen,6,0
+7,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,DJ Willey,DP Conway,10,0
+8,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,DJ Willey,DP Conway,10,0
+9,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,DJ Willey,DP Conway,11,0
+10,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,DP Conway,DJ Willey,FH Allen,12,0
+11,2,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,DP Conway,Shaheen Shah Afridi,FH Allen,14,0
+12,0,1,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,DP Conway,Shaheen Shah Afridi,FH Allen,14,1
+13,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,Shaheen Shah Afridi,FH Allen,14,1
+14,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,Shaheen Shah Afridi,FH Allen,14,1
+15,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,Shaheen Shah Afridi,FH Allen,14,1
+16,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,DJ Willey,FH Allen,14,1
+17,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,DJ Willey,FH Allen,18,1
+18,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,DJ Willey,FH Allen,18,1
+19,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,DJ Willey,FH Allen,22,1
+20,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,DJ Willey,FH Allen,26,1
+21,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,DA Payne,JM Vince,26,1
+22,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,DA Payne,JM Vince,30,1
+23,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,DA Payne,JM Vince,31,1
+24,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,DA Payne,FH Allen,32,1
+25,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,DA Payne,JM Vince,36,1
+26,2,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,Haris Rauf,JM Vince,38,1
+27,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,Haris Rauf,JM Vince,39,1
+28,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,Haris Rauf,FH Allen,40,1
+29,0,1,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,FH Allen,Haris Rauf,JM Vince,40,2
+30,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,Haris Rauf,JM Vince,40,2
+31,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,RE van der Merwe,JL du Plooy,41,2
+32,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,RE van der Merwe,JM Vince,42,2
+33,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,RE van der Merwe,JL du Plooy,42,2
+34,2,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,RE van der Merwe,JL du Plooy,44,2
+35,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,RE van der Merwe,JL du Plooy,44,2
+36,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,DA Payne,JL du Plooy,45,2
+37,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,DA Payne,JM Vince,46,2
+38,0,1,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JM Vince,DA Payne,JL du Plooy,46,3
+39,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,GHS Garton,DA Payne,JL du Plooy,46,3
+40,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,GHS Garton,DA Payne,JL du Plooy,47,3
+41,0,1,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,GHS Garton,Haris Rauf,JL du Plooy,47,4
+42,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,TH David,Haris Rauf,JL du Plooy,47,4
+43,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,TH David,Haris Rauf,JL du Plooy,48,4
+44,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,Haris Rauf,TH David,48,4
+45,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,Haris Rauf,TH David,52,4
+46,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,DJ Willey,TH David,53,4
+47,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,TH David,DJ Willey,JL du Plooy,54,4
+48,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,DJ Willey,TH David,55,4
+49,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,TH David,DJ Willey,JL du Plooy,55,4
+50,0,1,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,TH David,DJ Willey,JL du Plooy,55,5
+51,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,Haris Rauf,JK Fuller,56,5
+52,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JK Fuller,Haris Rauf,JL du Plooy,56,5
+53,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JK Fuller,Haris Rauf,JL du Plooy,56,5
+54,0,1,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JK Fuller,Haris Rauf,JL du Plooy,56,6
+55,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Haris Rauf,JL du Plooy,57,6
+56,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,DA Payne,CJ Jordan,61,6
+57,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,DA Payne,CJ Jordan,62,6
+58,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DA Payne,JL du Plooy,62,6
+59,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DA Payne,JL du Plooy,62,6
+60,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DA Payne,JL du Plooy,63,6
+61,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,JL du Plooy,64,6
+62,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,RE van der Merwe,CJ Jordan,65,6
+63,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,JL du Plooy,66,6
+64,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,RE van der Merwe,CJ Jordan,67,6
+65,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,JL du Plooy,68,6
+66,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,RE van der Merwe,CJ Jordan,69,6
+67,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,JL du Plooy,70,6
+68,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,RE van der Merwe,CJ Jordan,71,6
+69,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,JL du Plooy,72,6
+70,0,1,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,JL du Plooy,RE van der Merwe,CJ Jordan,72,7
+71,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Shaheen Shah Afridi,Rehan Ahmed,72,7
+72,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Shaheen Shah Afridi,Rehan Ahmed,72,7
+73,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Shaheen Shah Afridi,Rehan Ahmed,73,7
+74,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,Rehan Ahmed,Shaheen Shah Afridi,CJ Jordan,74,7
+75,2,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Shaheen Shah Afridi,Rehan Ahmed,76,7
+76,0,1,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Haris Rauf,Rehan Ahmed,76,8
+77,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,C Overton,Haris Rauf,CJ Jordan,77,8
+78,6,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Haris Rauf,C Overton,83,8
+79,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Haris Rauf,C Overton,87,8
+80,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Haris Rauf,C Overton,91,8
+81,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Haris Rauf,C Overton,92,8
+82,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,C Overton,93,8
+83,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,C Overton,RE van der Merwe,CJ Jordan,94,8
+84,6,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,C Overton,100,8
+85,6,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,C Overton,106,8
+86,6,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,RE van der Merwe,C Overton,112,8
+87,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DA Payne,C Overton,113,8
+88,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,C Overton,DA Payne,CJ Jordan,113,8
+89,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,C Overton,DA Payne,CJ Jordan,114,8
+90,0,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DA Payne,C Overton,114,8
+91,6,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DA Payne,C Overton,120,8
+92,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,C Overton,Shaheen Shah Afridi,CJ Jordan,121,8
+93,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Shaheen Shah Afridi,C Overton,125,8
+94,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Shaheen Shah Afridi,C Overton,126,8
+95,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,C Overton,Shaheen Shah Afridi,CJ Jordan,127,8
+96,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,Shaheen Shah Afridi,C Overton,128,8
+97,1,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,C Overton,DJ Willey,CJ Jordan,129,8
+98,6,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DJ Willey,C Overton,135,8
+99,6,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DJ Willey,C Overton,141,8
+100,2,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DJ Willey,C Overton,143,8
+101,4,0,Southern Brave,1,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Welsh Fire,CJ Jordan,DJ Willey,C Overton,147,8
+1,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,C Overton,JM Clarke,0,0
+2,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,C Overton,JM Clarke,0,0
+3,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,C Overton,JM Clarke,1,0
+4,5,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,JM Clarke,C Overton,LWP Wells,6,0
+5,0,1,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,JM Clarke,C Overton,LWP Wells,6,1
+6,6,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,C Overton,LWP Wells,12,1
+7,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,GHS Garton,LWP Wells,13,1
+8,6,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,GHS Garton,SS Eskinazi,19,1
+9,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,GHS Garton,SS Eskinazi,19,1
+10,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,GHS Garton,SS Eskinazi,19,1
+11,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,GHS Garton,SS Eskinazi,20,1
+12,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,C Overton,SS Eskinazi,21,1
+13,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,C Overton,LWP Wells,21,1
+14,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,C Overton,LWP Wells,25,1
+15,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,C Overton,LWP Wells,26,1
+16,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,C Overton,SS Eskinazi,30,1
+17,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,TS Mills,SS Eskinazi,31,1
+18,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,TS Mills,LWP Wells,32,1
+19,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,TS Mills,SS Eskinazi,32,1
+20,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,TS Mills,SS Eskinazi,34,1
+21,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,TS Mills,SS Eskinazi,34,1
+22,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,GHS Garton,LWP Wells,35,1
+23,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,GHS Garton,SS Eskinazi,37,1
+24,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,GHS Garton,SS Eskinazi,38,1
+25,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,GHS Garton,LWP Wells,39,1
+26,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,GHS Garton,SS Eskinazi,43,1
+27,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,Rehan Ahmed,SS Eskinazi,44,1
+28,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,Rehan Ahmed,LWP Wells,45,1
+29,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,Rehan Ahmed,SS Eskinazi,46,1
+30,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,Rehan Ahmed,LWP Wells,47,1
+31,0,1,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,LWP Wells,Rehan Ahmed,SS Eskinazi,47,2
+32,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,TH David,TB Abell,48,2
+33,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,TH David,SS Eskinazi,49,2
+34,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,TH David,TB Abell,51,2
+35,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,TH David,TB Abell,53,2
+36,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,TH David,TB Abell,54,2
+37,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,JK Fuller,SS Eskinazi,54,2
+38,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,JK Fuller,SS Eskinazi,54,2
+39,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,JK Fuller,SS Eskinazi,54,2
+40,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,JK Fuller,SS Eskinazi,55,2
+41,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,JK Fuller,TB Abell,55,2
+42,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,Rehan Ahmed,SS Eskinazi,56,2
+43,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,Rehan Ahmed,TB Abell,60,2
+44,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,Rehan Ahmed,TB Abell,64,2
+45,0,1,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,SS Eskinazi,Rehan Ahmed,TB Abell,64,3
+46,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,Rehan Ahmed,TB Abell,68,3
+47,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,JK Fuller,TB Abell,68,3
+48,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,JK Fuller,TB Abell,72,3
+49,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,JK Fuller,TB Abell,73,3
+50,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,JK Fuller,GD Phillips,74,3
+51,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,JK Fuller,TB Abell,74,3
+52,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,C Overton,GD Phillips,74,3
+53,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,C Overton,GD Phillips,75,3
+54,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,C Overton,TB Abell,76,3
+55,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,C Overton,GD Phillips,80,3
+56,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,C Overton,GD Phillips,81,3
+57,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,Rehan Ahmed,TB Abell,81,3
+58,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,Rehan Ahmed,TB Abell,81,3
+59,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,Rehan Ahmed,TB Abell,82,3
+60,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,Rehan Ahmed,GD Phillips,82,3
+61,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,Rehan Ahmed,GD Phillips,83,3
+62,0,1,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,TB Abell,GHS Garton,GD Phillips,83,4
+63,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,GHS Garton,GD Phillips,84,4
+64,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,GHS Garton,DJ Willey,84,4
+65,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,GHS Garton,DJ Willey,84,4
+66,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,GHS Garton,DJ Willey,85,4
+67,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,GD Phillips,86,4
+68,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,JK Fuller,DJ Willey,87,4
+69,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,GD Phillips,89,4
+70,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,GD Phillips,89,4
+71,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,GD Phillips,89,4
+72,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,Rehan Ahmed,DJ Willey,91,4
+73,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,Rehan Ahmed,DJ Willey,92,4
+74,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,Rehan Ahmed,GD Phillips,93,4
+75,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,Rehan Ahmed,DJ Willey,97,4
+76,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,Rehan Ahmed,DJ Willey,98,4
+77,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,GD Phillips,99,4
+78,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,TS Mills,DJ Willey,100,4
+79,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,GD Phillips,101,4
+80,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,GD Phillips,102,4
+81,0,1,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,GD Phillips,TS Mills,DJ Willey,102,5
+82,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,TS Mills,DJ Willey,102,5
+83,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,BGF Green,102,5
+84,6,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,BGF Green,108,5
+85,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,BGF Green,109,5
+86,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,BGF Green,110,5
+87,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,JK Fuller,DJ Willey,111,5
+88,6,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,JK Fuller,BGF Green,117,5
+89,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,BGF Green,118,5
+90,0,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,TS Mills,DJ Willey,118,5
+91,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,TS Mills,DJ Willey,119,5
+92,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,TS Mills,DJ Willey,121,5
+93,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,TS Mills,DJ Willey,123,5
+94,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,TS Mills,DJ Willey,124,5
+95,6,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,C Overton,DJ Willey,130,5
+96,4,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,C Overton,DJ Willey,134,5
+97,0,1,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,BGF Green,C Overton,DJ Willey,134,6
+98,1,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,RE van der Merwe,C Overton,DJ Willey,135,6
+99,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,C Overton,RE van der Merwe,137,6
+100,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,RE van der Merwe,139,6
+101,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,RE van der Merwe,141,6
+102,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,RE van der Merwe,143,6
+103,2,0,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,RE van der Merwe,145,6
+104,0,1,Welsh Fire,2,2023,male,Southern Brave,2 runs,"The Rose Bowl, Southampton",Welsh Fire,field,Southern Brave,DJ Willey,TS Mills,RE van der Merwe,145,7

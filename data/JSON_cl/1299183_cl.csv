@@ -1,0 +1,187 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,GJ Maxwell,A Lyth,0,0
+2,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,GJ Maxwell,A Lyth,0,0
+3,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,GJ Maxwell,A Lyth,1,0
+4,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,A Lyth,GJ Maxwell,F du Plessis,1,0
+5,0,1,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,A Lyth,GJ Maxwell,F du Plessis,1,1
+6,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,1,1
+7,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,1,1
+8,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,1,1
+9,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,1,1
+10,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,2,1
+11,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,NT Ellis,F du Plessis,2,1
+12,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,NT Ellis,F du Plessis,2,1
+13,3,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,NT Ellis,F du Plessis,5,1
+14,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,NT Ellis,DJ Willey,5,1
+15,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,NT Ellis,DJ Willey,5,1
+16,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,NT Ellis,DJ Willey,6,1
+17,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,JA Thompson,F du Plessis,7,1
+18,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,DJ Willey,11,1
+19,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,DJ Willey,12,1
+20,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,JA Thompson,F du Plessis,13,1
+21,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,DJ Willey,17,1
+22,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,NT Ellis,F du Plessis,21,1
+23,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,NT Ellis,F du Plessis,22,1
+24,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,NT Ellis,DJ Willey,23,1
+25,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,NT Ellis,F du Plessis,23,1
+26,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,NT Ellis,F du Plessis,23,1
+27,2,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,25,1
+28,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,26,1
+29,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,GJ Maxwell,DJ Willey,27,1
+30,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,27,1
+31,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,GJ Maxwell,F du Plessis,27,1
+32,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,BTJ Wheal,DJ Willey,27,1
+33,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,BTJ Wheal,DJ Willey,28,1
+34,2,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,BTJ Wheal,F du Plessis,30,1
+35,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,BTJ Wheal,F du Plessis,30,1
+36,2,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,BTJ Wheal,F du Plessis,32,1
+37,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,F du Plessis,33,1
+38,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,MS Crane,DJ Willey,37,1
+39,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,MS Crane,DJ Willey,38,1
+40,0,1,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,F du Plessis,38,2
+41,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,F du Plessis,39,2
+42,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,LA Dawson,F du Plessis,39,2
+43,6,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,LA Dawson,F du Plessis,45,2
+44,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,LA Dawson,F du Plessis,46,2
+45,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,LA Dawson,HC Brook,47,2
+46,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,LA Dawson,F du Plessis,48,2
+47,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,LA Dawson,HC Brook,49,2
+48,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,LA Dawson,F du Plessis,50,2
+49,6,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,LA Dawson,HC Brook,56,2
+50,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,LA Dawson,HC Brook,57,2
+51,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,LA Dawson,F du Plessis,58,2
+52,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,F du Plessis,59,2
+53,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,MS Crane,HC Brook,60,2
+54,0,1,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,F du Plessis,60,3
+55,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,MS Crane,F du Plessis,60,3
+56,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,MS Crane,F du Plessis,60,3
+57,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,MS Crane,F du Plessis,61,3
+58,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,MS Crane,MS Pepper,62,3
+59,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,MS Crane,F du Plessis,63,3
+60,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,MS Crane,MS Pepper,64,3
+61,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,MS Crane,F du Plessis,64,3
+62,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,MS Pepper,68,3
+63,2,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,MS Pepper,70,3
+64,2,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,MS Pepper,72,3
+65,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,MS Pepper,73,3
+66,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,JA Thompson,F du Plessis,74,3
+67,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,BTJ Wheal,MS Pepper,74,3
+68,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,BTJ Wheal,MS Pepper,75,3
+69,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,BTJ Wheal,F du Plessis,75,3
+70,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,BTJ Wheal,F du Plessis,79,3
+71,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,BTJ Wheal,F du Plessis,83,3
+72,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,MS Crane,MS Pepper,84,3
+73,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,MS Crane,F du Plessis,84,3
+74,2,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,MS Crane,F du Plessis,86,3
+75,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,MS Crane,F du Plessis,87,3
+76,6,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,MS Crane,MS Pepper,93,3
+77,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,NT Ellis,MS Pepper,93,3
+78,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,NT Ellis,MS Pepper,97,3
+79,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,NT Ellis,MS Pepper,101,3
+80,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,NT Ellis,MS Pepper,102,3
+81,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,NT Ellis,F du Plessis,103,3
+82,2,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,JA Thompson,F du Plessis,105,3
+83,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,JA Thompson,F du Plessis,106,3
+84,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,MS Pepper,107,3
+85,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,MS Pepper,108,3
+86,0,1,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,F du Plessis,JA Thompson,MS Pepper,108,4
+87,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,JA Thompson,MS Pepper,112,4
+88,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,JA Thompson,MS Pepper,116,4
+89,6,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,BTJ Wheal,MS Pepper,122,4
+90,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,BTJ Wheal,MS Pepper,123,4
+91,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,BTJ Wheal,AJ Hose,124,4
+92,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,BTJ Wheal,MS Pepper,125,4
+93,2,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,BTJ Wheal,AJ Hose,127,4
+94,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,NT Ellis,MS Pepper,128,4
+95,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,NT Ellis,MS Pepper,128,4
+96,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,NT Ellis,MS Pepper,132,4
+97,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,NT Ellis,MS Pepper,136,4
+98,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,NT Ellis,MS Pepper,136,4
+99,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,NT Ellis,MS Pepper,136,4
+100,0,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,JA Thompson,MS Pepper,136,4
+101,4,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,JA Thompson,MS Pepper,140,4
+102,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,JA Thompson,MS Pepper,141,4
+103,1,0,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,MS Pepper,JA Thompson,AJ Hose,142,4
+104,1,1,Northern Superchargers,1,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,London Spirit,AJ Hose,JA Thompson,MS Pepper,143,5
+1,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Willey,DJ Bell-Drummond,0,0
+2,3,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Willey,DJ Bell-Drummond,3,0
+3,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,DJ Willey,AM Rossington,4,0
+4,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Willey,DJ Bell-Drummond,8,0
+5,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Willey,DJ Bell-Drummond,12,0
+6,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,RE van der Merwe,DJ Bell-Drummond,12,0
+7,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,RE van der Merwe,DJ Bell-Drummond,16,0
+8,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,RE van der Merwe,DJ Bell-Drummond,22,0
+9,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,RE van der Merwe,DJ Bell-Drummond,28,0
+10,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,RE van der Merwe,DJ Bell-Drummond,34,0
+11,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,Wahab Riaz,AM Rossington,34,0
+12,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,Wahab Riaz,AM Rossington,34,0
+13,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,Wahab Riaz,AM Rossington,35,0
+14,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,Wahab Riaz,DJ Bell-Drummond,41,0
+15,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,Wahab Riaz,DJ Bell-Drummond,41,0
+16,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Bravo,DJ Bell-Drummond,47,0
+17,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Bravo,DJ Bell-Drummond,48,0
+18,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,DJ Bravo,AM Rossington,52,0
+19,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,DJ Bravo,AM Rossington,53,0
+20,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Bravo,DJ Bell-Drummond,54,0
+21,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,CN Miles,DJ Bell-Drummond,60,0
+22,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,CN Miles,DJ Bell-Drummond,61,0
+23,2,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,CN Miles,AM Rossington,63,0
+24,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,CN Miles,AM Rossington,63,0
+25,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,CN Miles,AM Rossington,63,0
+26,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,AU Rashid,AM Rossington,67,0
+27,2,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,AU Rashid,AM Rossington,69,0
+28,0,1,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DJ Bell-Drummond,AU Rashid,AM Rossington,69,1
+29,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,AU Rashid,AM Rossington,69,1
+30,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,AU Rashid,AM Rossington,73,1
+31,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,AU Rashid,GJ Maxwell,74,1
+32,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,AU Rashid,AM Rossington,74,1
+33,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,AU Rashid,AM Rossington,78,1
+34,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,AU Rashid,AM Rossington,79,1
+35,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,AU Rashid,GJ Maxwell,80,1
+36,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,Wahab Riaz,AM Rossington,81,1
+37,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,Wahab Riaz,GJ Maxwell,82,1
+38,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,Wahab Riaz,AM Rossington,83,1
+39,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,Wahab Riaz,GJ Maxwell,84,1
+40,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,Wahab Riaz,AM Rossington,88,1
+41,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,CN Miles,GJ Maxwell,89,1
+42,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,CN Miles,AM Rossington,93,1
+43,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,CN Miles,AM Rossington,93,1
+44,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,CN Miles,AM Rossington,93,1
+45,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,CN Miles,AM Rossington,99,1
+46,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,DJ Bravo,AM Rossington,103,1
+47,2,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,DJ Bravo,AM Rossington,105,1
+48,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,DJ Bravo,AM Rossington,106,1
+49,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Bravo,GJ Maxwell,106,1
+50,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Bravo,GJ Maxwell,107,1
+51,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,RE van der Merwe,GJ Maxwell,113,1
+52,0,1,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,AM Rossington,RE van der Merwe,GJ Maxwell,113,2
+53,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,RE van der Merwe,GJ Maxwell,113,2
+54,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,RE van der Merwe,GJ Maxwell,114,2
+55,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,RE van der Merwe,DW Lawrence,115,2
+56,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,RE van der Merwe,GJ Maxwell,115,2
+57,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,RE van der Merwe,GJ Maxwell,116,2
+58,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,RE van der Merwe,DW Lawrence,116,2
+59,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,RE van der Merwe,DW Lawrence,117,2
+60,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,RE van der Merwe,GJ Maxwell,117,2
+61,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,AU Rashid,DW Lawrence,118,2
+62,6,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,AU Rashid,GJ Maxwell,124,2
+63,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,AU Rashid,GJ Maxwell,124,2
+64,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,AU Rashid,GJ Maxwell,128,2
+65,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,AU Rashid,GJ Maxwell,129,2
+66,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,DJ Willey,DW Lawrence,130,2
+67,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,DJ Willey,GJ Maxwell,131,2
+68,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,DJ Willey,DW Lawrence,132,2
+69,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,DJ Willey,GJ Maxwell,132,2
+70,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,DJ Willey,GJ Maxwell,133,2
+71,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,DJ Bravo,GJ Maxwell,134,2
+72,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,DJ Bravo,DW Lawrence,134,2
+73,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,DJ Bravo,DW Lawrence,135,2
+74,2,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,DJ Bravo,GJ Maxwell,137,2
+75,0,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,DJ Bravo,GJ Maxwell,137,2
+76,0,1,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,DW Lawrence,DJ Bravo,GJ Maxwell,137,3
+77,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,DJ Bravo,GJ Maxwell,138,3
+78,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,DJ Bravo,EJG Morgan,139,3
+79,2,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,DJ Bravo,GJ Maxwell,141,3
+80,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,DJ Bravo,GJ Maxwell,142,3
+81,1,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,CN Miles,GJ Maxwell,143,3
+82,4,0,London Spirit,2,2022,male,London Spirit,7 wickets,"Headingley, Leeds",Northern Superchargers,bat,Northern Superchargers,GJ Maxwell,CN Miles,EJG Morgan,147,3

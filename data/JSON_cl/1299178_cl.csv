@@ -1,0 +1,193 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,CG Benjamin,4,0
+2,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,CG Benjamin,4,0
+3,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,CG Benjamin,6,0
+4,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,CG Benjamin,7,0
+5,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,GHS Garton,WCF Smeed,11,0
+6,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,MP Stoinis,WCF Smeed,11,0
+7,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,MP Stoinis,WCF Smeed,12,0
+8,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,MP Stoinis,CG Benjamin,13,0
+9,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,MP Stoinis,WCF Smeed,13,0
+10,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,MP Stoinis,WCF Smeed,14,0
+11,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,TS Mills,WCF Smeed,14,0
+12,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,TS Mills,WCF Smeed,16,0
+13,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,TS Mills,WCF Smeed,20,0
+14,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,TS Mills,WCF Smeed,21,0
+15,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,CG Benjamin,22,0
+16,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,MP Stoinis,WCF Smeed,26,0
+17,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,MP Stoinis,WCF Smeed,26,0
+18,5,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,MP Stoinis,WCF Smeed,31,0
+19,0,1,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,CG Benjamin,MP Stoinis,WCF Smeed,31,1
+20,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,MP Stoinis,WCF Smeed,31,1
+21,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,MP Stoinis,WCF Smeed,31,1
+22,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,MM Ali,32,1
+23,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,GHS Garton,WCF Smeed,36,1
+24,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,GHS Garton,WCF Smeed,42,1
+25,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,GHS Garton,WCF Smeed,42,1
+26,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,GHS Garton,WCF Smeed,46,1
+27,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,CJ Jordan,WCF Smeed,47,1
+28,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,MM Ali,48,1
+29,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,CJ Jordan,WCF Smeed,48,1
+30,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,CJ Jordan,WCF Smeed,49,1
+31,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,MM Ali,53,1
+32,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,JB Lintott,WCF Smeed,53,1
+33,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,JB Lintott,WCF Smeed,54,1
+34,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,MM Ali,56,1
+35,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,MM Ali,56,1
+36,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,MM Ali,57,1
+37,0,1,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MM Ali,JK Fuller,WCF Smeed,57,2
+38,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JK Fuller,WCF Smeed,58,2
+39,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,58,2
+40,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,62,2
+41,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,66,2
+42,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,TS Mills,WCF Smeed,66,2
+43,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,TS Mills,WCF Smeed,66,2
+44,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,TS Mills,WCF Smeed,66,2
+45,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,TS Mills,WCF Smeed,67,2
+46,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,TS Mills,WCF Smeed,68,2
+47,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,LS Livingstone,70,2
+48,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,LS Livingstone,72,2
+49,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,LS Livingstone,78,2
+50,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,LS Livingstone,80,2
+51,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,LS Livingstone,86,2
+52,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,GHS Garton,LS Livingstone,87,2
+53,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,GHS Garton,WCF Smeed,87,2
+54,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,LS Livingstone,87,2
+55,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,LS Livingstone,91,2
+56,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,LS Livingstone,92,2
+57,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JB Lintott,WCF Smeed,92,2
+58,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JB Lintott,WCF Smeed,98,2
+59,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JB Lintott,WCF Smeed,98,2
+60,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JB Lintott,WCF Smeed,100,2
+61,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JB Lintott,WCF Smeed,101,2
+62,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,LS Livingstone,107,2
+63,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,LS Livingstone,108,2
+64,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,108,2
+65,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,109,2
+66,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JK Fuller,WCF Smeed,111,2
+67,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JK Fuller,WCF Smeed,115,2
+68,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JK Fuller,WCF Smeed,115,2
+69,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,CJ Jordan,WCF Smeed,117,2
+70,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,CJ Jordan,WCF Smeed,117,2
+71,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,CJ Jordan,WCF Smeed,118,2
+72,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,LS Livingstone,118,2
+73,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,LS Livingstone,119,2
+74,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,119,2
+75,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,120,2
+76,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,120,2
+77,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,122,2
+78,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,128,2
+79,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JK Fuller,LS Livingstone,129,2
+80,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JB Lintott,WCF Smeed,130,2
+81,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,LS Livingstone,136,2
+82,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,JB Lintott,LS Livingstone,137,2
+83,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JB Lintott,WCF Smeed,137,2
+84,0,1,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,LS Livingstone,JB Lintott,WCF Smeed,137,3
+85,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,MS Wade,141,3
+86,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,MS Wade,142,3
+87,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MS Wade,TS Mills,WCF Smeed,143,3
+88,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,MS Wade,144,3
+89,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MS Wade,TS Mills,WCF Smeed,145,3
+90,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,MS Wade,146,3
+91,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MS Wade,CJ Jordan,WCF Smeed,152,3
+92,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MS Wade,CJ Jordan,WCF Smeed,153,3
+93,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,MS Wade,155,3
+94,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,MS Wade,156,3
+95,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,MS Wade,157,3
+96,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MS Wade,TS Mills,WCF Smeed,158,3
+97,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,MS Wade,162,3
+98,6,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,MS Wade,168,3
+99,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,TS Mills,MS Wade,169,3
+100,0,1,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,MS Wade,CJ Jordan,WCF Smeed,169,4
+101,1,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,Miles Hammond,CJ Jordan,WCF Smeed,170,4
+102,4,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,Miles Hammond,174,4
+103,2,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,Miles Hammond,176,4
+104,0,0,Birmingham Phoenix,1,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Southern Brave,WCF Smeed,CJ Jordan,Miles Hammond,176,4
+1,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JM Vince,MM Ali,Q de Kock,1,0
+2,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,MM Ali,JM Vince,2,0
+3,6,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JM Vince,MM Ali,Q de Kock,8,0
+4,6,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JM Vince,MM Ali,Q de Kock,14,0
+5,4,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JM Vince,MM Ali,Q de Kock,18,0
+6,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JM Vince,KW Richardson,Q de Kock,18,1
+7,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,MP Stoinis,KW Richardson,Q de Kock,18,1
+8,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,MP Stoinis,KW Richardson,Q de Kock,18,1
+9,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,MP Stoinis,KW Richardson,Q de Kock,19,1
+10,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,KW Richardson,MP Stoinis,19,1
+11,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,MP Stoinis,TG Helm,Q de Kock,20,1
+12,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,TG Helm,MP Stoinis,21,1
+13,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,MP Stoinis,TG Helm,Q de Kock,21,2
+14,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,TG Helm,Q de Kock,21,2
+15,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,TG Helm,Q de Kock,22,2
+16,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,MM Ali,AL Davies,23,2
+17,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,MM Ali,Q de Kock,23,2
+18,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,MM Ali,Q de Kock,23,2
+19,4,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,MM Ali,Q de Kock,27,2
+20,4,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,MM Ali,Q de Kock,31,2
+21,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,KW Richardson,AL Davies,32,2
+22,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,KW Richardson,Q de Kock,33,2
+23,6,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,KW Richardson,AL Davies,39,2
+24,4,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,KW Richardson,AL Davies,43,2
+25,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,KW Richardson,AL Davies,44,2
+26,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,HJH Brookes,Q de Kock,45,2
+27,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,Q de Kock,HJH Brookes,AL Davies,45,3
+28,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,HJH Brookes,AL Davies,45,3
+29,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,HJH Brookes,AL Davies,45,3
+30,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,HJH Brookes,AL Davies,46,3
+31,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,BAC Howell,AL Davies,46,3
+32,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,BAC Howell,AL Davies,47,3
+33,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,BAC Howell,TH David,48,3
+34,2,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,BAC Howell,AL Davies,50,3
+35,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,BAC Howell,AL Davies,51,3
+36,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,Imran Tahir,TH David,52,3
+37,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,Imran Tahir,AL Davies,53,3
+38,2,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,Imran Tahir,TH David,55,3
+39,6,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,Imran Tahir,TH David,61,3
+40,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,Imran Tahir,TH David,62,3
+41,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,HJH Brookes,TH David,63,3
+42,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,HJH Brookes,TH David,64,3
+43,4,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,HJH Brookes,AL Davies,68,3
+44,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,HJH Brookes,AL Davies,69,3
+45,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,HJH Brookes,TH David,70,3
+46,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,HJH Brookes,TH David,71,3
+47,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TH David,HJH Brookes,AL Davies,71,4
+48,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,TG Helm,AL Davies,71,4
+49,2,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,TG Helm,AL Davies,73,4
+50,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,TG Helm,AL Davies,74,4
+51,2,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,TG Helm,RA Whiteley,76,4
+52,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,TG Helm,RA Whiteley,77,4
+53,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,BAC Howell,RA Whiteley,78,4
+54,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,BAC Howell,AL Davies,79,4
+55,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,BAC Howell,RA Whiteley,80,4
+56,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,BAC Howell,AL Davies,81,4
+57,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,BAC Howell,RA Whiteley,82,4
+58,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,Imran Tahir,AL Davies,83,4
+59,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,Imran Tahir,RA Whiteley,84,4
+60,4,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,Imran Tahir,AL Davies,88,4
+61,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,Imran Tahir,AL Davies,89,4
+62,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,Imran Tahir,RA Whiteley,90,4
+63,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,HJH Brookes,RA Whiteley,91,4
+64,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,HJH Brookes,AL Davies,92,4
+65,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,HJH Brookes,AL Davies,93,4
+66,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,AL Davies,HJH Brookes,RA Whiteley,93,5
+67,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JK Fuller,HJH Brookes,RA Whiteley,93,5
+68,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JK Fuller,HJH Brookes,RA Whiteley,93,6
+69,4,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,GHS Garton,HJH Brookes,RA Whiteley,97,6
+70,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,GHS Garton,HJH Brookes,RA Whiteley,97,7
+71,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,CJ Jordan,HJH Brookes,RA Whiteley,98,7
+72,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,HJH Brookes,CJ Jordan,98,7
+73,6,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,HJH Brookes,CJ Jordan,104,7
+74,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,CJ Jordan,BAC Howell,RA Whiteley,105,7
+75,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,RA Whiteley,BAC Howell,CJ Jordan,105,8
+76,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JB Lintott,BAC Howell,CJ Jordan,106,8
+77,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,CJ Jordan,BAC Howell,JB Lintott,107,8
+78,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JB Lintott,BAC Howell,CJ Jordan,108,8
+79,6,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,CJ Jordan,BAC Howell,JB Lintott,114,8
+80,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,CJ Jordan,BAC Howell,JB Lintott,115,8
+81,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JB Lintott,BAC Howell,CJ Jordan,116,8
+82,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,CJ Jordan,BAC Howell,JB Lintott,117,8
+83,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JB Lintott,BAC Howell,CJ Jordan,118,8
+84,1,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,JB Lintott,KW Richardson,CJ Jordan,119,8
+85,4,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,CJ Jordan,KW Richardson,JB Lintott,123,8
+86,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,CJ Jordan,KW Richardson,JB Lintott,123,9
+87,0,0,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TS Mills,KW Richardson,JB Lintott,123,9
+88,0,1,Southern Brave,2,2022,male,Birmingham Phoenix,53 runs,"Edgbaston, Birmingham",Southern Brave,field,Birmingham Phoenix,TS Mills,KW Richardson,JB Lintott,123,10

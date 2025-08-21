@@ -1,0 +1,210 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AD Hales,MG Hogan,DJ Malan,1,0
+2,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,MG Hogan,AD Hales,2,0
+3,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AD Hales,MG Hogan,DJ Malan,2,0
+4,4,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AD Hales,MG Hogan,DJ Malan,6,0
+5,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AD Hales,MG Hogan,DJ Malan,6,0
+6,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AD Hales,S Baker,DJ Malan,7,0
+7,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,S Baker,AD Hales,7,0
+8,4,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,S Baker,AD Hales,11,0
+9,4,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,S Baker,AD Hales,15,0
+10,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,S Baker,AD Hales,15,0
+11,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AD Hales,PR Stirling,DJ Malan,17,0
+12,0,1,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AD Hales,PR Stirling,DJ Malan,17,1
+13,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,PR Stirling,DJ Malan,17,1
+14,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,PR Stirling,DJ Malan,17,1
+15,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,PR Stirling,DJ Malan,18,1
+16,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,PR Stirling,T Kohler-Cadmore,18,1
+17,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,PR Stirling,T Kohler-Cadmore,19,1
+18,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,PR Stirling,DJ Malan,20,1
+19,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,PR Stirling,T Kohler-Cadmore,20,1
+20,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,PR Stirling,T Kohler-Cadmore,21,1
+21,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,Rehan Ahmed,T Kohler-Cadmore,22,1
+22,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,Rehan Ahmed,DJ Malan,22,1
+23,4,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,Rehan Ahmed,DJ Malan,26,1
+24,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,Rehan Ahmed,DJ Malan,26,1
+25,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,Rehan Ahmed,DJ Malan,27,1
+26,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,T Kohler-Cadmore,28,1
+27,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,JK Fuller,DJ Malan,28,1
+28,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,JK Fuller,DJ Malan,28,1
+29,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,JK Fuller,DJ Malan,29,1
+30,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,T Kohler-Cadmore,30,1
+31,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JB Lintott,T Kohler-Cadmore,32,1
+32,6,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JB Lintott,T Kohler-Cadmore,38,1
+33,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JB Lintott,T Kohler-Cadmore,39,1
+34,0,1,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,T Kohler-Cadmore,JB Lintott,DJ Malan,39,2
+35,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,JB Lintott,DJ Malan,40,2
+36,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,PR Stirling,SR Patel,41,2
+37,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,PR Stirling,DJ Malan,42,2
+38,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,PR Stirling,SR Patel,44,2
+39,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,PR Stirling,SR Patel,44,2
+40,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,PR Stirling,SR Patel,44,2
+41,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,Rehan Ahmed,DJ Malan,45,2
+42,4,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,Rehan Ahmed,SR Patel,49,2
+43,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,Rehan Ahmed,SR Patel,50,2
+44,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,Rehan Ahmed,DJ Malan,51,2
+45,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,Rehan Ahmed,SR Patel,53,2
+46,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,SR Patel,55,2
+47,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,SR Patel,57,2
+48,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,SR Patel,58,2
+49,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,JK Fuller,DJ Malan,59,2
+50,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,SR Patel,59,2
+51,6,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,JB Lintott,DJ Malan,65,2
+52,6,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,JB Lintott,DJ Malan,71,2
+53,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,JB Lintott,DJ Malan,72,2
+54,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JB Lintott,SR Patel,72,2
+55,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JB Lintott,SR Patel,72,2
+56,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,S Baker,SR Patel,73,2
+57,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,S Baker,SR Patel,74,2
+58,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,S Baker,DJ Malan,75,2
+59,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,S Baker,SR Patel,76,2
+60,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,S Baker,DJ Malan,78,2
+61,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,S Baker,DJ Malan,79,2
+62,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,S Baker,SR Patel,80,2
+63,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,Rehan Ahmed,SR Patel,82,2
+64,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,Rehan Ahmed,SR Patel,83,2
+65,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,Rehan Ahmed,DJ Malan,83,2
+66,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,Rehan Ahmed,DJ Malan,83,2
+67,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,Rehan Ahmed,DJ Malan,84,2
+68,4,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,SR Patel,88,2
+69,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,SR Patel,89,2
+70,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,SR Patel,90,2
+71,0,1,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SR Patel,JK Fuller,DJ Malan,90,3
+72,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,JK Fuller,DJ Malan,91,3
+73,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JK Fuller,L Gregory,91,3
+74,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,JB Lintott,DJ Malan,93,3
+75,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,JB Lintott,DJ Malan,94,3
+76,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JB Lintott,L Gregory,95,3
+77,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,JB Lintott,DJ Malan,96,3
+78,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,JB Lintott,L Gregory,98,3
+79,6,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,MG Hogan,L Gregory,104,3
+80,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,MG Hogan,L Gregory,106,3
+81,0,1,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DJ Malan,MG Hogan,L Gregory,106,4
+82,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,MG Hogan,L Gregory,107,4
+83,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,MG Hogan,C Munro,109,4
+84,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,Rehan Ahmed,L Gregory,110,4
+85,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,Rehan Ahmed,C Munro,110,4
+86,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,Rehan Ahmed,C Munro,110,4
+87,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,Rehan Ahmed,C Munro,111,4
+88,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,Rehan Ahmed,L Gregory,113,4
+89,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JB Lintott,L Gregory,113,4
+90,5,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JB Lintott,L Gregory,118,4
+91,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JB Lintott,L Gregory,119,4
+92,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,JB Lintott,C Munro,120,4
+93,6,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JB Lintott,L Gregory,126,4
+94,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JB Lintott,L Gregory,127,4
+95,4,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JB Lintott,L Gregory,131,4
+96,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,JK Fuller,C Munro,132,4
+97,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JK Fuller,L Gregory,132,4
+98,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JK Fuller,L Gregory,133,4
+99,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,JK Fuller,C Munro,134,4
+100,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,JK Fuller,C Munro,135,4
+101,0,1,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,C Munro,JK Fuller,L Gregory,135,5
+102,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DR Sams,MG Hogan,L Gregory,135,5
+103,2,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DR Sams,MG Hogan,L Gregory,137,5
+104,1,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,DR Sams,MG Hogan,L Gregory,138,5
+105,0,0,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,MG Hogan,DR Sams,138,5
+106,0,1,Trent Rockets,1,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,L Gregory,MG Hogan,DR Sams,138,6
+1,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,PR Stirling,L Wood,Q de Kock,0,0
+2,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,PR Stirling,L Wood,Q de Kock,0,0
+3,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,PR Stirling,L Wood,Q de Kock,1,0
+4,4,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Wood,PR Stirling,5,0
+5,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Wood,PR Stirling,5,0
+6,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,SJ Cook,PR Stirling,5,0
+7,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,SJ Cook,PR Stirling,7,0
+8,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,SJ Cook,PR Stirling,8,0
+9,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,PR Stirling,SJ Cook,Q de Kock,8,0
+10,0,1,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,PR Stirling,SJ Cook,Q de Kock,8,1
+11,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Wood,JM Vince,8,1
+12,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Wood,JM Vince,8,1
+13,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Wood,JM Vince,9,1
+14,0,1,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,JM Vince,L Wood,Q de Kock,9,2
+15,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Wood,Q de Kock,9,2
+16,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,Q de Kock,10,2
+17,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,SJ Cook,AL Davies,11,2
+18,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,Q de Kock,11,2
+19,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,Q de Kock,11,2
+20,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,Q de Kock,12,2
+21,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,Q de Kock,13,2
+22,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,DR Sams,Q de Kock,13,2
+23,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,DR Sams,Q de Kock,14,2
+24,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,DR Sams,AL Davies,14,2
+25,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,DR Sams,AL Davies,14,2
+26,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,DR Sams,AL Davies,15,2
+27,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Gregory,Q de Kock,16,2
+28,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Gregory,AL Davies,17,2
+29,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Gregory,Q de Kock,18,2
+30,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Gregory,AL Davies,20,2
+31,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Gregory,AL Davies,21,2
+32,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Gregory,Q de Kock,22,2
+33,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,24,2
+34,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,26,2
+35,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,27,2
+36,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,T Shamsi,AL Davies,28,2
+37,3,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,31,2
+38,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,33,2
+39,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SR Patel,Q de Kock,34,2
+40,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,SR Patel,AL Davies,35,2
+41,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SR Patel,Q de Kock,36,2
+42,6,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,SR Patel,AL Davies,42,2
+43,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,SR Patel,AL Davies,42,2
+44,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,DR Sams,Q de Kock,43,2
+45,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,DR Sams,AL Davies,43,2
+46,4,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,DR Sams,AL Davies,47,2
+47,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,DR Sams,AL Davies,48,2
+48,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,DR Sams,Q de Kock,50,2
+49,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,50,2
+50,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,52,2
+51,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,52,2
+52,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,52,2
+53,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,Q de Kock,52,2
+54,0,1,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,Q de Kock,L Gregory,AL Davies,52,3
+55,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,L Gregory,AL Davies,53,3
+56,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Gregory,RA Whiteley,53,3
+57,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Gregory,RA Whiteley,54,3
+58,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,L Gregory,AL Davies,56,3
+59,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,T Shamsi,AL Davies,57,3
+60,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,RA Whiteley,58,3
+61,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,T Shamsi,AL Davies,58,3
+62,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,T Shamsi,AL Davies,59,3
+63,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,RA Whiteley,60,3
+64,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Wood,RA Whiteley,61,3
+65,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,L Wood,AL Davies,62,3
+66,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Wood,RA Whiteley,63,3
+67,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,L Wood,AL Davies,64,3
+68,4,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Wood,RA Whiteley,68,3
+69,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Gregory,RA Whiteley,69,3
+70,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,L Gregory,AL Davies,70,3
+71,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Gregory,RA Whiteley,71,3
+72,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,L Gregory,AL Davies,72,3
+73,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,L Gregory,RA Whiteley,73,3
+74,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,RA Whiteley,74,3
+75,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,SJ Cook,AL Davies,75,3
+76,4,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,RA Whiteley,79,3
+77,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,RA Whiteley,80,3
+78,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,SJ Cook,AL Davies,80,3
+79,4,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,SJ Cook,AL Davies,84,3
+80,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,DR Sams,AL Davies,86,3
+81,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,DR Sams,AL Davies,88,3
+82,6,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,DR Sams,AL Davies,94,3
+83,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,DR Sams,AL Davies,95,3
+84,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,DR Sams,AL Davies,96,3
+85,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,DR Sams,RA Whiteley,98,3
+86,4,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,DR Sams,RA Whiteley,102,3
+87,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,DR Sams,RA Whiteley,103,3
+88,6,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,RA Whiteley,109,3
+89,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,RA Whiteley,110,3
+90,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,T Shamsi,AL Davies,111,3
+91,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,T Shamsi,AL Davies,113,3
+92,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,T Shamsi,AL Davies,114,3
+93,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,T Shamsi,RA Whiteley,116,3
+94,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,AL Davies,SJ Cook,RA Whiteley,117,3
+95,4,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,SJ Cook,AL Davies,121,3
+96,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,SJ Cook,AL Davies,123,3
+97,0,1,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,RA Whiteley,SJ Cook,AL Davies,123,4
+98,1,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,TH David,SJ Cook,AL Davies,124,4
+99,0,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,TH David,L Wood,AL Davies,124,4
+100,6,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,TH David,L Wood,AL Davies,130,4
+101,6,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,TH David,L Wood,AL Davies,136,4
+102,2,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,TH David,L Wood,AL Davies,138,4
+103,4,0,Southern Brave,2,2022,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Trent Rockets,TH David,L Wood,AL Davies,142,4

@@ -1,0 +1,209 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,F du Plessis,PR Stirling,A Lyth,1,0
+2,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,PR Stirling,F du Plessis,1,0
+3,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,PR Stirling,F du Plessis,2,0
+4,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,F du Plessis,PR Stirling,A Lyth,6,0
+5,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,F du Plessis,PR Stirling,A Lyth,7,0
+6,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,MG Hogan,F du Plessis,9,0
+7,6,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,MG Hogan,F du Plessis,15,0
+8,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,MG Hogan,F du Plessis,16,0
+9,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,F du Plessis,MG Hogan,A Lyth,17,0
+10,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,MG Hogan,F du Plessis,17,0
+11,0,1,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,F du Plessis,Rehan Ahmed,A Lyth,17,1
+12,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,A Lyth,17,1
+13,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,A Lyth,17,1
+14,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,A Lyth,17,1
+15,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,A Lyth,17,1
+16,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,PR Stirling,A Lyth,21,1
+17,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,PR Stirling,A Lyth,25,1
+18,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,PR Stirling,A Lyth,25,1
+19,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,PR Stirling,A Lyth,25,1
+20,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,PR Stirling,A Lyth,25,1
+21,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,Rehan Ahmed,DJ Willey,26,1
+22,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,A Lyth,30,1
+23,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,A Lyth,31,1
+24,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,Rehan Ahmed,DJ Willey,32,1
+25,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,A Lyth,33,1
+26,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,JB Lintott,DJ Willey,34,1
+27,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,JB Lintott,A Lyth,35,1
+28,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,JB Lintott,DJ Willey,36,1
+29,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,JB Lintott,A Lyth,40,1
+30,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,JB Lintott,A Lyth,41,1
+31,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,JK Fuller,A Lyth,42,1
+32,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,JK Fuller,DJ Willey,43,1
+33,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,JK Fuller,A Lyth,44,1
+34,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,JK Fuller,DJ Willey,45,1
+35,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,JK Fuller,DJ Willey,47,1
+36,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,JK Fuller,DJ Willey,48,1
+37,0,1,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,DJ Willey,PR Stirling,A Lyth,48,2
+38,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,PR Stirling,A Lyth,49,2
+39,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,PR Stirling,HC Brook,49,2
+40,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,PR Stirling,HC Brook,50,2
+41,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,PR Stirling,HC Brook,50,2
+42,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,PR Stirling,HC Brook,51,2
+43,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,JB Lintott,HC Brook,52,2
+44,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JB Lintott,A Lyth,56,2
+45,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JB Lintott,A Lyth,57,2
+46,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,JB Lintott,HC Brook,58,2
+47,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JB Lintott,A Lyth,62,2
+48,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,S Baker,A Lyth,64,2
+49,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,S Baker,A Lyth,65,2
+50,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,S Baker,HC Brook,65,2
+51,0,1,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,A Lyth,S Baker,HC Brook,65,3
+52,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,S Baker,HC Brook,66,3
+53,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,Rehan Ahmed,HC Brook,66,3
+54,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,Rehan Ahmed,HC Brook,67,3
+55,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,Rehan Ahmed,AJ Hose,68,3
+56,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,Rehan Ahmed,HC Brook,69,3
+57,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,Rehan Ahmed,AJ Hose,71,3
+58,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JK Fuller,AJ Hose,73,3
+59,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JK Fuller,AJ Hose,74,3
+60,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,JK Fuller,HC Brook,75,3
+61,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JK Fuller,AJ Hose,79,3
+62,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JK Fuller,AJ Hose,79,3
+63,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JK Fuller,AJ Hose,79,3
+64,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,JB Lintott,HC Brook,80,3
+65,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JB Lintott,AJ Hose,81,3
+66,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,JB Lintott,HC Brook,82,3
+67,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,JB Lintott,AJ Hose,83,3
+68,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,JB Lintott,HC Brook,84,3
+69,6,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,S Baker,AJ Hose,90,3
+70,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,S Baker,AJ Hose,91,3
+71,0,1,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,HC Brook,S Baker,AJ Hose,91,4
+72,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,MS Pepper,S Baker,AJ Hose,92,4
+73,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,S Baker,MS Pepper,93,4
+74,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,MS Pepper,S Baker,AJ Hose,97,4
+75,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,Rehan Ahmed,MS Pepper,98,4
+76,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,MS Pepper,Rehan Ahmed,AJ Hose,99,4
+77,0,1,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AJ Hose,Rehan Ahmed,MS Pepper,99,5
+78,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,D Wiese,Rehan Ahmed,MS Pepper,100,5
+79,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,MS Pepper,Rehan Ahmed,D Wiese,104,5
+80,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,MS Pepper,JK Fuller,D Wiese,104,5
+81,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,MS Pepper,JK Fuller,D Wiese,105,5
+82,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,D Wiese,JK Fuller,MS Pepper,105,5
+83,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,D Wiese,JK Fuller,MS Pepper,109,5
+84,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,D Wiese,JK Fuller,MS Pepper,109,5
+85,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,MS Pepper,JB Lintott,D Wiese,111,5
+86,0,1,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,MS Pepper,JB Lintott,D Wiese,111,6
+87,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,JB Lintott,D Wiese,111,6
+88,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,JB Lintott,D Wiese,111,6
+89,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,JB Lintott,D Wiese,112,6
+90,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,D Wiese,S Baker,WD Parnell,113,6
+91,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,S Baker,D Wiese,114,6
+92,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,D Wiese,S Baker,WD Parnell,115,6
+93,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,S Baker,D Wiese,116,6
+94,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,S Baker,D Wiese,117,6
+95,6,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,D Wiese,S Baker,WD Parnell,123,6
+96,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,JK Fuller,D Wiese,124,6
+97,0,1,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,D Wiese,JK Fuller,WD Parnell,124,7
+98,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AU Rashid,JK Fuller,WD Parnell,124,7
+99,0,1,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,AU Rashid,JK Fuller,WD Parnell,124,8
+100,0,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,CN Miles,JK Fuller,WD Parnell,124,8
+101,1,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,CN Miles,MG Hogan,WD Parnell,125,8
+102,4,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,MG Hogan,CN Miles,129,8
+103,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,MG Hogan,CN Miles,131,8
+104,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,MG Hogan,CN Miles,133,8
+105,2,0,Northern Superchargers,1,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Southern Brave,WD Parnell,MG Hogan,CN Miles,135,8
+1,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,PR Stirling,DJ Willey,Q de Kock,0,0
+2,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,PR Stirling,DJ Willey,Q de Kock,4,0
+3,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,PR Stirling,DJ Willey,Q de Kock,5,0
+4,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Q de Kock,DJ Willey,PR Stirling,5,0
+5,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Q de Kock,DJ Willey,PR Stirling,5,0
+6,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Q de Kock,CF Parkinson,PR Stirling,5,0
+7,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Q de Kock,CF Parkinson,PR Stirling,9,0
+8,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Q de Kock,CF Parkinson,PR Stirling,10,0
+9,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Q de Kock,CF Parkinson,PR Stirling,14,0
+10,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Q de Kock,CF Parkinson,PR Stirling,14,1
+11,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,CF Parkinson,PR Stirling,15,1
+12,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,WD Parnell,PR Stirling,15,1
+13,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,WD Parnell,PR Stirling,16,1
+14,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,PR Stirling,WD Parnell,JM Vince,16,1
+15,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,PR Stirling,WD Parnell,JM Vince,16,2
+16,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,AL Davies,WD Parnell,JM Vince,17,2
+17,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,DJ Willey,AL Davies,17,2
+18,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,DJ Willey,AL Davies,19,2
+19,6,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,DJ Willey,AL Davies,25,2
+20,3,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,DJ Willey,AL Davies,28,2
+21,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,AL Davies,DJ Willey,JM Vince,29,2
+22,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,AL Davies,WD Parnell,JM Vince,29,3
+23,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,WD Parnell,JM Vince,29,3
+24,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,WD Parnell,JM Vince,33,3
+25,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,WD Parnell,JM Vince,34,3
+26,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,WD Parnell,Rehan Ahmed,34,3
+27,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JM Vince,CF Parkinson,Rehan Ahmed,34,4
+28,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,CF Parkinson,Rehan Ahmed,36,4
+29,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,CF Parkinson,Rehan Ahmed,37,4
+30,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CF Parkinson,RA Whiteley,38,4
+31,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,CF Parkinson,Rehan Ahmed,38,4
+32,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,RA Whiteley,39,4
+33,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,AU Rashid,Rehan Ahmed,40,4
+34,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,RA Whiteley,41,4
+35,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,AU Rashid,Rehan Ahmed,42,4
+36,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,RA Whiteley,42,4
+37,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CN Miles,RA Whiteley,42,4
+38,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CN Miles,RA Whiteley,43,4
+39,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CN Miles,RA Whiteley,47,4
+40,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CN Miles,RA Whiteley,49,4
+41,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CN Miles,RA Whiteley,49,4
+42,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CN Miles,RA Whiteley,51,4
+43,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CN Miles,RA Whiteley,52,4
+44,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CF Parkinson,RA Whiteley,52,4
+45,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CF Parkinson,RA Whiteley,53,4
+46,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,CF Parkinson,Rehan Ahmed,55,4
+47,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,CF Parkinson,Rehan Ahmed,57,4
+48,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,CF Parkinson,Rehan Ahmed,58,4
+49,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,RA Whiteley,59,4
+50,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,AU Rashid,Rehan Ahmed,60,4
+51,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,RA Whiteley,61,4
+52,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,RA Whiteley,AU Rashid,Rehan Ahmed,61,5
+53,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,TH David,AU Rashid,Rehan Ahmed,61,5
+54,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,TH David,65,5
+55,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,TH David,66,5
+56,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,TH David,AU Rashid,Rehan Ahmed,70,5
+57,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,TH David,AU Rashid,Rehan Ahmed,71,5
+58,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,TH David,72,5
+59,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,TH David,D Wiese,Rehan Ahmed,76,5
+60,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,TH David,D Wiese,Rehan Ahmed,76,6
+61,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,Rehan Ahmed,76,6
+62,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,Rehan Ahmed,76,6
+63,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,Rehan Ahmed,77,6
+64,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,CF Parkinson,Rehan Ahmed,77,6
+65,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,CF Parkinson,Rehan Ahmed,77,6
+66,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,CF Parkinson,Rehan Ahmed,78,6
+67,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CF Parkinson,JK Fuller,78,6
+68,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,CF Parkinson,JK Fuller,79,6
+69,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,DJ Willey,Rehan Ahmed,81,6
+70,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,DJ Willey,Rehan Ahmed,85,6
+71,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,DJ Willey,Rehan Ahmed,86,6
+72,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,DJ Willey,JK Fuller,90,6
+73,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,DJ Willey,JK Fuller,90,6
+74,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,AU Rashid,Rehan Ahmed,90,6
+75,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,AU Rashid,Rehan Ahmed,91,6
+76,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,AU Rashid,JK Fuller,92,6
+77,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,AU Rashid,Rehan Ahmed,92,6
+78,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,AU Rashid,Rehan Ahmed,92,6
+79,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,Rehan Ahmed,96,6
+80,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,Rehan Ahmed,97,6
+81,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,D Wiese,JK Fuller,98,6
+82,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,Rehan Ahmed,100,6
+83,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,Rehan Ahmed,102,6
+84,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,WD Parnell,JK Fuller,104,6
+85,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,WD Parnell,JK Fuller,104,6
+86,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,Rehan Ahmed,WD Parnell,JK Fuller,104,7
+87,2,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JB Lintott,WD Parnell,JK Fuller,106,7
+88,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JB Lintott,WD Parnell,JK Fuller,107,7
+89,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,JB Lintott,108,7
+90,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JB Lintott,D Wiese,JK Fuller,109,7
+91,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,D Wiese,JB Lintott,110,7
+92,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JB Lintott,D Wiese,JK Fuller,110,7
+93,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JB Lintott,D Wiese,JK Fuller,110,7
+94,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,WD Parnell,JB Lintott,110,7
+95,0,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,WD Parnell,JB Lintott,110,7
+96,4,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,WD Parnell,JB Lintott,114,7
+97,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JK Fuller,WD Parnell,JB Lintott,114,8
+98,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,S Baker,WD Parnell,JB Lintott,115,8
+99,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JB Lintott,DJ Willey,S Baker,116,8
+100,0,1,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,S Baker,DJ Willey,JB Lintott,116,9
+101,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,MG Hogan,DJ Willey,JB Lintott,117,9
+102,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,JB Lintott,DJ Willey,MG Hogan,118,9
+103,1,0,Southern Brave,2,2022,male,Northern Superchargers,16 runs,"Headingley, Leeds",Southern Brave,field,Northern Superchargers,MG Hogan,DJ Willey,JB Lintott,119,9

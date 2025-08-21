@@ -1,0 +1,209 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,1,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,A Lyth,L Wood,F du Plessis,0,1
+2,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,F du Plessis,1,1
+3,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,F du Plessis,2,1
+4,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,F du Plessis,3,1
+5,6,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,F du Plessis,9,1
+6,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,F du Plessis,9,1
+7,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,F du Plessis,9,1
+8,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,F du Plessis,13,1
+9,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,DR Sams,F du Plessis,14,1
+10,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,F du Plessis,DR Sams,MS Pepper,14,1
+11,0,1,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,F du Plessis,DR Sams,MS Pepper,14,2
+12,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,DR Sams,MS Pepper,15,2
+13,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,DR Sams,DJ Bravo,15,2
+14,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,L Gregory,MS Pepper,19,2
+15,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,L Gregory,MS Pepper,23,2
+16,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,L Gregory,MS Pepper,23,2
+17,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,L Gregory,MS Pepper,24,2
+18,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Gregory,DJ Bravo,24,2
+19,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,DJ Bravo,24,2
+20,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,DJ Bravo,28,2
+21,0,1,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,MS Pepper,L Wood,DJ Bravo,28,3
+22,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,L Wood,DJ Bravo,28,3
+23,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,L Wood,DJ Bravo,28,3
+24,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,DR Sams,JA Simpson,29,3
+25,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,DR Sams,DJ Bravo,30,3
+26,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,DR Sams,JA Simpson,34,3
+27,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,DR Sams,JA Simpson,34,3
+28,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,DR Sams,JA Simpson,35,3
+29,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,LJ Fletcher,DJ Bravo,36,3
+30,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,LJ Fletcher,JA Simpson,37,3
+31,2,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,LJ Fletcher,JA Simpson,39,3
+32,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,LJ Fletcher,JA Simpson,40,3
+33,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,LJ Fletcher,DJ Bravo,41,3
+34,0,1,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,DJ Bravo,LJ Fletcher,JA Simpson,41,4
+35,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,T Shamsi,AJ Hose,41,4
+36,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,T Shamsi,AJ Hose,42,4
+37,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,T Shamsi,JA Simpson,43,4
+38,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,T Shamsi,AJ Hose,43,4
+39,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,T Shamsi,AJ Hose,44,4
+40,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,T Shamsi,JA Simpson,44,4
+41,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,T Shamsi,JA Simpson,45,4
+42,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,T Shamsi,AJ Hose,49,4
+43,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,T Shamsi,AJ Hose,50,4
+44,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,T Shamsi,JA Simpson,51,4
+45,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,L Gregory,JA Simpson,52,4
+46,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,L Gregory,AJ Hose,53,4
+47,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,L Gregory,JA Simpson,57,4
+48,2,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,L Gregory,JA Simpson,59,4
+49,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,L Gregory,JA Simpson,60,4
+50,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,LJ Fletcher,AJ Hose,60,4
+51,0,1,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,JA Simpson,LJ Fletcher,AJ Hose,60,5
+52,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,LJ Fletcher,AJ Hose,61,5
+53,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,LJ Fletcher,RE van der Merwe,62,5
+54,2,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,LJ Fletcher,AJ Hose,64,5
+55,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,LJ Fletcher,AJ Hose,65,5
+56,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,AJ Hose,66,5
+57,2,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,SR Patel,RE van der Merwe,68,5
+58,0,1,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,AJ Hose,SR Patel,RE van der Merwe,68,6
+59,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,69,6
+60,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,D Wiese,70,6
+61,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,71,6
+62,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,D Wiese,72,6
+63,6,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,78,6
+64,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,78,6
+65,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,78,6
+66,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,T Shamsi,D Wiese,79,6
+67,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,T Shamsi,RE van der Merwe,80,6
+68,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,T Shamsi,D Wiese,81,6
+69,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,T Shamsi,RE van der Merwe,82,6
+70,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,T Shamsi,D Wiese,83,6
+71,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,84,6
+72,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,D Wiese,85,6
+73,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,86,6
+74,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,D Wiese,86,6
+75,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,D Wiese,87,6
+76,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,D Wiese,88,6
+77,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,88,6
+78,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,89,6
+79,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,D Wiese,90,6
+80,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,SR Patel,D Wiese,91,6
+81,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,92,6
+82,6,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,SR Patel,RE van der Merwe,98,6
+83,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,LJ Fletcher,RE van der Merwe,99,6
+84,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,LJ Fletcher,D Wiese,103,6
+85,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,LJ Fletcher,D Wiese,104,6
+86,2,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,LJ Fletcher,RE van der Merwe,106,6
+87,2,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,LJ Fletcher,RE van der Merwe,108,6
+88,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,LJ Fletcher,RE van der Merwe,109,6
+89,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,T Shamsi,RE van der Merwe,109,6
+90,6,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,T Shamsi,RE van der Merwe,115,6
+91,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,T Shamsi,RE van der Merwe,115,6
+92,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,T Shamsi,RE van der Merwe,116,6
+93,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,T Shamsi,D Wiese,117,6
+94,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,DR Sams,RE van der Merwe,121,6
+95,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,DR Sams,RE van der Merwe,122,6
+96,2,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,DR Sams,D Wiese,124,6
+97,6,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,DR Sams,D Wiese,130,6
+98,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,DR Sams,D Wiese,131,6
+99,2,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,L Wood,D Wiese,133,6
+100,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,L Wood,D Wiese,134,6
+101,4,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,L Wood,RE van der Merwe,138,6
+102,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,L Wood,RE van der Merwe,138,6
+103,6,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,L Wood,RE van der Merwe,144,6
+104,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,DR Sams,RE van der Merwe,145,6
+105,6,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,DR Sams,RE van der Merwe,151,6
+106,0,1,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,D Wiese,DR Sams,RE van der Merwe,151,7
+107,1,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,BA Raine,DR Sams,RE van der Merwe,152,7
+108,0,0,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,DR Sams,BA Raine,152,7
+109,0,1,Northern Superchargers,1,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Trent Rockets,RE van der Merwe,DR Sams,BA Raine,152,8
+1,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,MJ Potts,DJ Malan,0,0
+2,2,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,MJ Potts,DJ Malan,2,0
+3,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,AD Hales,6,0
+4,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,AD Hales,10,0
+5,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,AD Hales,11,0
+6,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,MJ Potts,DJ Malan,12,0
+7,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,D Wiese,AD Hales,12,0
+8,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,D Wiese,AD Hales,12,0
+9,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,D Wiese,AD Hales,13,0
+10,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,D Wiese,DJ Malan,13,0
+11,6,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,D Wiese,DJ Malan,19,0
+12,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,RE van der Merwe,AD Hales,20,0
+13,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,RE van der Merwe,DJ Malan,24,0
+14,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,RE van der Merwe,DJ Malan,28,0
+15,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,RE van der Merwe,DJ Malan,29,0
+16,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,RE van der Merwe,AD Hales,29,0
+17,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,AD Hales,30,0
+18,2,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,DJ Bravo,DJ Malan,32,0
+19,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,DJ Bravo,DJ Malan,32,0
+20,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,DJ Bravo,DJ Malan,33,0
+21,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,AD Hales,34,0
+22,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,AD Hales,38,0
+23,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,AD Hales,39,0
+24,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,BA Raine,DJ Malan,40,0
+25,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,AD Hales,40,0
+26,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,AD Hales,41,0
+27,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,AU Rashid,DJ Malan,42,0
+28,6,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,AU Rashid,AD Hales,48,0
+29,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,AU Rashid,AD Hales,49,0
+30,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,AU Rashid,DJ Malan,50,0
+31,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,AU Rashid,AD Hales,51,0
+32,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,RE van der Merwe,AD Hales,52,0
+33,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,RE van der Merwe,DJ Malan,52,0
+34,6,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,RE van der Merwe,DJ Malan,58,0
+35,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,RE van der Merwe,DJ Malan,59,0
+36,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,RE van der Merwe,AD Hales,60,0
+37,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,AU Rashid,DJ Malan,61,0
+38,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,AU Rashid,AD Hales,62,0
+39,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,AU Rashid,DJ Malan,62,0
+40,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,AU Rashid,DJ Malan,63,0
+41,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,AU Rashid,AD Hales,67,0
+42,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,BA Raine,DJ Malan,68,0
+43,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,AD Hales,72,0
+44,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,AD Hales,72,0
+45,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,AD Hales,72,0
+46,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,AD Hales,73,0
+47,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,D Wiese,DJ Malan,73,0
+48,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,D Wiese,DJ Malan,77,0
+49,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,D Wiese,DJ Malan,81,0
+50,2,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,D Wiese,DJ Malan,83,0
+51,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,D Wiese,DJ Malan,84,0
+52,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,AU Rashid,DJ Malan,85,0
+53,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,AU Rashid,AD Hales,86,0
+54,0,1,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,AD Hales,AU Rashid,DJ Malan,86,1
+55,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,T Kohler-Cadmore,AU Rashid,DJ Malan,86,1
+56,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,T Kohler-Cadmore,AU Rashid,DJ Malan,87,1
+57,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,T Kohler-Cadmore,87,1
+58,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,T Kohler-Cadmore,87,1
+59,2,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,T Kohler-Cadmore,89,1
+60,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,T Kohler-Cadmore,89,1
+61,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,T Kohler-Cadmore,90,1
+62,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,T Kohler-Cadmore,91,1
+63,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,T Kohler-Cadmore,92,1
+64,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,T Kohler-Cadmore,BA Raine,DJ Malan,93,1
+65,0,1,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,T Kohler-Cadmore,BA Raine,DJ Malan,93,2
+66,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,BA Raine,DJ Malan,94,2
+67,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,BA Raine,DJ Malan,95,2
+68,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,C Munro,95,2
+69,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,C Munro,99,2
+70,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,100,2
+71,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,DJ Bravo,DJ Malan,101,2
+72,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,102,2
+73,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,DJ Bravo,DJ Malan,103,2
+74,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,107,2
+75,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,AU Rashid,DJ Malan,108,2
+76,6,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,AU Rashid,C Munro,114,2
+77,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,AU Rashid,C Munro,115,2
+78,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,AU Rashid,DJ Malan,115,2
+79,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,AU Rashid,DJ Malan,116,2
+80,6,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,C Munro,122,2
+81,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,MJ Potts,C Munro,123,2
+82,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,MJ Potts,DJ Malan,127,2
+83,2,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,MJ Potts,DJ Malan,129,2
+84,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,MJ Potts,DJ Malan,130,2
+85,0,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,DJ Bravo,DJ Malan,130,2
+86,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,DJ Bravo,DJ Malan,131,2
+87,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,132,2
+88,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,136,2
+89,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,137,2
+90,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,DJ Bravo,DJ Malan,138,2
+91,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,142,2
+92,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,143,2
+93,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,DJ Bravo,DJ Malan,144,2
+94,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,DJ Bravo,C Munro,145,2
+95,0,1,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,C Munro,DJ Bravo,DJ Malan,145,3
+96,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,L Gregory,149,3
+97,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,L Gregory,150,3
+98,1,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,L Gregory,BA Raine,DJ Malan,151,3
+99,4,0,Trent Rockets,2,2022,male,Trent Rockets,7 wickets,"Headingley, Leeds",Trent Rockets,field,Northern Superchargers,DJ Malan,BA Raine,L Gregory,155,3

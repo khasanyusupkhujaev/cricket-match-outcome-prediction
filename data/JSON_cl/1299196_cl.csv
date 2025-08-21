@@ -1,0 +1,194 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,DJ Willey,T Banton,0,0
+2,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,DJ Willey,T Banton,2,0
+3,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,DJ Willey,T Banton,2,0
+4,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,DJ Willey,T Banton,2,0
+5,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,DJ Willey,T Banton,2,0
+6,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,DJ Willey,T Banton,2,0
+7,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,DJ Willey,T Banton,2,0
+8,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,DJ Willey,T Banton,3,0
+9,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,DJ Willey,JM Clarke,3,0
+10,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,DJ Willey,JM Clarke,4,0
+11,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,WD Parnell,JM Clarke,4,0
+12,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,WD Parnell,JM Clarke,6,0
+13,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,WD Parnell,JM Clarke,6,0
+14,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,WD Parnell,JM Clarke,6,0
+15,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,WD Parnell,JM Clarke,7,0
+16,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,CN Miles,T Banton,8,0
+17,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,CN Miles,JM Clarke,10,0
+18,0,1,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,T Banton,CN Miles,JM Clarke,10,1
+19,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,JM Clarke,14,1
+20,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,JM Clarke,14,1
+21,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,WD Parnell,BM Duckett,14,1
+22,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,WD Parnell,BM Duckett,14,1
+23,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,WD Parnell,BM Duckett,18,1
+24,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,WD Parnell,BM Duckett,18,1
+25,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,WD Parnell,BM Duckett,22,1
+26,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,AU Rashid,BM Duckett,23,1
+27,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,JM Clarke,23,1
+28,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,JM Clarke,25,1
+29,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,JM Clarke,25,1
+30,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,JM Clarke,26,1
+31,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JM Clarke,27,1
+32,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,D Wiese,BM Duckett,28,1
+33,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JM Clarke,29,1
+34,0,1,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JM Clarke,D Wiese,BM Duckett,29,2
+35,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,MJJ Critchley,D Wiese,BM Duckett,30,2
+36,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,MJJ Critchley,30,2
+37,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,MJJ Critchley,31,2
+38,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,MJJ Critchley,CN Miles,BM Duckett,32,2
+39,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,MJJ Critchley,36,2
+40,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,MJJ Critchley,37,2
+41,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,MJJ Critchley,39,2
+42,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,MJJ Critchley,41,2
+43,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,MJJ Critchley,42,2
+44,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,MJJ Critchley,AU Rashid,BM Duckett,43,2
+45,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,MJJ Critchley,44,2
+46,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,MJJ Critchley,AU Rashid,BM Duckett,44,2
+47,0,1,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,MJJ Critchley,AU Rashid,BM Duckett,44,3
+48,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,DA Miller,AU Rashid,BM Duckett,44,3
+49,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,DA Miller,AU Rashid,BM Duckett,44,3
+50,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,DA Miller,AU Rashid,BM Duckett,45,3
+51,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,DA Miller,D Wiese,BM Duckett,46,3
+52,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,DA Miller,46,3
+53,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,DA Miller,50,3
+54,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,DA Miller,51,3
+55,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,DA Miller,D Wiese,BM Duckett,52,3
+56,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,DA Miller,53,3
+57,0,1,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,DA Miller,CN Miles,BM Duckett,53,4
+58,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,CN Miles,BM Duckett,55,4
+59,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,CN Miles,BM Duckett,56,4
+60,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,JL du Plooy,57,4
+61,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,JL du Plooy,57,4
+62,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,JL du Plooy,58,4
+63,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,JL du Plooy,58,4
+64,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,AU Rashid,JL du Plooy,59,4
+65,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,AU Rashid,BM Duckett,61,4
+66,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,AU Rashid,BM Duckett,62,4
+67,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JL du Plooy,63,4
+68,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,D Wiese,BM Duckett,65,4
+69,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,D Wiese,BM Duckett,66,4
+70,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JL du Plooy,66,4
+71,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JL du Plooy,67,4
+72,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,JL du Plooy,68,4
+73,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,CN Miles,BM Duckett,69,4
+74,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,JL du Plooy,73,4
+75,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,JL du Plooy,77,4
+76,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,CN Miles,JL du Plooy,79,4
+77,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,WD Parnell,JL du Plooy,80,4
+78,6,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,WD Parnell,BM Duckett,86,4
+79,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,WD Parnell,BM Duckett,86,4
+80,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,WD Parnell,BM Duckett,87,4
+81,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,WD Parnell,JL du Plooy,87,4
+82,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,DJ Willey,BM Duckett,88,4
+83,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,DJ Willey,JL du Plooy,89,4
+84,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,DJ Willey,BM Duckett,90,4
+85,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,DJ Willey,JL du Plooy,90,4
+86,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,DJ Willey,JL du Plooy,90,4
+87,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JL du Plooy,90,4
+88,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JL du Plooy,91,4
+89,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,D Wiese,BM Duckett,92,4
+90,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JL du Plooy,96,4
+91,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,D Wiese,JL du Plooy,97,4
+92,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,DJ Willey,JL du Plooy,101,4
+93,4,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,DJ Willey,JL du Plooy,105,4
+94,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,DJ Willey,JL du Plooy,106,4
+95,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,DJ Willey,BM Duckett,107,4
+96,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,DJ Willey,JL du Plooy,108,4
+97,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,JL du Plooy,WD Parnell,BM Duckett,109,4
+98,0,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,WD Parnell,JL du Plooy,109,4
+99,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,WD Parnell,JL du Plooy,111,4
+100,2,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,WD Parnell,JL du Plooy,113,4
+101,1,0,Welsh Fire,1,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Northern Superchargers,BM Duckett,WD Parnell,JL du Plooy,114,4
+1,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,DA Payne,F du Plessis,1,0
+2,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,DA Payne,A Lyth,5,0
+3,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,DA Payne,A Lyth,6,0
+4,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,DA Payne,F du Plessis,6,0
+5,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,DA Payne,F du Plessis,8,0
+6,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,JT Ball,F du Plessis,8,0
+7,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,JT Ball,F du Plessis,12,0
+8,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,JT Ball,F du Plessis,18,0
+9,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,JT Ball,F du Plessis,19,0
+10,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,JT Ball,A Lyth,19,0
+11,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,D Pretorius,F du Plessis,23,0
+12,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,D Pretorius,F du Plessis,27,0
+13,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,D Pretorius,F du Plessis,27,0
+14,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,D Pretorius,F du Plessis,28,0
+15,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,D Pretorius,A Lyth,29,0
+16,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,DA Payne,F du Plessis,29,0
+17,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,DA Payne,F du Plessis,30,0
+18,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,DA Payne,A Lyth,31,0
+19,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,DA Payne,F du Plessis,31,0
+20,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,DA Payne,F du Plessis,32,0
+21,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,JT Ball,F du Plessis,36,0
+22,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,JT Ball,F du Plessis,37,0
+23,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,JT Ball,A Lyth,37,0
+24,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,JT Ball,A Lyth,38,0
+25,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,JT Ball,F du Plessis,42,0
+26,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,42,0
+27,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,42,0
+28,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,42,0
+29,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,43,0
+30,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,IS Sodhi,A Lyth,45,0
+31,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,D Pretorius,F du Plessis,51,0
+32,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,D Pretorius,F du Plessis,53,0
+33,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,D Pretorius,F du Plessis,54,0
+34,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,D Pretorius,A Lyth,55,0
+35,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,D Pretorius,F du Plessis,55,0
+36,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,56,0
+37,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,IS Sodhi,A Lyth,56,0
+38,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,IS Sodhi,A Lyth,57,0
+39,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,57,0
+40,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,57,0
+41,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,JJ Cobb,A Lyth,58,0
+42,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,JJ Cobb,F du Plessis,59,0
+43,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,JJ Cobb,A Lyth,59,0
+44,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,JJ Cobb,A Lyth,63,0
+45,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,JJ Cobb,A Lyth,69,0
+46,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,MJJ Critchley,A Lyth,69,0
+47,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,MJJ Critchley,A Lyth,73,0
+48,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,MJJ Critchley,A Lyth,74,0
+49,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,MJJ Critchley,F du Plessis,75,0
+50,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,MJJ Critchley,A Lyth,75,0
+51,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,75,0
+52,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,75,0
+53,0,1,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,A Lyth,IS Sodhi,F du Plessis,75,1
+54,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,IS Sodhi,F du Plessis,76,1
+55,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,IS Sodhi,HC Brook,76,1
+56,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,IS Sodhi,HC Brook,78,1
+57,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,IS Sodhi,HC Brook,84,1
+58,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,IS Sodhi,HC Brook,84,1
+59,0,1,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,F du Plessis,IS Sodhi,HC Brook,84,2
+60,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,IS Sodhi,HC Brook,84,2
+61,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,MJJ Critchley,D Wiese,85,2
+62,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,MJJ Critchley,HC Brook,85,2
+63,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,MJJ Critchley,HC Brook,86,2
+64,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,MJJ Critchley,D Wiese,86,2
+65,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,MJJ Critchley,D Wiese,86,2
+66,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,MJJ Critchley,D Wiese,87,2
+67,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,MJJ Critchley,HC Brook,88,2
+68,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,MJJ Critchley,D Wiese,89,2
+69,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,MJJ Critchley,HC Brook,90,2
+70,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,MJJ Critchley,D Wiese,92,2
+71,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,JT Ball,HC Brook,93,2
+72,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,JT Ball,D Wiese,93,2
+73,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,JT Ball,D Wiese,94,2
+74,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,JT Ball,HC Brook,96,2
+75,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,JT Ball,HC Brook,97,2
+76,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,JT Ball,D Wiese,98,2
+77,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,DA Payne,HC Brook,104,2
+78,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,DA Payne,HC Brook,104,2
+79,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,DA Payne,HC Brook,106,2
+80,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,DA Payne,HC Brook,107,2
+81,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,HC Brook,DA Payne,D Wiese,107,2
+82,0,1,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,D Wiese,MJJ Critchley,HC Brook,107,3
+83,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,AJ Hose,MJJ Critchley,HC Brook,107,3
+84,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,AJ Hose,MJJ Critchley,HC Brook,111,3
+85,0,1,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,AJ Hose,MJJ Critchley,HC Brook,111,4
+86,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,DJ Willey,MJJ Critchley,HC Brook,111,4
+87,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,DJ Willey,JT Ball,HC Brook,111,4
+88,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,DJ Willey,JT Ball,HC Brook,111,4
+89,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,DJ Willey,JT Ball,HC Brook,111,4
+90,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,DJ Willey,JT Ball,HC Brook,111,4
+91,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,DJ Willey,JT Ball,HC Brook,112,4
+92,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Sophia Gardens, Cardiff",Welsh Fire,bat,Welsh Fire,DJ Willey,DA Payne,HC Brook,116,4

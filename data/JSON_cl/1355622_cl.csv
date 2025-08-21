@@ -1,0 +1,164 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,JM Bairstow,0,0
+2,4,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,JM Bairstow,4,0
+3,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,JM Bairstow,5,0
+4,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Bairstow,MD Fisher,SS Eskinazi,5,0
+5,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Bairstow,MD Fisher,SS Eskinazi,5,0
+6,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Bairstow,C Overton,SS Eskinazi,5,0
+7,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Bairstow,C Overton,SS Eskinazi,5,1
+8,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,C Overton,SS Eskinazi,5,1
+9,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,C Overton,SS Eskinazi,5,1
+10,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,C Overton,SS Eskinazi,5,1
+11,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,GHS Garton,JM Clarke,6,1
+12,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,GHS Garton,SS Eskinazi,6,2
+13,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,TB Abell,GHS Garton,SS Eskinazi,6,2
+14,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,TB Abell,GHS Garton,SS Eskinazi,6,2
+15,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,TB Abell,GHS Garton,SS Eskinazi,6,2
+16,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,TB Abell,MD Fisher,SS Eskinazi,7,2
+17,4,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,TB Abell,11,2
+18,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,TB Abell,12,2
+19,4,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,TB Abell,16,2
+20,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,TB Abell,16,2
+21,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,TB Abell,16,2
+22,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,TB Abell,C Overton,SS Eskinazi,16,3
+23,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,C Overton,SS Eskinazi,17,3
+24,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,C Overton,SS Eskinazi,17,3
+25,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,C Overton,SS Eskinazi,17,3
+26,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,C Overton,SS Eskinazi,17,3
+27,4,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,C Overton,SS Eskinazi,21,3
+28,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,MD Fisher,SS Eskinazi,22,3
+29,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,MD Fisher,SS Eskinazi,22,3
+30,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,MD Fisher,SS Eskinazi,22,3
+31,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,MD Fisher,SS Eskinazi,23,3
+32,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,MD Fisher,GD Phillips,24,3
+33,4,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,MD Fisher,SS Eskinazi,28,3
+34,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,C Overton,GD Phillips,28,3
+35,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,C Overton,GD Phillips,28,3
+36,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,C Overton,GD Phillips,29,3
+37,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,C Overton,SS Eskinazi,30,3
+38,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,C Overton,GD Phillips,30,3
+39,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,JK Fuller,GD Phillips,31,3
+40,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,JK Fuller,SS Eskinazi,32,3
+41,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,JK Fuller,GD Phillips,32,3
+42,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,JK Fuller,GD Phillips,33,3
+43,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,JK Fuller,SS Eskinazi,34,3
+44,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GD Phillips,TS Mills,SS Eskinazi,34,4
+45,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,TS Mills,SS Eskinazi,35,4
+46,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,TS Mills,DJ Willey,36,4
+47,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,TS Mills,SS Eskinazi,37,4
+48,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,TS Mills,DJ Willey,38,4
+49,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,C Overton,SS Eskinazi,38,4
+50,2,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,C Overton,SS Eskinazi,40,4
+51,2,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,C Overton,SS Eskinazi,42,4
+52,4,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,C Overton,SS Eskinazi,46,4
+53,4,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,C Overton,SS Eskinazi,50,4
+54,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,DJ Willey,51,4
+55,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,SS Eskinazi,52,4
+56,2,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,DJ Willey,54,4
+57,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,DJ Willey,55,4
+58,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,Rehan Ahmed,SS Eskinazi,55,4
+59,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,JK Fuller,SS Eskinazi,55,4
+60,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,JK Fuller,SS Eskinazi,56,4
+61,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,JK Fuller,DJ Willey,57,4
+62,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,JK Fuller,SS Eskinazi,57,4
+63,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,JK Fuller,SS Eskinazi,58,4
+64,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DJ Willey,GHS Garton,SS Eskinazi,58,5
+65,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,GHS Garton,SS Eskinazi,59,5
+66,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,GHS Garton,BGF Green,60,5
+67,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,GHS Garton,SS Eskinazi,60,5
+68,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,GHS Garton,SS Eskinazi,60,5
+69,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,TS Mills,SS Eskinazi,60,5
+70,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,TS Mills,SS Eskinazi,60,5
+71,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,TS Mills,SS Eskinazi,60,5
+72,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,TS Mills,SS Eskinazi,61,5
+73,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,TS Mills,BGF Green,62,5
+74,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,BGF Green,63,5
+75,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,Rehan Ahmed,SS Eskinazi,64,5
+76,2,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,BGF Green,66,5
+77,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,BGF Green,67,5
+78,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,Rehan Ahmed,SS Eskinazi,67,5
+79,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,Rehan Ahmed,SS Eskinazi,68,5
+80,2,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,BGF Green,70,5
+81,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,BGF Green,71,5
+82,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,Rehan Ahmed,SS Eskinazi,72,5
+83,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,Rehan Ahmed,BGF Green,73,5
+84,2,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,GHS Garton,BGF Green,75,5
+85,2,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,GHS Garton,BGF Green,77,5
+86,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,GHS Garton,BGF Green,77,5
+87,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,SS Eskinazi,GHS Garton,BGF Green,77,6
+88,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,RE van der Merwe,GHS Garton,BGF Green,78,6
+89,2,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,TS Mills,RE van der Merwe,80,6
+90,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,TS Mills,RE van der Merwe,81,6
+91,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,RE van der Merwe,TS Mills,BGF Green,82,6
+92,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,TS Mills,RE van der Merwe,83,6
+93,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,RE van der Merwe,TS Mills,BGF Green,84,6
+94,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,RE van der Merwe,MD Fisher,BGF Green,84,7
+95,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,Shaheen Shah Afridi,MD Fisher,BGF Green,84,7
+96,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,Shaheen Shah Afridi,MD Fisher,BGF Green,85,7
+97,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,MD Fisher,Shaheen Shah Afridi,85,7
+98,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,MD Fisher,Shaheen Shah Afridi,86,7
+99,0,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,Shaheen Shah Afridi,TS Mills,BGF Green,86,7
+100,1,0,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,Shaheen Shah Afridi,TS Mills,BGF Green,87,7
+101,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BGF Green,TS Mills,Shaheen Shah Afridi,87,8
+102,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,Haris Rauf,TS Mills,Shaheen Shah Afridi,87,9
+103,0,1,Welsh Fire,1,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Payne,TS Mills,Shaheen Shah Afridi,87,10
+1,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,0,0
+2,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,4,0
+3,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,4,0
+4,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,4,0
+5,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,4,0
+6,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,DJ Willey,DP Conway,8,0
+7,6,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,DJ Willey,DP Conway,14,0
+8,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,DJ Willey,DP Conway,14,0
+9,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,DJ Willey,DP Conway,14,0
+10,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,DJ Willey,DP Conway,18,0
+11,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,Shaheen Shah Afridi,FH Allen,19,0
+12,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,20,0
+13,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,Shaheen Shah Afridi,FH Allen,21,0
+14,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,21,0
+15,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Shaheen Shah Afridi,DP Conway,25,0
+16,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Haris Rauf,DP Conway,25,0
+17,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,Haris Rauf,DP Conway,26,0
+18,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,Haris Rauf,FH Allen,30,0
+19,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,Haris Rauf,FH Allen,34,0
+20,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,Haris Rauf,FH Allen,38,0
+21,2,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,RE van der Merwe,DP Conway,40,0
+22,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,RE van der Merwe,DP Conway,40,0
+23,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,RE van der Merwe,DP Conway,44,0
+24,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,RE van der Merwe,DP Conway,44,0
+25,5,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,RE van der Merwe,DP Conway,49,0
+26,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,RE van der Merwe,DP Conway,50,0
+27,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,DA Payne,FH Allen,50,0
+28,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,DA Payne,FH Allen,50,0
+29,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,DA Payne,FH Allen,51,0
+30,2,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,DA Payne,DP Conway,53,0
+31,0,1,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,FH Allen,DA Payne,DP Conway,53,1
+32,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,BGF Green,JL du Plooy,54,1
+33,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,BGF Green,DP Conway,54,1
+34,2,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,BGF Green,DP Conway,56,1
+35,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,BGF Green,DP Conway,57,1
+36,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,BGF Green,JL du Plooy,58,1
+37,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,Haris Rauf,DP Conway,58,1
+38,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,Haris Rauf,DP Conway,59,1
+39,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,Haris Rauf,JL du Plooy,59,1
+40,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,Haris Rauf,JL du Plooy,60,1
+41,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,Haris Rauf,DP Conway,60,1
+42,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,DA Payne,JL du Plooy,60,1
+43,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,DA Payne,JL du Plooy,60,1
+44,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,DA Payne,JL du Plooy,64,1
+45,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,DA Payne,JL du Plooy,65,1
+46,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,DA Payne,DP Conway,69,1
+47,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,GD Phillips,DP Conway,69,1
+48,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,GD Phillips,DP Conway,70,1
+49,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,GD Phillips,JL du Plooy,70,1
+50,2,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,GD Phillips,JL du Plooy,72,1
+51,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,GD Phillips,JL du Plooy,73,1
+52,0,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,BGF Green,JL du Plooy,73,1
+53,2,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,BGF Green,JL du Plooy,75,1
+54,2,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,BGF Green,JL du Plooy,77,1
+55,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,BGF Green,JL du Plooy,78,1
+56,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,BGF Green,DP Conway,79,1
+57,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,GD Phillips,JL du Plooy,80,1
+58,6,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,GD Phillips,DP Conway,86,1
+59,1,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,JL du Plooy,GD Phillips,DP Conway,87,1
+60,4,0,Southern Brave,2,2023,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,DP Conway,GD Phillips,JL du Plooy,91,1

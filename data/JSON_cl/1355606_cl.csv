@@ -1,0 +1,205 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,AD Hales,C Overton,DJ Malan,0,0
+2,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,AD Hales,C Overton,DJ Malan,1,0
+3,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,C Overton,AD Hales,1,0
+4,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,C Overton,AD Hales,5,0
+5,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,C Overton,AD Hales,5,0
+6,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,GHS Garton,AD Hales,5,0
+7,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,GHS Garton,AD Hales,9,0
+8,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,GHS Garton,AD Hales,9,0
+9,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,GHS Garton,AD Hales,10,0
+10,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,AD Hales,GHS Garton,DJ Malan,10,0
+11,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,C Overton,AD Hales,11,0
+12,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,AD Hales,C Overton,DJ Malan,15,0
+13,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,AD Hales,C Overton,DJ Malan,19,0
+14,0,1,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,AD Hales,C Overton,DJ Malan,19,1
+15,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,T Kohler-Cadmore,C Overton,DJ Malan,19,1
+16,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,T Kohler-Cadmore,GHS Garton,DJ Malan,23,1
+17,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,T Kohler-Cadmore,GHS Garton,DJ Malan,23,1
+18,0,1,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,T Kohler-Cadmore,GHS Garton,DJ Malan,23,2
+19,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,GHS Garton,DJ Malan,24,2
+20,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,GHS Garton,C Munro,25,2
+21,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,C Overton,C Munro,25,2
+22,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,C Overton,C Munro,25,2
+23,0,1,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,DJ Malan,C Overton,C Munro,25,3
+24,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,C Overton,C Munro,25,3
+25,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,C Overton,C Munro,29,3
+26,2,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,GHS Garton,C Munro,31,3
+27,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,GHS Garton,C Munro,32,3
+28,2,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,GHS Garton,SR Hain,34,3
+29,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,GHS Garton,SR Hain,35,3
+30,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,GHS Garton,C Munro,36,3
+31,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,Rehan Ahmed,C Munro,37,3
+32,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,Rehan Ahmed,SR Hain,38,3
+33,2,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,Rehan Ahmed,C Munro,40,3
+34,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,Rehan Ahmed,C Munro,41,3
+35,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,Rehan Ahmed,SR Hain,42,3
+36,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,JK Fuller,C Munro,43,3
+37,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,JK Fuller,SR Hain,43,3
+38,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,JK Fuller,SR Hain,47,3
+39,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,JK Fuller,SR Hain,48,3
+40,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,JK Fuller,C Munro,49,3
+41,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,C Munro,50,3
+42,0,1,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,C Munro,TS Mills,SR Hain,50,4
+43,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,L Gregory,TS Mills,SR Hain,51,4
+44,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,L Gregory,52,4
+45,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,L Gregory,TS Mills,SR Hain,53,4
+46,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,L Gregory,53,4
+47,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,L Gregory,54,4
+48,0,1,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,L Gregory,CJ Jordan,SR Hain,54,5
+49,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,CJ Jordan,SR Hain,54,5
+50,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,CJ Jordan,SR Hain,54,5
+51,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,Rehan Ahmed,Imad Wasim,55,5
+52,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,Rehan Ahmed,SR Hain,56,5
+53,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,Rehan Ahmed,Imad Wasim,57,5
+54,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,Rehan Ahmed,SR Hain,58,5
+55,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,Rehan Ahmed,Imad Wasim,59,5
+56,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,59,5
+57,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,59,5
+58,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,60,5
+59,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,60,5
+60,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,61,5
+61,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,Imad Wasim,61,5
+62,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,C Overton,SR Hain,61,5
+63,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,C Overton,SR Hain,62,5
+64,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,C Overton,Imad Wasim,66,5
+65,6,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,C Overton,Imad Wasim,72,5
+66,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,C Overton,Imad Wasim,76,5
+67,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,Imad Wasim,77,5
+68,2,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,CJ Jordan,SR Hain,79,5
+69,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,CJ Jordan,SR Hain,79,5
+70,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,CJ Jordan,SR Hain,80,5
+71,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,Imad Wasim,80,5
+72,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,Rehan Ahmed,SR Hain,81,5
+73,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,Rehan Ahmed,Imad Wasim,82,5
+74,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,Rehan Ahmed,SR Hain,83,5
+75,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,Rehan Ahmed,Imad Wasim,84,5
+76,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,Rehan Ahmed,SR Hain,85,5
+77,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,Rehan Ahmed,SR Hain,86,5
+78,2,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,JK Fuller,Imad Wasim,88,5
+79,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,JK Fuller,Imad Wasim,89,5
+80,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,JK Fuller,SR Hain,93,5
+81,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,JK Fuller,SR Hain,94,5
+82,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,JK Fuller,Imad Wasim,98,5
+83,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,102,5
+84,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,103,5
+85,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,Imad Wasim,107,5
+86,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,Imad Wasim,107,5
+87,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,Imad Wasim,108,5
+88,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,CJ Jordan,SR Hain,112,5
+89,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,CJ Jordan,SR Hain,113,5
+90,2,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,Imad Wasim,115,5
+91,0,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,Imad Wasim,115,5
+92,2,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,Imad Wasim,117,5
+93,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,118,5
+94,2,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,Imad Wasim,120,5
+95,4,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,Imad Wasim,124,5
+96,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,TS Mills,Imad Wasim,125,5
+97,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,TS Mills,SR Hain,126,5
+98,6,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,Imad Wasim,132,5
+99,0,1,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,SR Hain,CJ Jordan,Imad Wasim,132,6
+100,0,1,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,Imad Wasim,CJ Jordan,DR Sams,132,7
+101,0,1,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,M Carter,CJ Jordan,DR Sams,132,8
+102,1,0,Trent Rockets,1,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Southern Brave,L Wood,CJ Jordan,DR Sams,133,8
+1,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,L Wood,DP Conway,0,0
+2,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,L Wood,DP Conway,1,0
+3,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Wood,FH Allen,2,0
+4,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Wood,FH Allen,3,0
+5,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,L Wood,DP Conway,4,0
+6,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Wood,FH Allen,5,0
+7,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,SJ Cook,DP Conway,5,0
+8,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,SJ Cook,DP Conway,5,0
+9,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,SJ Cook,DP Conway,6,0
+10,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,SJ Cook,FH Allen,8,0
+11,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,SJ Cook,FH Allen,8,0
+12,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,L Wood,DP Conway,8,0
+13,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,L Wood,DP Conway,8,0
+14,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,L Wood,DP Conway,12,0
+15,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,L Wood,DP Conway,13,0
+16,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Wood,FH Allen,13,0
+17,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,SJ Cook,FH Allen,14,0
+18,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,SJ Cook,DP Conway,18,0
+19,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,SJ Cook,DP Conway,22,0
+20,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,SJ Cook,DP Conway,22,0
+21,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,SJ Cook,DP Conway,22,0
+22,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Wood,FH Allen,22,0
+23,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Wood,FH Allen,26,0
+24,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Wood,FH Allen,27,0
+25,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,L Wood,DP Conway,28,0
+26,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Wood,FH Allen,29,0
+27,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,DR Sams,DP Conway,29,0
+28,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,DR Sams,DP Conway,29,0
+29,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,DR Sams,DP Conway,29,0
+30,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,DR Sams,DP Conway,29,0
+31,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,DR Sams,DP Conway,31,0
+32,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,M Carter,FH Allen,32,0
+33,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,M Carter,DP Conway,34,0
+34,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,M Carter,DP Conway,36,0
+35,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,M Carter,DP Conway,37,0
+36,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,M Carter,FH Allen,41,0
+37,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Gregory,FH Allen,41,0
+38,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Gregory,FH Allen,41,0
+39,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,DP Conway,L Gregory,FH Allen,41,1
+40,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JM Vince,L Gregory,FH Allen,43,1
+41,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JM Vince,L Gregory,FH Allen,44,1
+42,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JM Vince,Imad Wasim,FH Allen,44,2
+43,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,Imad Wasim,FH Allen,45,2
+44,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,Imad Wasim,JL du Plooy,47,2
+45,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,Imad Wasim,JL du Plooy,48,2
+46,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,Imad Wasim,FH Allen,49,2
+47,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,Imad Wasim,JL du Plooy,50,2
+48,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,Imad Wasim,FH Allen,51,2
+49,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,FH Allen,Imad Wasim,JL du Plooy,51,3
+50,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,GHS Garton,Imad Wasim,JL du Plooy,51,3
+51,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,GHS Garton,Imad Wasim,JL du Plooy,51,3
+52,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,M Carter,GHS Garton,52,3
+53,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,GHS Garton,M Carter,JL du Plooy,53,3
+54,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,M Carter,GHS Garton,55,3
+55,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,M Carter,GHS Garton,56,3
+56,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,GHS Garton,M Carter,JL du Plooy,56,3
+57,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,GHS Garton,DR Sams,JL du Plooy,58,3
+58,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,GHS Garton,DR Sams,JL du Plooy,59,3
+59,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,DR Sams,GHS Garton,60,3
+60,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,GHS Garton,DR Sams,JL du Plooy,64,3
+61,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,GHS Garton,DR Sams,JL du Plooy,64,4
+62,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,Imad Wasim,TH David,65,4
+63,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,TH David,Imad Wasim,JL du Plooy,69,4
+64,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,TH David,Imad Wasim,JL du Plooy,70,4
+65,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,Imad Wasim,TH David,72,4
+66,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,Imad Wasim,TH David,72,4
+67,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,L Gregory,TH David,73,4
+68,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,TH David,L Gregory,JL du Plooy,73,4
+69,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,TH David,L Gregory,JL du Plooy,73,5
+70,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JK Fuller,L Gregory,JL du Plooy,74,5
+71,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,L Gregory,JK Fuller,75,5
+72,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,L Gregory,JK Fuller,77,5
+73,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JK Fuller,SJ Cook,JL du Plooy,78,5
+74,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,SJ Cook,JK Fuller,80,5
+75,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,SJ Cook,JK Fuller,82,5
+76,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,SJ Cook,JK Fuller,83,5
+77,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JK Fuller,SJ Cook,JL du Plooy,83,5
+78,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JK Fuller,L Gregory,JL du Plooy,85,5
+79,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JK Fuller,L Gregory,JL du Plooy,89,5
+80,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JK Fuller,L Gregory,JL du Plooy,89,6
+81,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,L Gregory,JL du Plooy,90,6
+82,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,L Gregory,CJ Jordan,94,6
+83,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,DR Sams,JL du Plooy,94,6
+84,6,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,DR Sams,JL du Plooy,100,6
+85,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,DR Sams,JL du Plooy,102,6
+86,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,DR Sams,JL du Plooy,103,6
+87,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,DR Sams,CJ Jordan,107,6
+88,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,L Wood,CJ Jordan,109,6
+89,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,JL du Plooy,L Wood,CJ Jordan,109,7
+90,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,Rehan Ahmed,L Wood,CJ Jordan,110,7
+91,6,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,L Wood,Rehan Ahmed,116,7
+92,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,L Wood,Rehan Ahmed,117,7
+93,4,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,SJ Cook,Rehan Ahmed,121,7
+94,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,SJ Cook,Rehan Ahmed,122,7
+95,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,Rehan Ahmed,SJ Cook,CJ Jordan,122,7
+96,0,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,Rehan Ahmed,SJ Cook,CJ Jordan,122,7
+97,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,Rehan Ahmed,SJ Cook,CJ Jordan,123,7
+98,2,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,DR Sams,Rehan Ahmed,125,7
+99,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,CJ Jordan,DR Sams,Rehan Ahmed,125,8
+100,1,0,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,C Overton,DR Sams,Rehan Ahmed,126,8
+101,1,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,C Overton,DR Sams,Rehan Ahmed,127,9
+102,0,1,Southern Brave,2,2023,male,Trent Rockets,6 runs,"Trent Bridge, Nottingham",Southern Brave,field,Trent Rockets,TS Mills,DR Sams,Rehan Ahmed,127,10

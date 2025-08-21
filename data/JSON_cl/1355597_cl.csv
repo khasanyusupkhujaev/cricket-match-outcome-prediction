@@ -1,0 +1,210 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,L Winfield-Hill,LK Bell,A Capsey,0,0
+2,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,L Winfield-Hill,LK Bell,A Capsey,1,0
+3,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,A Capsey,LK Bell,L Winfield-Hill,3,0
+4,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,L Winfield-Hill,LK Bell,A Capsey,4,0
+5,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,A Capsey,LK Bell,L Winfield-Hill,4,0
+6,0,1,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,A Capsey,LK Bell,L Winfield-Hill,4,1
+7,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,A Shrubsole,L Winfield-Hill,4,1
+8,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,A Shrubsole,L Winfield-Hill,5,1
+9,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,L Winfield-Hill,A Shrubsole,SW Bates,6,1
+10,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,L Winfield-Hill,A Shrubsole,SW Bates,6,1
+11,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,L Winfield-Hill,A Shrubsole,SW Bates,6,1
+12,0,1,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,L Winfield-Hill,A Shrubsole,SW Bates,6,2
+13,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,M Kapp,6,2
+14,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,M Kapp,10,2
+15,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,M Kapp,11,2
+16,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,M Kapp,15,2
+17,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,M Kapp,15,2
+18,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,M Kapp,16,2
+19,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,GL Adams,SW Bates,16,2
+20,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,GL Adams,SW Bates,16,2
+21,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,GL Adams,SW Bates,17,2
+22,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,GL Adams,M Kapp,18,2
+23,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,GL Adams,SW Bates,19,2
+24,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,A Shrubsole,SW Bates,23,2
+25,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,A Shrubsole,SW Bates,24,2
+26,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,A Shrubsole,M Kapp,24,2
+27,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,A Shrubsole,M Kapp,24,2
+28,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,A Shrubsole,M Kapp,25,2
+29,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,K Moore,SW Bates,25,2
+30,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,K Moore,SW Bates,25,2
+31,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,K Moore,SW Bates,26,2
+32,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,K Moore,M Kapp,27,2
+33,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,K Moore,SW Bates,29,2
+34,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,M Kapp,30,2
+35,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,CL Tryon,SW Bates,31,2
+36,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,M Kapp,32,2
+37,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,CL Tryon,SW Bates,33,2
+38,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,M Kapp,34,2
+39,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,GL Adams,SW Bates,35,2
+40,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,GL Adams,M Kapp,36,2
+41,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,GL Adams,SW Bates,40,2
+42,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,GL Adams,SW Bates,41,2
+43,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,GL Adams,M Kapp,41,2
+44,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,K Moore,SW Bates,45,2
+45,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,K Moore,SW Bates,46,2
+46,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,K Moore,M Kapp,47,2
+47,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,K Moore,SW Bates,48,2
+48,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,K Moore,M Kapp,48,2
+49,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,M Kapp,48,2
+50,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,M Kapp,48,2
+51,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,M Kapp,49,2
+52,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,CL Tryon,SW Bates,49,2
+53,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,CL Tryon,SW Bates,51,2
+54,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,M Brown,M Kapp,55,2
+55,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,M Brown,M Kapp,56,2
+56,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,M Brown,SW Bates,57,2
+57,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,M Brown,M Kapp,58,2
+58,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,M Brown,SW Bates,59,2
+59,0,1,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,M Kapp,M Brown,SW Bates,59,3
+60,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,CL Tryon,SW Bates,59,3
+61,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,CL Tryon,SW Bates,60,3
+62,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,PJ Scholfield,62,3
+63,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,PJ Scholfield,62,3
+64,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,PJ Scholfield,63,3
+65,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,PJ Scholfield,64,3
+66,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,LK Bell,SW Bates,65,3
+67,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,PJ Scholfield,67,3
+68,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,PJ Scholfield,71,3
+69,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,PJ Scholfield,75,3
+70,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,A Shrubsole,PJ Scholfield,76,3
+71,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,A Shrubsole,SW Bates,77,3
+72,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,A Shrubsole,PJ Scholfield,78,3
+73,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,A Shrubsole,SW Bates,80,3
+74,6,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,A Shrubsole,SW Bates,86,3
+75,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,GL Adams,PJ Scholfield,87,3
+76,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,GL Adams,SW Bates,88,3
+77,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,GL Adams,PJ Scholfield,89,3
+78,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,GL Adams,SW Bates,93,3
+79,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,GL Adams,SW Bates,94,3
+80,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,K Moore,PJ Scholfield,96,3
+81,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,K Moore,PJ Scholfield,97,3
+82,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,K Moore,SW Bates,98,3
+83,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,K Moore,PJ Scholfield,102,3
+84,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,K Moore,PJ Scholfield,103,3
+85,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,PJ Scholfield,103,3
+86,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,PJ Scholfield,104,3
+87,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,CL Tryon,SW Bates,105,3
+88,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,CL Tryon,PJ Scholfield,106,3
+89,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,CL Tryon,SW Bates,110,3
+90,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,LK Bell,SW Bates,111,3
+91,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,PJ Scholfield,112,3
+92,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,LK Bell,SW Bates,114,3
+93,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,LK Bell,PJ Scholfield,115,3
+94,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,LK Bell,SW Bates,115,3
+95,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,LK Bell,SW Bates,119,3
+96,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,SW Bates,GL Adams,PJ Scholfield,120,3
+97,2,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,GL Adams,SW Bates,122,3
+98,0,1,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,PJ Scholfield,GL Adams,SW Bates,122,4
+99,0,1,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,N de Klerk,GL Adams,SW Bates,122,5
+100,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,N de Klerk,GL Adams,CL Griffith,123,5
+101,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,N de Klerk,GL Adams,CL Griffith,124,5
+102,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,CL Griffith,K Moore,N de Klerk,125,5
+103,4,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,N de Klerk,K Moore,CL Griffith,129,5
+104,0,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,N de Klerk,K Moore,CL Griffith,129,5
+105,0,1,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,N de Klerk,K Moore,CL Griffith,129,6
+106,1,0,Oval Invincibles,1,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Southern Brave,MK Villiers,K Moore,CL Griffith,130,6
+1,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,S Mandhana,M Kapp,DN Wyatt,0,0
+2,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,S Mandhana,M Kapp,DN Wyatt,0,0
+3,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,S Mandhana,M Kapp,DN Wyatt,1,0
+4,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,M Kapp,S Mandhana,1,0
+5,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,M Kapp,S Mandhana,3,0
+6,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,M Kapp,S Mandhana,5,0
+7,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,S Mandhana,M Kapp,DN Wyatt,6,0
+8,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,M Kapp,S Mandhana,6,0
+9,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,M Kapp,S Mandhana,6,0
+10,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,M Kapp,S Mandhana,7,0
+11,0,1,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,S Mandhana,M Kapp,DN Wyatt,7,1
+12,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,N de Klerk,ME Bouchier,7,1
+13,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,N de Klerk,ME Bouchier,8,1
+14,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,N de Klerk,ME Bouchier,9,1
+15,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,N de Klerk,DN Wyatt,9,1
+16,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,N de Klerk,DN Wyatt,9,1
+17,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,N de Klerk,DN Wyatt,10,1
+18,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,Sophia Smale,ME Bouchier,10,1
+19,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,Sophia Smale,ME Bouchier,10,1
+20,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,Sophia Smale,ME Bouchier,12,1
+21,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,Sophia Smale,ME Bouchier,13,1
+22,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,Sophia Smale,DN Wyatt,14,1
+23,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,M Kapp,DN Wyatt,18,1
+24,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,M Kapp,DN Wyatt,18,1
+25,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,M Kapp,DN Wyatt,19,1
+26,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,M Kapp,ME Bouchier,20,1
+27,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,M Kapp,DN Wyatt,21,1
+28,0,1,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,DN Wyatt,N de Klerk,ME Bouchier,21,2
+29,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,N de Klerk,ME Bouchier,22,2
+30,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,N de Klerk,GL Adams,26,2
+31,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,N de Klerk,GL Adams,27,2
+32,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,N de Klerk,ME Bouchier,27,2
+33,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,Sophia Smale,GL Adams,27,2
+34,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,Sophia Smale,GL Adams,28,2
+35,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,Sophia Smale,ME Bouchier,28,2
+36,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,Sophia Smale,ME Bouchier,32,2
+37,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,Sophia Smale,ME Bouchier,33,2
+38,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,R MacDonald-Gay,GL Adams,34,2
+39,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,R MacDonald-Gay,ME Bouchier,35,2
+40,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,R MacDonald-Gay,GL Adams,35,2
+41,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,R MacDonald-Gay,GL Adams,36,2
+42,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,R MacDonald-Gay,ME Bouchier,37,2
+43,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,R MacDonald-Gay,ME Bouchier,38,2
+44,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,R MacDonald-Gay,ME Bouchier,42,2
+45,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,PJ Scholfield,GL Adams,44,2
+46,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,PJ Scholfield,GL Adams,44,2
+47,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,PJ Scholfield,GL Adams,45,2
+48,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,PJ Scholfield,GL Adams,46,2
+49,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,PJ Scholfield,ME Bouchier,47,2
+50,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,PJ Scholfield,GL Adams,47,2
+51,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,M Kapp,GL Adams,48,2
+52,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,M Kapp,GL Adams,48,2
+53,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,M Kapp,GL Adams,49,2
+54,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,M Kapp,ME Bouchier,50,2
+55,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,M Kapp,GL Adams,51,2
+56,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,M Kapp,ME Bouchier,52,2
+57,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,E Gray,ME Bouchier,53,2
+58,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,E Gray,GL Adams,54,2
+59,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,E Gray,ME Bouchier,56,2
+60,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,E Gray,ME Bouchier,57,2
+61,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,E Gray,GL Adams,58,2
+62,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,PJ Scholfield,ME Bouchier,58,2
+63,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,PJ Scholfield,ME Bouchier,59,2
+64,0,1,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,ME Bouchier,PJ Scholfield,GL Adams,59,3
+65,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,63,3
+66,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,64,3
+67,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,MK Villiers,GL Adams,65,3
+68,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,MK Villiers,FG Kemp,65,3
+69,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,MK Villiers,FG Kemp,66,3
+70,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,MK Villiers,GL Adams,67,3
+71,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,MK Villiers,FG Kemp,68,3
+72,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,MK Villiers,GL Adams,70,3
+73,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,MK Villiers,GL Adams,71,3
+74,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,MK Villiers,FG Kemp,72,3
+75,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,MK Villiers,GL Adams,72,3
+76,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,MK Villiers,GL Adams,74,3
+77,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,E Gray,FG Kemp,75,3
+78,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,E Gray,GL Adams,79,3
+79,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,E Gray,GL Adams,80,3
+80,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,E Gray,FG Kemp,84,3
+81,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,E Gray,FG Kemp,85,3
+82,0,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,85,3
+83,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,86,3
+84,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,PJ Scholfield,FG Kemp,87,3
+85,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,88,3
+86,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,PJ Scholfield,FG Kemp,89,3
+87,6,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,MK Villiers,FG Kemp,95,3
+88,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,MK Villiers,FG Kemp,96,3
+89,6,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,MK Villiers,GL Adams,102,3
+90,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,MK Villiers,GL Adams,103,3
+91,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,MK Villiers,FG Kemp,104,3
+92,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,N de Klerk,GL Adams,105,3
+93,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,N de Klerk,FG Kemp,109,3
+94,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,N de Klerk,FG Kemp,113,3
+95,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,N de Klerk,FG Kemp,114,3
+96,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,N de Klerk,GL Adams,115,3
+97,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,116,3
+98,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,118,3
+99,4,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,122,3
+100,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,PJ Scholfield,GL Adams,123,3
+101,2,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,PJ Scholfield,FG Kemp,125,3
+102,1,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,GL Adams,PJ Scholfield,FG Kemp,126,3
+103,6,0,Southern Brave,2,2023,female,Southern Brave,7 wickets,"The Rose Bowl, Southampton",Oval Invincibles,bat,Oval Invincibles,FG Kemp,E Gray,GL Adams,132,3

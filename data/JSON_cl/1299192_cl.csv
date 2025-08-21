@@ -1,0 +1,193 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,GHS Garton,JG Bethell,1,0
+2,0,1,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JG Bethell,GHS Garton,JM Clarke,1,1
+3,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JJ Cobb,GHS Garton,JM Clarke,1,1
+4,0,1,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JJ Cobb,GHS Garton,JM Clarke,1,2
+5,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BM Duckett,GHS Garton,JM Clarke,1,2
+6,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BM Duckett,GHS Garton,JM Clarke,1,2
+7,0,1,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,BM Duckett,GHS Garton,JM Clarke,1,3
+8,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,GHS Garton,JM Clarke,1,3
+9,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,GHS Garton,JM Clarke,1,3
+10,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,GHS Garton,JM Clarke,1,3
+11,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,MG Hogan,DA Miller,2,3
+12,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,MG Hogan,JM Clarke,3,3
+13,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,MG Hogan,DA Miller,3,3
+14,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,MG Hogan,DA Miller,4,3
+15,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,MG Hogan,JM Clarke,5,3
+16,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,GHS Garton,DA Miller,6,3
+17,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,GHS Garton,DA Miller,7,3
+18,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,GHS Garton,JM Clarke,7,3
+19,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,GHS Garton,JM Clarke,7,3
+20,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,GHS Garton,JM Clarke,11,3
+21,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,GHS Garton,JM Clarke,11,3
+22,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,MG Hogan,DA Miller,12,3
+23,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,MG Hogan,JM Clarke,12,3
+24,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,MG Hogan,JM Clarke,14,3
+25,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,MG Hogan,JM Clarke,15,3
+26,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,MG Hogan,DA Miller,16,3
+27,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,MG Hogan,DA Miller,17,3
+28,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,MG Hogan,DA Miller,17,3
+29,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,S Baker,DA Miller,18,3
+30,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,S Baker,JM Clarke,19,3
+31,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,S Baker,DA Miller,20,3
+32,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,S Baker,JM Clarke,21,3
+33,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,S Baker,DA Miller,21,3
+34,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,JK Fuller,JM Clarke,23,3
+35,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,JK Fuller,JM Clarke,23,3
+36,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,JK Fuller,JM Clarke,25,3
+37,0,1,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Miller,JK Fuller,JM Clarke,25,4
+38,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JK Fuller,JM Clarke,26,4
+39,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,JB Lintott,JL du Plooy,27,4
+40,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,JM Clarke,29,4
+41,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,JM Clarke,29,4
+42,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,JM Clarke,31,4
+43,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,JM Clarke,33,4
+44,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,S Baker,JL du Plooy,34,4
+45,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,S Baker,JM Clarke,35,4
+46,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,S Baker,JL du Plooy,37,4
+47,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,S Baker,JL du Plooy,41,4
+48,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,S Baker,JL du Plooy,42,4
+49,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JK Fuller,JM Clarke,46,4
+50,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JK Fuller,JM Clarke,48,4
+51,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JK Fuller,JM Clarke,49,4
+52,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,JK Fuller,JL du Plooy,49,4
+53,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,JK Fuller,JL du Plooy,50,4
+54,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,JB Lintott,JL du Plooy,51,4
+55,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,JM Clarke,52,4
+56,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,JB Lintott,JL du Plooy,52,4
+57,0,1,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JM Clarke,JB Lintott,JL du Plooy,52,5
+58,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,MJJ Critchley,53,5
+59,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JB Lintott,JL du Plooy,53,5
+60,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JB Lintott,JL du Plooy,54,5
+61,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,MJJ Critchley,54,5
+62,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,MJJ Critchley,55,5
+63,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JB Lintott,JL du Plooy,55,5
+64,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JK Fuller,MJJ Critchley,56,5
+65,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JK Fuller,JL du Plooy,57,5
+66,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JK Fuller,MJJ Critchley,58,5
+67,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JK Fuller,JL du Plooy,59,5
+68,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JK Fuller,MJJ Critchley,63,5
+69,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,S Baker,MJJ Critchley,64,5
+70,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,S Baker,JL du Plooy,65,5
+71,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,S Baker,MJJ Critchley,66,5
+72,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,S Baker,JL du Plooy,67,5
+73,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,S Baker,MJJ Critchley,69,5
+74,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,PR Stirling,JL du Plooy,70,5
+75,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,PR Stirling,MJJ Critchley,71,5
+76,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,PR Stirling,JL du Plooy,72,5
+77,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,PR Stirling,MJJ Critchley,76,5
+78,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,PR Stirling,MJJ Critchley,77,5
+79,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JB Lintott,JL du Plooy,78,5
+80,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,MJJ Critchley,79,5
+81,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JB Lintott,JL du Plooy,80,5
+82,2,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,MJJ Critchley,82,5
+83,0,1,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,JL du Plooy,JB Lintott,MJJ Critchley,82,6
+84,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,S Baker,D Pretorius,83,6
+85,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,D Pretorius,S Baker,MJJ Critchley,83,6
+86,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,D Pretorius,S Baker,MJJ Critchley,83,6
+87,6,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,D Pretorius,S Baker,MJJ Critchley,89,6
+88,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,D Pretorius,S Baker,MJJ Critchley,93,6
+89,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,D Pretorius,MG Hogan,MJJ Critchley,94,6
+90,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,MG Hogan,D Pretorius,95,6
+91,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,D Pretorius,MG Hogan,MJJ Critchley,99,6
+92,0,1,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,D Pretorius,MG Hogan,MJJ Critchley,99,7
+93,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Payne,MG Hogan,MJJ Critchley,100,7
+94,0,1,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,DA Payne,JK Fuller,MJJ Critchley,100,8
+95,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GLS Scrimshaw,JK Fuller,MJJ Critchley,101,8
+96,0,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JK Fuller,GLS Scrimshaw,101,8
+97,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JK Fuller,GLS Scrimshaw,105,8
+98,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JK Fuller,GLS Scrimshaw,106,8
+99,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,JK Fuller,GLS Scrimshaw,110,8
+100,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,MG Hogan,GLS Scrimshaw,111,8
+101,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,MG Hogan,GLS Scrimshaw,112,8
+102,4,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GLS Scrimshaw,MG Hogan,MJJ Critchley,116,8
+103,1,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,GLS Scrimshaw,MG Hogan,MJJ Critchley,117,8
+104,6,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,MG Hogan,GLS Scrimshaw,123,8
+105,6,0,Welsh Fire,1,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Southern Brave,MJJ Critchley,MG Hogan,GLS Scrimshaw,129,8
+1,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,0,0
+2,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,4,0
+3,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,5,0
+4,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,9,0
+5,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,10,0
+6,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,DA Payne,PR Stirling,10,0
+7,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,14,0
+8,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,15,0
+9,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JT Ball,Q de Kock,16,0
+10,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,16,0
+11,2,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,18,0
+12,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,GLS Scrimshaw,Q de Kock,22,0
+13,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,GLS Scrimshaw,Q de Kock,26,0
+14,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,GLS Scrimshaw,Q de Kock,30,0
+15,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,GLS Scrimshaw,Q de Kock,34,0
+16,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,GLS Scrimshaw,Q de Kock,34,0
+17,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,34,0
+18,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,34,0
+19,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,35,0
+20,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,35,0
+21,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,35,0
+22,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,35,0
+23,2,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,37,0
+24,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,38,0
+25,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,DA Payne,PR Stirling,38,0
+26,2,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,DA Payne,PR Stirling,40,0
+27,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,40,0
+28,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,40,0
+29,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,41,0
+30,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,41,0
+31,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,42,0
+32,2,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,44,0
+33,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,45,0
+34,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,46,0
+35,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JT Ball,Q de Kock,47,0
+36,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,51,0
+37,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,51,0
+38,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,52,0
+39,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JJ Cobb,Q de Kock,56,0
+40,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JJ Cobb,Q de Kock,56,0
+41,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JJ Cobb,Q de Kock,56,0
+42,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JJ Cobb,Q de Kock,57,0
+43,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JJ Cobb,PR Stirling,58,0
+44,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,DA Payne,PR Stirling,58,0
+45,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,DA Payne,PR Stirling,59,0
+46,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,59,0
+47,6,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,65,0
+48,6,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,DA Payne,Q de Kock,71,0
+49,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,72,0
+50,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,73,0
+51,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,77,0
+52,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,78,0
+53,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,79,0
+54,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,79,0
+55,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,MJJ Critchley,Q de Kock,80,0
+56,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,MJJ Critchley,PR Stirling,81,0
+57,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,MJJ Critchley,PR Stirling,82,0
+58,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,MJJ Critchley,Q de Kock,83,0
+59,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,MJJ Critchley,PR Stirling,84,0
+60,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,MJJ Critchley,Q de Kock,85,0
+61,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,MJJ Critchley,PR Stirling,86,0
+62,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,MJJ Critchley,Q de Kock,90,0
+63,2,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,MJJ Critchley,Q de Kock,92,0
+64,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,MJJ Critchley,Q de Kock,93,0
+65,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,MJJ Critchley,PR Stirling,94,0
+66,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,GLS Scrimshaw,PR Stirling,98,0
+67,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,GLS Scrimshaw,PR Stirling,98,0
+68,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,GLS Scrimshaw,PR Stirling,102,0
+69,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,GLS Scrimshaw,PR Stirling,106,0
+70,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,GLS Scrimshaw,PR Stirling,110,0
+71,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,110,0
+72,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,111,0
+73,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JT Ball,Q de Kock,111,0
+74,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JT Ball,Q de Kock,112,0
+75,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JT Ball,PR Stirling,113,0
+76,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JJ Cobb,PR Stirling,114,0
+77,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JJ Cobb,Q de Kock,114,0
+78,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JJ Cobb,Q de Kock,115,0
+79,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,JJ Cobb,PR Stirling,116,0
+80,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JJ Cobb,Q de Kock,120,0
+81,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,D Pretorius,Q de Kock,121,0
+82,0,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,121,0
+83,0,1,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,Q de Kock,D Pretorius,PR Stirling,121,1
+84,2,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,TH David,D Pretorius,PR Stirling,123,1
+85,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,TH David,D Pretorius,PR Stirling,127,1
+86,1,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,PR Stirling,JT Ball,TH David,128,1
+87,4,0,Southern Brave,2,2022,male,Southern Brave,9 wickets,"Sophia Gardens, Cardiff",Southern Brave,field,Welsh Fire,TH David,JT Ball,PR Stirling,132,1

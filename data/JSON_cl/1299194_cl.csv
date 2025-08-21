@@ -1,0 +1,205 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,JJ Cobb,DJ Bell-Drummond,1,0
+2,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DJ Bell-Drummond,JJ Cobb,AM Rossington,2,0
+3,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,JJ Cobb,DJ Bell-Drummond,3,0
+4,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DJ Bell-Drummond,JJ Cobb,AM Rossington,4,0
+5,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,JJ Cobb,DJ Bell-Drummond,6,0
+6,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,DA Payne,DJ Bell-Drummond,6,0
+7,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,DA Payne,DJ Bell-Drummond,7,0
+8,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DJ Bell-Drummond,DA Payne,AM Rossington,9,0
+9,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DJ Bell-Drummond,DA Payne,AM Rossington,9,0
+10,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DJ Bell-Drummond,DA Payne,AM Rossington,11,0
+11,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,D Pretorius,DJ Bell-Drummond,11,0
+12,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,D Pretorius,DJ Bell-Drummond,13,0
+13,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,D Pretorius,DJ Bell-Drummond,17,0
+14,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,D Pretorius,DJ Bell-Drummond,17,0
+15,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,D Pretorius,DJ Bell-Drummond,21,0
+16,6,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,DA Payne,DJ Bell-Drummond,27,0
+17,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,DA Payne,DJ Bell-Drummond,27,0
+18,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,DA Payne,DJ Bell-Drummond,27,0
+19,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,DA Payne,DJ Bell-Drummond,31,0
+20,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,DA Payne,DJ Bell-Drummond,35,0
+21,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DJ Bell-Drummond,JT Ball,AM Rossington,39,0
+22,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DJ Bell-Drummond,JT Ball,AM Rossington,41,0
+23,0,1,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DJ Bell-Drummond,JT Ball,AM Rossington,41,1
+24,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,JT Ball,AM Rossington,41,1
+25,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,JT Ball,AM Rossington,41,1
+26,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,IS Sodhi,AM Rossington,41,1
+27,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,IS Sodhi,AM Rossington,42,1
+28,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,IS Sodhi,BR McDermott,43,1
+29,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,IS Sodhi,AM Rossington,43,1
+30,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,IS Sodhi,AM Rossington,43,1
+31,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,D Pretorius,BR McDermott,44,1
+32,6,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,AM Rossington,50,1
+33,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,AM Rossington,51,1
+34,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,D Pretorius,BR McDermott,52,1
+35,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,AM Rossington,53,1
+36,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,IS Sodhi,BR McDermott,54,1
+37,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,IS Sodhi,AM Rossington,55,1
+38,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,IS Sodhi,AM Rossington,56,1
+39,0,1,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,AM Rossington,IS Sodhi,BR McDermott,56,2
+40,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,EJG Morgan,IS Sodhi,BR McDermott,56,2
+41,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,EJG Morgan,IS Sodhi,BR McDermott,56,2
+42,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,JJ Cobb,EJG Morgan,57,2
+43,0,1,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,EJG Morgan,JJ Cobb,BR McDermott,57,3
+44,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,JJ Cobb,BR McDermott,58,3
+45,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,JJ Cobb,DW Lawrence,58,3
+46,6,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,JJ Cobb,DW Lawrence,64,3
+47,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,MJJ Critchley,DW Lawrence,65,3
+48,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,MJJ Critchley,BR McDermott,65,3
+49,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,MJJ Critchley,BR McDermott,67,3
+50,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,MJJ Critchley,BR McDermott,68,3
+51,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,MJJ Critchley,DW Lawrence,70,3
+52,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,DA Payne,BR McDermott,71,3
+53,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,DA Payne,DW Lawrence,75,3
+54,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,DA Payne,DW Lawrence,76,3
+55,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,DA Payne,BR McDermott,76,3
+56,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,DA Payne,BR McDermott,77,3
+57,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,DW Lawrence,78,3
+58,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,DW Lawrence,80,3
+59,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,DW Lawrence,81,3
+60,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,DW Lawrence,83,3
+61,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,DW Lawrence,85,3
+62,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,D Pretorius,DW Lawrence,86,3
+63,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,D Pretorius,BR McDermott,88,3
+64,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,IS Sodhi,DW Lawrence,89,3
+65,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,IS Sodhi,BR McDermott,89,3
+66,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,IS Sodhi,BR McDermott,90,3
+67,0,1,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,BR McDermott,IS Sodhi,DW Lawrence,90,4
+68,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,IS Sodhi,DW Lawrence,90,4
+69,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,MJJ Critchley,DW Lawrence,91,4
+70,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,MJJ Critchley,KA Pollard,92,4
+71,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,MJJ Critchley,DW Lawrence,93,4
+72,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,MJJ Critchley,KA Pollard,94,4
+73,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,MJJ Critchley,DW Lawrence,94,4
+74,6,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,IS Sodhi,KA Pollard,100,4
+75,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,IS Sodhi,KA Pollard,100,4
+76,6,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,IS Sodhi,KA Pollard,106,4
+77,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,IS Sodhi,KA Pollard,107,4
+78,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,IS Sodhi,DW Lawrence,107,4
+79,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,JT Ball,DW Lawrence,108,4
+80,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,JT Ball,KA Pollard,109,4
+81,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,JT Ball,DW Lawrence,110,4
+82,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,JT Ball,KA Pollard,111,4
+83,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,JT Ball,DW Lawrence,115,4
+84,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,DA Payne,KA Pollard,116,4
+85,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,DA Payne,DW Lawrence,118,4
+86,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,DA Payne,DW Lawrence,119,4
+87,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,DA Payne,KA Pollard,120,4
+88,0,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,DA Payne,DW Lawrence,120,4
+89,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,JT Ball,DW Lawrence,121,4
+90,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,JT Ball,KA Pollard,125,4
+91,6,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,JT Ball,KA Pollard,131,4
+92,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,JT Ball,KA Pollard,133,4
+93,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,JT Ball,KA Pollard,135,4
+94,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,D Pretorius,DW Lawrence,136,4
+95,2,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,D Pretorius,KA Pollard,138,4
+96,0,1,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,DW Lawrence,D Pretorius,KA Pollard,138,5
+97,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,JA Thompson,D Pretorius,KA Pollard,142,5
+98,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,JA Thompson,D Pretorius,KA Pollard,143,5
+99,4,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,JT Ball,JA Thompson,147,5
+100,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,JT Ball,JA Thompson,148,5
+101,1,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,JA Thompson,JT Ball,KA Pollard,149,5
+102,1,1,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,JT Ball,JA Thompson,150,6
+103,6,0,London Spirit,1,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,Welsh Fire,KA Pollard,JT Ball,LA Dawson,156,6
+1,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,CP Wood,JG Bethell,0,0
+2,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,CP Wood,JG Bethell,0,0
+3,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,CP Wood,JG Bethell,1,0
+4,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,CP Wood,JM Clarke,2,0
+5,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,CP Wood,JG Bethell,3,0
+6,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,LA Dawson,JM Clarke,3,0
+7,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,LA Dawson,JM Clarke,4,0
+8,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,LA Dawson,JG Bethell,4,0
+9,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,LA Dawson,JG Bethell,4,0
+10,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,LA Dawson,JG Bethell,4,0
+11,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,NT Ellis,JM Clarke,5,0
+12,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,NT Ellis,JG Bethell,5,0
+13,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,NT Ellis,JG Bethell,6,0
+14,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,NT Ellis,JM Clarke,7,0
+15,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,NT Ellis,JG Bethell,7,0
+16,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,JA Thompson,JG Bethell,9,0
+17,4,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,JA Thompson,JG Bethell,13,0
+18,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JM Clarke,JA Thompson,JG Bethell,13,1
+19,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JJ Cobb,JA Thompson,JG Bethell,13,1
+20,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JJ Cobb,JA Thompson,JG Bethell,13,1
+21,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,CP Wood,JJ Cobb,13,1
+22,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,CP Wood,JJ Cobb,14,1
+23,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JJ Cobb,CP Wood,JG Bethell,16,1
+24,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JJ Cobb,CP Wood,JG Bethell,17,1
+25,4,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,CP Wood,JJ Cobb,21,1
+26,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,DW Lawrence,JJ Cobb,22,1
+27,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JJ Cobb,DW Lawrence,JG Bethell,22,2
+28,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,JG Bethell,22,2
+29,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,JG Bethell,23,2
+30,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JG Bethell,DW Lawrence,BM Duckett,23,3
+31,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,MS Crane,DA Miller,24,3
+32,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Miller,MS Crane,BM Duckett,24,3
+33,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Miller,MS Crane,BM Duckett,25,3
+34,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,MS Crane,DA Miller,26,3
+35,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Miller,MS Crane,BM Duckett,27,3
+36,4,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,MS Crane,DA Miller,31,3
+37,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,MS Crane,DA Miller,32,3
+38,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Miller,MS Crane,BM Duckett,33,3
+39,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,MS Crane,DA Miller,34,3
+40,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Miller,MS Crane,BM Duckett,35,3
+41,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Miller,DW Lawrence,BM Duckett,35,3
+42,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Miller,DW Lawrence,BM Duckett,36,3
+43,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,DA Miller,37,3
+44,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Miller,DW Lawrence,BM Duckett,37,4
+45,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,DW Lawrence,BM Duckett,38,4
+46,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,D Pretorius,39,4
+47,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,DW Lawrence,BM Duckett,39,4
+48,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,DW Lawrence,BM Duckett,40,4
+49,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,D Pretorius,41,4
+50,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,DW Lawrence,BM Duckett,42,4
+51,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,MS Crane,BM Duckett,42,4
+52,6,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,MS Crane,BM Duckett,48,4
+53,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,MS Crane,BM Duckett,49,4
+54,6,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,MS Crane,D Pretorius,55,4
+55,4,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,MS Crane,D Pretorius,59,4
+56,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,JA Thompson,D Pretorius,59,4
+57,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,JA Thompson,D Pretorius,60,4
+58,6,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,JA Thompson,BM Duckett,66,4
+59,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,JA Thompson,BM Duckett,66,4
+60,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,JA Thompson,BM Duckett,68,4
+61,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,D Pretorius,68,4
+62,6,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,D Pretorius,74,4
+63,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,D Pretorius,76,4
+64,4,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,D Pretorius,80,4
+65,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,BM Duckett,DW Lawrence,D Pretorius,80,5
+66,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,D Pretorius,82,5
+67,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,D Pretorius,84,5
+68,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,D Pretorius,84,5
+69,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,D Pretorius,84,5
+70,4,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,D Pretorius,88,5
+71,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,JA Thompson,JL du Plooy,89,5
+72,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,JA Thompson,D Pretorius,89,5
+73,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,JA Thompson,D Pretorius,90,5
+74,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,JA Thompson,JL du Plooy,90,5
+75,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,JA Thompson,JL du Plooy,91,5
+76,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,D Pretorius,92,5
+77,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,NT Ellis,JL du Plooy,93,5
+78,4,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,D Pretorius,97,5
+79,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,D Pretorius,98,5
+80,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,NT Ellis,JL du Plooy,99,5
+81,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,CP Wood,JL du Plooy,100,5
+82,6,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,CP Wood,D Pretorius,106,5
+83,6,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,CP Wood,D Pretorius,112,5
+84,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,CP Wood,D Pretorius,113,5
+85,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,D Pretorius,CP Wood,JL du Plooy,113,6
+86,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,MJJ Critchley,NT Ellis,JL du Plooy,114,6
+87,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,MJJ Critchley,114,6
+88,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,MJJ Critchley,116,6
+89,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,MJJ Critchley,116,6
+90,0,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,NT Ellis,MJJ Critchley,116,6
+91,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,MJJ Critchley,JA Thompson,JL du Plooy,118,6
+92,2,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,MJJ Critchley,JA Thompson,JL du Plooy,120,6
+93,6,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,MJJ Critchley,JA Thompson,JL du Plooy,126,6
+94,6,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,MJJ Critchley,JA Thompson,JL du Plooy,132,6
+95,4,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,MJJ Critchley,JA Thompson,JL du Plooy,136,6
+96,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,MJJ Critchley,CP Wood,JL du Plooy,137,6
+97,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,MJJ Critchley,CP Wood,JL du Plooy,137,7
+98,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,IS Sodhi,CP Wood,JL du Plooy,138,7
+99,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,JL du Plooy,CP Wood,IS Sodhi,138,8
+100,1,0,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,DA Payne,CP Wood,IS Sodhi,139,8
+101,0,1,Welsh Fire,2,2022,male,London Spirit,17 runs,"Lord's, London",Welsh Fire,field,London Spirit,IS Sodhi,CP Wood,DA Payne,139,9

@@ -1,0 +1,207 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,M Gaur,SW Bates,0,0
+2,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,M Gaur,SW Bates,1,0
+3,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,M Gaur,L Winfield-Hill,1,0
+4,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,M Gaur,L Winfield-Hill,5,0
+5,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,M Gaur,L Winfield-Hill,6,0
+6,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,KE Bryce,SW Bates,6,0
+7,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,KE Bryce,SW Bates,7,0
+8,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,KE Bryce,L Winfield-Hill,8,0
+9,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,KE Bryce,SW Bates,8,0
+10,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,KE Bryce,SW Bates,9,0
+11,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,M Gaur,SW Bates,9,0
+12,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,M Gaur,SW Bates,9,0
+13,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,M Gaur,SW Bates,10,0
+14,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,M Gaur,L Winfield-Hill,10,0
+15,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,M Gaur,L Winfield-Hill,10,0
+16,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,M Gaur,L Winfield-Hill,10,0
+17,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,M Gaur,L Winfield-Hill,11,0
+18,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,M Gaur,SW Bates,11,0
+19,0,1,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,L Winfield-Hill,M Gaur,SW Bates,11,1
+20,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,M Gaur,SW Bates,11,1
+21,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,KE Bryce,A Capsey,12,1
+22,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KE Bryce,SW Bates,12,1
+23,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KE Bryce,SW Bates,16,1
+24,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KE Bryce,SW Bates,17,1
+25,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,KE Bryce,A Capsey,17,1
+26,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,KL George,A Capsey,18,1
+27,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,SW Bates,19,1
+28,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,KL George,A Capsey,20,1
+29,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,SW Bates,24,1
+30,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,SW Bates,25,1
+31,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,M Gaur,SW Bates,25,1
+32,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,M Gaur,SW Bates,29,1
+33,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,M Gaur,SW Bates,30,1
+34,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,M Gaur,A Capsey,31,1
+35,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,M Gaur,SW Bates,31,1
+36,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,SW Bates,31,1
+37,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,SW Bates,35,1
+38,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,SW Bates,35,1
+39,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,SW Bates,35,1
+40,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,SW Bates,36,1
+41,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,A Wellington,SW Bates,36,1
+42,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,A Wellington,SW Bates,37,1
+43,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,A Wellington,A Capsey,38,1
+44,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,A Wellington,SW Bates,39,1
+45,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,A Wellington,A Capsey,40,1
+46,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,S Ecclestone,SW Bates,40,1
+47,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,S Ecclestone,SW Bates,41,1
+48,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,S Ecclestone,A Capsey,41,1
+49,0,1,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,SW Bates,S Ecclestone,A Capsey,41,2
+50,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,S Ecclestone,A Capsey,41,2
+51,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,A Wellington,D van Niekerk,45,2
+52,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,A Wellington,D van Niekerk,46,2
+53,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,A Capsey,47,2
+54,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,A Wellington,D van Niekerk,47,2
+55,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,A Wellington,D van Niekerk,48,2
+56,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,S Ecclestone,A Capsey,49,2
+57,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,S Ecclestone,D van Niekerk,49,2
+58,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,S Ecclestone,D van Niekerk,50,2
+59,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,S Ecclestone,A Capsey,50,2
+60,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,S Ecclestone,A Capsey,54,2
+61,3,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,D van Niekerk,57,2
+62,6,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,KL George,A Capsey,63,2
+63,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,KL George,A Capsey,67,2
+64,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,KL George,A Capsey,68,2
+65,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,D van Niekerk,68,2
+66,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,D van Niekerk,68,2
+67,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,KL George,D van Niekerk,72,2
+68,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,A Wellington,D van Niekerk,73,2
+69,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,A Capsey,73,2
+70,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,A Capsey,77,2
+71,2,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,A Capsey,79,2
+72,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,A Capsey,80,2
+73,2,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,FMK Morris,A Capsey,82,2
+74,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,FMK Morris,A Capsey,83,2
+75,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,FMK Morris,D van Niekerk,83,2
+76,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,FMK Morris,D van Niekerk,83,2
+77,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,FMK Morris,D van Niekerk,87,2
+78,6,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,S Ecclestone,D van Niekerk,93,2
+79,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,S Ecclestone,D van Niekerk,94,2
+80,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,S Ecclestone,A Capsey,98,2
+81,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,S Ecclestone,A Capsey,99,2
+82,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,S Ecclestone,D van Niekerk,100,2
+83,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,FMK Morris,D van Niekerk,100,2
+84,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,FMK Morris,D van Niekerk,101,2
+85,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,FMK Morris,A Capsey,102,2
+86,0,1,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,A Capsey,FMK Morris,D van Niekerk,102,3
+87,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,M Kapp,FMK Morris,D van Niekerk,103,3
+88,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,FMK Morris,M Kapp,103,3
+89,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,FMK Morris,M Kapp,104,3
+90,6,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,M Kapp,FMK Morris,D van Niekerk,110,3
+91,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,M Kapp,FMK Morris,D van Niekerk,110,3
+92,2,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,M Kapp,FMK Morris,D van Niekerk,112,3
+93,6,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,M Kapp,118,3
+94,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,M Kapp,122,3
+95,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,M Kapp,122,3
+96,0,1,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,D van Niekerk,A Wellington,M Kapp,122,4
+97,0,1,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,PJ Scholfield,A Wellington,M Kapp,122,5
+98,0,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,M Kapp,S Ecclestone,MK Villiers,122,5
+99,0,1,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,M Kapp,S Ecclestone,MK Villiers,122,6
+100,1,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,M Kapp,S Ecclestone,CL Griffith,123,6
+101,4,0,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,CL Griffith,S Ecclestone,M Kapp,127,6
+102,1,1,Oval Invincibles,1,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Manchester Originals,CL Griffith,S Ecclestone,M Kapp,128,7
+1,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,M Kapp,EL Lamb,0,0
+2,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,M Kapp,EL Lamb,1,0
+3,0,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,EL Lamb,M Kapp,L Wolvaardt,1,1
+4,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,M Kapp,L Wolvaardt,1,1
+5,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,M Kapp,L Wolvaardt,2,1
+6,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,Sophia Smale,A Campbell,2,1
+7,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,Sophia Smale,A Campbell,3,1
+8,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,Sophia Smale,L Wolvaardt,3,1
+9,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,Sophia Smale,L Wolvaardt,3,1
+10,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,Sophia Smale,L Wolvaardt,3,1
+11,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,M Kapp,A Campbell,3,1
+12,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,M Kapp,A Campbell,3,1
+13,2,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,M Kapp,A Campbell,5,1
+14,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,M Kapp,A Campbell,6,1
+15,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,M Kapp,L Wolvaardt,7,1
+16,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,Sophia Smale,A Campbell,11,1
+17,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,Sophia Smale,A Campbell,11,1
+18,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,Sophia Smale,A Campbell,15,1
+19,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,Sophia Smale,A Campbell,16,1
+20,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,Sophia Smale,L Wolvaardt,17,1
+21,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,E Gray,L Wolvaardt,17,1
+22,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,E Gray,L Wolvaardt,18,1
+23,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,E Gray,A Campbell,18,1
+24,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,E Gray,A Campbell,19,1
+25,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,E Gray,L Wolvaardt,19,1
+26,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,M Kapp,L Wolvaardt,19,1
+27,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,M Kapp,L Wolvaardt,20,1
+28,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,M Kapp,A Campbell,24,1
+29,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,M Kapp,A Campbell,25,1
+30,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,M Kapp,L Wolvaardt,25,1
+31,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,PJ Scholfield,A Campbell,29,1
+32,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,PJ Scholfield,A Campbell,30,1
+33,2,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,PJ Scholfield,L Wolvaardt,32,1
+34,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,PJ Scholfield,L Wolvaardt,33,1
+35,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,PJ Scholfield,L Wolvaardt,34,1
+36,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,PJ Scholfield,A Campbell,38,1
+37,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,E Gray,A Campbell,39,1
+38,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,E Gray,L Wolvaardt,40,1
+39,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,E Gray,A Campbell,41,1
+40,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,E Gray,L Wolvaardt,41,1
+41,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,E Gray,L Wolvaardt,42,1
+42,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,R MacDonald-Gay,L Wolvaardt,43,1
+43,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,R MacDonald-Gay,A Campbell,43,1
+44,0,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,L Wolvaardt,R MacDonald-Gay,A Campbell,43,2
+45,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,A Campbell,43,2
+46,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,A Campbell,44,2
+47,2,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,PJ Scholfield,DJS Dottin,46,2
+48,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,PJ Scholfield,DJS Dottin,46,2
+49,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,PJ Scholfield,DJS Dottin,46,2
+50,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,PJ Scholfield,DJS Dottin,47,2
+51,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,PJ Scholfield,A Campbell,48,2
+52,2,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,A Campbell,50,2
+53,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,A Campbell,51,2
+54,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,R MacDonald-Gay,DJS Dottin,55,2
+55,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,R MacDonald-Gay,DJS Dottin,55,2
+56,0,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Campbell,R MacDonald-Gay,DJS Dottin,55,3
+57,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Wellington,Sophia Smale,DJS Dottin,56,3
+58,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,Sophia Smale,A Wellington,57,3
+59,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Wellington,Sophia Smale,DJS Dottin,58,3
+60,6,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,Sophia Smale,A Wellington,64,3
+61,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,Sophia Smale,A Wellington,68,3
+62,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Wellington,E Gray,DJS Dottin,72,3
+63,0,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,A Wellington,E Gray,DJS Dottin,72,4
+64,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,E Gray,DJS Dottin,72,4
+65,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,E Gray,DJS Dottin,73,4
+66,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,E Gray,S Ecclestone,74,4
+67,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,R MacDonald-Gay,DJS Dottin,75,4
+68,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,S Ecclestone,79,4
+69,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,S Ecclestone,80,4
+70,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,R MacDonald-Gay,DJS Dottin,80,4
+71,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,R MacDonald-Gay,DJS Dottin,80,4
+72,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,A Capsey,S Ecclestone,81,4
+73,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,A Capsey,DJS Dottin,82,4
+74,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,A Capsey,DJS Dottin,86,4
+75,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,A Capsey,DJS Dottin,87,4
+76,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,A Capsey,S Ecclestone,88,4
+77,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,A Capsey,DJS Dottin,89,4
+78,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,A Capsey,DJS Dottin,93,4
+79,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,M Kapp,DJS Dottin,94,4
+80,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,M Kapp,S Ecclestone,98,4
+81,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,M Kapp,S Ecclestone,98,4
+82,6,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,M Kapp,S Ecclestone,104,4
+83,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,M Kapp,S Ecclestone,105,4
+84,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,PJ Scholfield,S Ecclestone,106,4
+85,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,PJ Scholfield,DJS Dottin,106,4
+86,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,PJ Scholfield,DJS Dottin,106,4
+87,0,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,S Ecclestone,PJ Scholfield,DJS Dottin,106,5
+88,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,FMK Morris,PJ Scholfield,DJS Dottin,107,5
+89,6,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,PJ Scholfield,FMK Morris,113,5
+90,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,PJ Scholfield,FMK Morris,113,5
+91,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,PJ Scholfield,FMK Morris,113,5
+92,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,PJ Scholfield,FMK Morris,113,5
+93,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,PJ Scholfield,FMK Morris,113,5
+94,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,FMK Morris,R MacDonald-Gay,DJS Dottin,114,5
+95,0,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,FMK Morris,114,5
+96,1,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,FMK Morris,115,6
+97,0,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,DJS Dottin,R MacDonald-Gay,KL George,115,7
+98,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,KE Bryce,R MacDonald-Gay,KL George,116,7
+99,0,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,KE Bryce,R MacDonald-Gay,KL George,116,8
+100,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,E Threlkeld,E Gray,KL George,117,8
+101,0,1,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,KL George,E Gray,E Threlkeld,117,9
+102,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,M Gaur,E Gray,E Threlkeld,118,9
+103,4,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,E Threlkeld,E Gray,M Gaur,122,9
+104,1,0,Manchester Originals,2,2023,female,Oval Invincibles,5 runs,"Kennington Oval, London",Manchester Originals,field,Oval Invincibles,E Threlkeld,E Gray,M Gaur,123,9
