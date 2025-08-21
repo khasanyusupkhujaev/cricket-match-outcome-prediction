@@ -1,0 +1,206 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,CE Dean,EL Lamb,0,0
+2,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,CE Dean,EL Lamb,0,0
+3,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,CE Dean,EL Lamb,1,0
+4,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,CE Dean,L Lee,5,0
+5,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,CE Dean,L Lee,5,0
+6,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,5,0
+7,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,5,0
+8,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,5,0
+9,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,6,0
+10,5,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,S Munro,EL Lamb,11,0
+11,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,S Munro,EL Lamb,11,0
+12,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,DB Sharma,L Lee,11,0
+13,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,DB Sharma,L Lee,11,0
+14,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,DB Sharma,L Lee,11,0
+15,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,DB Sharma,L Lee,11,0
+16,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,DB Sharma,L Lee,11,0
+17,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,15,0
+18,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,19,0
+19,6,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,25,0
+20,2,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,27,0
+21,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,S Munro,L Lee,28,0
+22,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,DB Sharma,L Lee,29,0
+23,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,DB Sharma,EL Lamb,29,0
+24,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,DB Sharma,EL Lamb,30,0
+25,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,DB Sharma,EL Lamb,30,0
+26,0,1,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,L Lee,DB Sharma,EL Lamb,30,1
+27,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DB Sharma,EL Lamb,30,1
+28,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,EL Lamb,30,1
+29,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,EL Lamb,31,1
+30,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,HC Knight,M du Preez,32,1
+31,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,EL Lamb,32,1
+32,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,EL Lamb,32,1
+33,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,DR Gibson,M du Preez,33,1
+34,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,EL Lamb,33,1
+35,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,EL Lamb,34,1
+36,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,DR Gibson,M du Preez,35,1
+37,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,EL Lamb,36,1
+38,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,HC Knight,M du Preez,37,1
+39,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,EL Lamb,38,1
+40,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,HC Knight,M du Preez,39,1
+41,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,EL Lamb,43,1
+42,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,EL Lamb,47,1
+43,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,ND Dattani,M du Preez,47,1
+44,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,ND Dattani,M du Preez,51,1
+45,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,ND Dattani,M du Preez,55,1
+46,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,ND Dattani,M du Preez,56,1
+47,2,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,ND Dattani,M du Preez,58,1
+48,2,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,ND Dattani,M du Preez,60,1
+49,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,ND Dattani,M du Preez,60,1
+50,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,CE Dean,M du Preez,61,1
+51,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,CE Dean,EL Lamb,65,1
+52,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,CE Dean,EL Lamb,65,1
+53,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,CE Dean,EL Lamb,69,1
+54,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,CE Dean,EL Lamb,69,1
+55,0,1,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,EL Lamb,HC Knight,M du Preez,69,2
+56,0,1,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,CL Griffith,HC Knight,M du Preez,69,3
+57,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,HC Knight,M du Preez,69,3
+58,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,HC Knight,M du Preez,69,3
+59,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,HC Knight,M du Preez,70,3
+60,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,S Ecclestone,71,3
+61,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DR Gibson,M du Preez,71,3
+62,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DR Gibson,M du Preez,72,3
+63,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,S Ecclestone,72,3
+64,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,S Ecclestone,72,3
+65,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,HC Knight,M du Preez,73,3
+66,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,S Ecclestone,73,3
+67,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,S Ecclestone,77,3
+68,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,HC Knight,S Ecclestone,78,3
+69,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,HC Knight,M du Preez,78,3
+70,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DR Gibson,M du Preez,79,3
+71,2,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,S Ecclestone,81,3
+72,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,S Ecclestone,81,3
+73,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DR Gibson,S Ecclestone,82,3
+74,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DR Gibson,M du Preez,82,3
+75,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DB Sharma,S Ecclestone,83,3
+76,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DB Sharma,M du Preez,84,3
+77,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DB Sharma,S Ecclestone,85,3
+78,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DB Sharma,M du Preez,86,3
+79,0,1,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,M du Preez,DB Sharma,S Ecclestone,86,4
+80,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,S Munro,S Ecclestone,87,4
+81,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,S Munro,E Threlkeld,87,4
+82,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,S Munro,E Threlkeld,91,4
+83,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,S Munro,E Threlkeld,91,4
+84,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,S Munro,E Threlkeld,92,4
+85,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,CE Dean,E Threlkeld,93,4
+86,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,CE Dean,S Ecclestone,93,4
+87,2,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,CE Dean,S Ecclestone,95,4
+88,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,CE Dean,S Ecclestone,99,4
+89,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,CE Dean,S Ecclestone,100,4
+90,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DB Sharma,E Threlkeld,100,4
+91,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DB Sharma,E Threlkeld,101,4
+92,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,DB Sharma,S Ecclestone,102,4
+93,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,DB Sharma,E Threlkeld,103,4
+94,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,DB Sharma,S Ecclestone,104,4
+95,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,CE Dean,S Ecclestone,105,4
+96,4,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,CE Dean,E Threlkeld,109,4
+97,0,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,CE Dean,E Threlkeld,109,4
+98,6,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,CE Dean,E Threlkeld,115,4
+99,2,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,CE Dean,E Threlkeld,117,4
+100,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,S Munro,E Threlkeld,118,4
+101,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,S Munro,S Ecclestone,119,4
+102,6,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,S Munro,E Threlkeld,125,4
+103,1,0,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,S Ecclestone,S Munro,E Threlkeld,126,4
+104,1,1,Manchester Originals,1,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,London Spirit,E Threlkeld,S Munro,S Ecclestone,127,5
+1,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,KL Cross,TT Beaumont,1,0
+2,0,1,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,TT Beaumont,KL Cross,ND Dattani,1,1
+3,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,KL Cross,ND Dattani,2,1
+4,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,KL Cross,HC Knight,4,1
+5,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,KL Cross,HC Knight,5,1
+6,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,KL Cross,ND Dattani,5,1
+7,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,S Ecclestone,ND Dattani,6,1
+8,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,S Ecclestone,HC Knight,6,1
+9,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,S Ecclestone,HC Knight,6,1
+10,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,S Ecclestone,HC Knight,6,1
+11,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,S Ecclestone,HC Knight,6,1
+12,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,HE Jones,ND Dattani,6,1
+13,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,HE Jones,ND Dattani,6,1
+14,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,HE Jones,ND Dattani,6,1
+15,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,HE Jones,ND Dattani,6,1
+16,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,HE Jones,ND Dattani,7,1
+17,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,EL Lamb,HC Knight,7,1
+18,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,EL Lamb,HC Knight,7,1
+19,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,EL Lamb,HC Knight,8,1
+20,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,EL Lamb,ND Dattani,12,1
+21,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,EL Lamb,ND Dattani,16,1
+22,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,KL Cross,HC Knight,18,1
+23,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,KL Cross,HC Knight,18,1
+24,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,KL Cross,HC Knight,22,1
+25,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,KL Cross,HC Knight,24,1
+26,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,KL Cross,HC Knight,24,1
+27,0,1,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,ND Dattani,A Hartley,HC Knight,24,2
+28,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,A Hartley,HC Knight,25,2
+29,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,A Hartley,DJS Dottin,27,2
+30,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,A Hartley,DJS Dottin,27,2
+31,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,A Hartley,DJS Dottin,28,2
+32,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,S Ecclestone,DJS Dottin,32,2
+33,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,S Ecclestone,DJS Dottin,33,2
+34,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,S Ecclestone,HC Knight,33,2
+35,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,S Ecclestone,HC Knight,33,2
+36,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,S Ecclestone,HC Knight,34,2
+37,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,S Ecclestone,HC Knight,34,2
+38,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,EL Lamb,HC Knight,34,2
+39,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,EL Lamb,HC Knight,38,2
+40,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,EL Lamb,HC Knight,38,2
+41,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,EL Lamb,HC Knight,39,2
+42,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,EL Lamb,DJS Dottin,43,2
+43,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,HE Jones,HC Knight,43,2
+44,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,HE Jones,HC Knight,44,2
+45,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,HE Jones,DJS Dottin,45,2
+46,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,HE Jones,HC Knight,46,2
+47,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,HE Jones,DJS Dottin,47,2
+48,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,A Hartley,HC Knight,47,2
+49,6,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,A Hartley,HC Knight,53,2
+50,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,A Hartley,HC Knight,53,2
+51,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,A Hartley,HC Knight,53,2
+52,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,A Hartley,HC Knight,55,2
+53,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,N Brown,DJS Dottin,56,2
+54,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,N Brown,HC Knight,57,2
+55,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,N Brown,DJS Dottin,59,2
+56,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,N Brown,DJS Dottin,60,2
+57,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,N Brown,HC Knight,60,2
+58,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,S Ecclestone,HC Knight,61,2
+59,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,S Ecclestone,DJS Dottin,62,2
+60,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,S Ecclestone,HC Knight,66,2
+61,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,S Ecclestone,HC Knight,70,2
+62,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,S Ecclestone,HC Knight,72,2
+63,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,KL Cross,DJS Dottin,72,2
+64,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,KL Cross,DJS Dottin,76,2
+65,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,KL Cross,DJS Dottin,77,2
+66,0,1,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DJS Dottin,KL Cross,HC Knight,77,3
+67,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DR Gibson,KL Cross,HC Knight,78,3
+68,0,1,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,HC Knight,A Hartley,DR Gibson,78,4
+69,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,A Hartley,DR Gibson,80,4
+70,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,A Hartley,DR Gibson,81,4
+71,6,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DR Gibson,A Hartley,DB Sharma,87,4
+72,0,1,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DR Gibson,A Hartley,DB Sharma,87,5
+73,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,89,5
+74,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,90,5
+75,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,CE Dean,HE Jones,DB Sharma,91,5
+76,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,91,5
+77,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,91,5
+78,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,91,5
+79,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,91,5
+80,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,93,5
+81,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,95,5
+82,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,HE Jones,CE Dean,96,5
+83,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,S Ecclestone,CE Dean,96,5
+84,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,S Ecclestone,CE Dean,98,5
+85,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,S Ecclestone,CE Dean,99,5
+86,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,CE Dean,S Ecclestone,DB Sharma,103,5
+87,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,CE Dean,S Ecclestone,DB Sharma,103,5
+88,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,CE Dean,A Hartley,DB Sharma,104,5
+89,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,A Hartley,CE Dean,108,5
+90,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,A Hartley,CE Dean,112,5
+91,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,A Hartley,CE Dean,113,5
+92,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,CE Dean,A Hartley,DB Sharma,114,5
+93,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,CE Dean,KL Cross,DB Sharma,115,5
+94,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,CE Dean,KL Cross,DB Sharma,116,5
+95,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,KL Cross,CE Dean,118,5
+96,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,KL Cross,CE Dean,122,5
+97,0,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,KL Cross,CE Dean,122,5
+98,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,KL Cross,CE Dean,124,5
+99,2,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,N Brown,CE Dean,126,5
+100,1,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,DB Sharma,N Brown,CE Dean,127,5
+101,4,0,London Spirit,2,2021,female,London Spirit,5 wickets,"Old Trafford, Manchester",Manchester Originals,bat,Manchester Originals,CE Dean,N Brown,DB Sharma,131,5

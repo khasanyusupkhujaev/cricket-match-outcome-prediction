@@ -1,0 +1,206 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,A Lyth,JL Denly,CA Lynn,1,0
+2,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,JL Denly,A Lyth,5,0
+3,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,JL Denly,A Lyth,5,0
+4,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,JL Denly,A Lyth,5,0
+5,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,JL Denly,A Lyth,5,0
+6,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,RE van der Merwe,A Lyth,5,0
+7,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,RE van der Merwe,A Lyth,5,0
+8,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,RE van der Merwe,A Lyth,9,0
+9,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,RE van der Merwe,A Lyth,13,0
+10,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,RE van der Merwe,A Lyth,15,0
+11,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,A Lyth,Mohammad Nabi,CA Lynn,15,0
+12,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,A Lyth,Mohammad Nabi,CA Lynn,16,0
+13,0,1,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,CA Lynn,Mohammad Nabi,A Lyth,16,1
+14,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,A Lyth,16,1
+15,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,A Lyth,16,1
+16,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,A Lyth,16,1
+17,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,A Lyth,16,1
+18,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,A Lyth,18,1
+19,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,A Lyth,22,1
+20,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,A Lyth,24,1
+21,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,A Lyth,Mohammad Amir,HC Brook,25,1
+22,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Amir,A Lyth,25,1
+23,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Amir,A Lyth,26,1
+24,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,A Lyth,Mohammad Amir,HC Brook,27,1
+25,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Amir,A Lyth,27,1
+26,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,BC Cullen,A Lyth,28,1
+27,0,1,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,A Lyth,BC Cullen,HC Brook,28,2
+28,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,HC Brook,32,2
+29,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,HC Brook,32,2
+30,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,HC Brook,33,2
+31,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,HC Brook,34,2
+32,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Amir,DJ Willey,38,2
+33,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Amir,DJ Willey,39,2
+34,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,HC Brook,40,2
+35,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,HC Brook,42,2
+36,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,HC Brook,46,2
+37,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,HC Brook,46,2
+38,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,HC Brook,52,2
+39,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,HC Brook,54,2
+40,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,HC Brook,58,2
+41,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,HC Brook,59,2
+42,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,HC Brook,60,2
+43,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,DJ Willey,60,2
+44,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,DJ Willey,61,2
+45,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,HC Brook,62,2
+46,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,DJ Willey,62,2
+47,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,DJ Willey,68,2
+48,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,DJ Willey,68,2
+49,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,DJ Willey,69,2
+50,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,HC Brook,69,2
+51,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,HC Brook,69,2
+52,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,DJ Willey,71,2
+53,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,DJ Willey,72,2
+54,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Nabi,HC Brook,78,2
+55,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Nabi,HC Brook,79,2
+56,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,Mohammad Nabi,DJ Willey,80,2
+57,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,HC Brook,80,2
+58,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,HC Brook,82,2
+59,3,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,HC Brook,85,2
+60,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,RE van der Merwe,DJ Willey,86,2
+61,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,HC Brook,88,2
+62,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,HC Brook,89,2
+63,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,HC Brook,90,2
+64,0,1,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,HC Brook,MS Crane,DJ Willey,90,3
+65,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,MS Crane,DJ Willey,91,3
+66,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,DJ Vilas,93,3
+67,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,DJ Vilas,95,3
+68,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,DJ Vilas,96,3
+69,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,MS Crane,DJ Willey,97,3
+70,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,MS Crane,DJ Vilas,98,3
+71,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,MS Crane,DJ Willey,98,3
+72,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,MS Crane,DJ Willey,99,3
+73,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,BC Cullen,DJ Willey,100,3
+74,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,DJ Vilas,106,3
+75,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,DJ Vilas,107,3
+76,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,BC Cullen,DJ Willey,107,3
+77,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,BC Cullen,DJ Willey,107,3
+78,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,Mohammad Amir,DJ Willey,111,3
+79,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,Mohammad Amir,DJ Willey,115,3
+80,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,Mohammad Amir,DJ Willey,115,3
+81,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,Mohammad Amir,DJ Willey,116,3
+82,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,DJ Vilas,117,3
+83,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,DJ Vilas,118,3
+84,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,RE van der Merwe,DJ Willey,119,3
+85,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,DJ Vilas,120,3
+86,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,RE van der Merwe,DJ Willey,121,3
+87,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,DJ Vilas,123,3
+88,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,DJ Vilas,124,3
+89,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,RE van der Merwe,DJ Willey,128,3
+90,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,RE van der Merwe,DJ Willey,129,3
+91,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,RE van der Merwe,DJ Vilas,130,3
+92,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Vilas,RE van der Merwe,DJ Willey,132,3
+93,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,DJ Vilas,132,3
+94,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,DJ Vilas,132,3
+95,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,DJ Vilas,132,3
+96,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,DJ Vilas,138,3
+97,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,BC Cullen,DJ Vilas,140,3
+98,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,DJ Vilas,142,3
+99,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,DJ Vilas,142,3
+100,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,DJ Vilas,148,3
+101,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,DJ Vilas,154,3
+102,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,London Spirit,DJ Willey,Mohammad Amir,DJ Vilas,155,3
+1,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Willey,JP Inglis,0,0
+2,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Willey,JP Inglis,1,0
+3,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JP Inglis,DJ Willey,AM Rossington,2,0
+4,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,AM Rossington,DJ Willey,JP Inglis,2,1
+5,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,DJ Willey,JP Inglis,3,1
+6,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JP Inglis,DJ Willey,LM Reece,3,1
+7,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JP Inglis,DJ Willey,LM Reece,4,1
+8,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,DJ Willey,JP Inglis,4,1
+9,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,DJ Willey,JP Inglis,5,1
+10,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JP Inglis,DJ Willey,LM Reece,5,2
+11,2,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,MJ Potts,EJG Morgan,7,2
+12,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,MJ Potts,EJG Morgan,7,2
+13,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,MJ Potts,EJG Morgan,7,2
+14,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,MJ Potts,EJG Morgan,7,2
+15,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,MJ Potts,EJG Morgan,7,2
+16,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,DJ Willey,EJG Morgan,8,2
+17,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,DJ Willey,LM Reece,8,2
+18,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,DJ Willey,LM Reece,8,2
+19,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,DJ Willey,LM Reece,9,2
+20,2,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,DJ Willey,EJG Morgan,11,2
+21,4,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,MJ Potts,LM Reece,15,2
+22,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,MJ Potts,LM Reece,15,2
+23,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,MJ Potts,LM Reece,16,2
+24,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,MJ Potts,LM Reece,16,2
+25,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,MJ Potts,LM Reece,17,2
+26,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,MJ Potts,EJG Morgan,17,2
+27,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,BA Carse,EJG Morgan,18,2
+28,6,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,BA Carse,LM Reece,24,2
+29,4,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,BA Carse,LM Reece,28,2
+30,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,BA Carse,LM Reece,29,2
+31,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,BA Carse,EJG Morgan,30,2
+32,6,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,AU Rashid,EJG Morgan,36,2
+33,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,AU Rashid,EJG Morgan,36,2
+34,6,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,AU Rashid,EJG Morgan,42,2
+35,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,AU Rashid,EJG Morgan,42,2
+36,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,AU Rashid,EJG Morgan,42,2
+37,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,Mujeeb Ur Rahman,EJG Morgan,42,2
+38,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,Mujeeb Ur Rahman,EJG Morgan,43,2
+39,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,Mujeeb Ur Rahman,LM Reece,44,2
+40,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,Mujeeb Ur Rahman,EJG Morgan,44,2
+41,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,Mujeeb Ur Rahman,EJG Morgan,44,2
+42,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,BA Raine,LM Reece,45,2
+43,4,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,BA Raine,EJG Morgan,49,2
+44,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,LM Reece,BA Raine,EJG Morgan,49,3
+45,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,Mohammad Nabi,BA Raine,EJG Morgan,50,3
+46,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,BA Raine,Mohammad Nabi,51,3
+47,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,Mohammad Nabi,AU Rashid,EJG Morgan,52,3
+48,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,AU Rashid,Mohammad Nabi,52,3
+49,2,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,AU Rashid,Mohammad Nabi,54,3
+50,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,AU Rashid,Mohammad Nabi,54,3
+51,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,AU Rashid,Mohammad Nabi,55,3
+52,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,Mujeeb Ur Rahman,Mohammad Nabi,56,3
+53,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,Mohammad Nabi,Mujeeb Ur Rahman,EJG Morgan,56,3
+54,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,Mohammad Nabi,Mujeeb Ur Rahman,EJG Morgan,56,4
+55,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,Mujeeb Ur Rahman,EJG Morgan,56,4
+56,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,Mujeeb Ur Rahman,EJG Morgan,56,4
+57,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,Mujeeb Ur Rahman,EJG Morgan,56,4
+58,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,Mujeeb Ur Rahman,EJG Morgan,56,4
+59,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,Mujeeb Ur Rahman,EJG Morgan,56,4
+60,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,Mujeeb Ur Rahman,EJG Morgan,56,4
+61,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,Mujeeb Ur Rahman,EJG Morgan,57,4
+62,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,BA Raine,EJG Morgan,58,4
+63,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,BA Raine,JL Denly,58,4
+64,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,BA Raine,JL Denly,59,4
+65,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,BA Raine,EJG Morgan,59,4
+66,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,BA Raine,EJG Morgan,60,4
+67,2,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,AU Rashid,JL Denly,62,4
+68,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,EJG Morgan,AU Rashid,JL Denly,62,5
+69,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,AU Rashid,JL Denly,63,5
+70,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,JL Denly,AU Rashid,RS Bopara,63,6
+71,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,AU Rashid,RS Bopara,63,6
+72,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,BA Raine,RE van der Merwe,63,6
+73,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,BA Raine,RE van der Merwe,64,6
+74,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,BA Raine,RS Bopara,65,6
+75,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,BA Raine,RE van der Merwe,66,6
+76,4,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,BA Raine,RS Bopara,70,6
+77,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,MJ Potts,RS Bopara,70,6
+78,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,MJ Potts,RS Bopara,71,6
+79,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,MJ Potts,RE van der Merwe,72,6
+80,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,MJ Potts,RS Bopara,73,6
+81,4,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,MJ Potts,RE van der Merwe,77,6
+82,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,AU Rashid,RS Bopara,78,6
+83,2,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,AU Rashid,RE van der Merwe,80,6
+84,2,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,AU Rashid,RE van der Merwe,82,6
+85,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,AU Rashid,RE van der Merwe,83,6
+86,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,AU Rashid,RS Bopara,83,6
+87,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,AU Rashid,RS Bopara,83,6
+88,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,BA Raine,RS Bopara,84,6
+89,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,BA Raine,RS Bopara,85,6
+90,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RS Bopara,BA Raine,RE van der Merwe,85,7
+91,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,BC Cullen,BA Raine,RE van der Merwe,85,7
+92,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,BC Cullen,BA Raine,RE van der Merwe,85,8
+93,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,Mohammad Amir,BA Raine,RE van der Merwe,86,8
+94,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,Mohammad Amir,Mujeeb Ur Rahman,RE van der Merwe,86,8
+95,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,Mohammad Amir,Mujeeb Ur Rahman,RE van der Merwe,87,8
+96,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,Mujeeb Ur Rahman,Mohammad Amir,88,8
+97,0,1,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,Mohammad Amir,Mujeeb Ur Rahman,RE van der Merwe,88,9
+98,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,MS Crane,Mujeeb Ur Rahman,RE van der Merwe,88,9
+99,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,MS Crane,MJ Potts,RE van der Merwe,89,9
+100,0,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,MJ Potts,MS Crane,89,9
+101,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,MJ Potts,MS Crane,90,9
+102,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,MS Crane,MJ Potts,RE van der Merwe,91,9
+103,1,0,London Spirit,2,2021,male,Northern Superchargers,63 runs,"Lord's, London",Northern Superchargers,bat,Northern Superchargers,RE van der Merwe,MJ Potts,MS Crane,92,9

@@ -1,0 +1,207 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,L Wood,CA Lynn,1,0
+2,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,CA Lynn,L Wood,A Lyth,2,0
+3,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,CA Lynn,L Wood,A Lyth,2,0
+4,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,CA Lynn,L Wood,A Lyth,3,0
+5,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,L Wood,CA Lynn,4,0
+6,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,CA Lynn,L Wood,A Lyth,5,0
+7,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,M Carter,CA Lynn,6,0
+8,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,CA Lynn,M Carter,A Lyth,6,1
+9,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,BA Stokes,M Carter,A Lyth,7,1
+10,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,M Carter,BA Stokes,7,1
+11,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,M Carter,BA Stokes,7,1
+12,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,BA Stokes,JE Root,A Lyth,11,1
+13,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,BA Stokes,JE Root,A Lyth,12,1
+14,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,JE Root,BA Stokes,13,1
+15,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,BA Stokes,JE Root,A Lyth,13,1
+16,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,BA Stokes,JE Root,A Lyth,13,1
+17,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,BA Stokes,M Carter,A Lyth,17,1
+18,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,BA Stokes,M Carter,A Lyth,17,2
+19,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M Carter,A Lyth,17,2
+20,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M Carter,A Lyth,17,2
+21,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M Carter,A Lyth,18,2
+22,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M Carter,A Lyth,19,2
+23,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M Carter,A Lyth,19,2
+24,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M Carter,A Lyth,20,2
+25,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,M Carter,HC Brook,20,2
+26,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,M Carter,HC Brook,20,2
+27,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,M Carter,HC Brook,21,2
+28,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,M Carter,HC Brook,25,2
+29,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,SR Patel,HC Brook,26,2
+30,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,SR Patel,A Lyth,27,2
+31,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,SR Patel,HC Brook,28,2
+32,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,SR Patel,A Lyth,28,2
+33,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,SR Patel,A Lyth,29,2
+34,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,Rashid Khan,A Lyth,33,2
+35,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,Rashid Khan,A Lyth,37,2
+36,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,Rashid Khan,A Lyth,38,2
+37,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,A Lyth,Rashid Khan,HC Brook,38,3
+38,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,HC Brook,38,3
+39,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,JE Root,HC Brook,38,3
+40,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,JE Root,HC Brook,39,3
+41,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,JE Root,JA Simpson,40,3
+42,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,JE Root,HC Brook,41,3
+43,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,JE Root,JA Simpson,42,3
+44,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,Rashid Khan,JA Simpson,43,3
+45,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,HC Brook,44,3
+46,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,Rashid Khan,JA Simpson,45,3
+47,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,HC Brook,46,3
+48,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,Rashid Khan,JA Simpson,46,3
+49,3,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M de Lange,JA Simpson,49,3
+50,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,M de Lange,HC Brook,50,3
+51,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M de Lange,JA Simpson,50,3
+52,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M de Lange,JA Simpson,51,3
+53,3,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,M de Lange,HC Brook,54,3
+54,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M de Lange,JA Simpson,55,3
+55,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,M de Lange,HC Brook,56,3
+56,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,SR Patel,HC Brook,56,3
+57,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,SR Patel,HC Brook,57,3
+58,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,SR Patel,JA Simpson,58,3
+59,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,SR Patel,HC Brook,62,3
+60,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,SR Patel,HC Brook,62,3
+61,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,HC Brook,66,3
+62,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,HC Brook,66,3
+63,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,HC Brook,70,3
+64,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,HC Brook,70,3
+65,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,HC Brook,74,3
+66,2,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,JE Root,JA Simpson,76,3
+67,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,JE Root,JA Simpson,80,3
+68,2,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,JE Root,JA Simpson,82,3
+69,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,JE Root,JA Simpson,83,3
+70,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,JE Root,HC Brook,87,3
+71,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,M Carter,HC Brook,88,3
+72,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M Carter,JA Simpson,89,3
+73,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,M Carter,HC Brook,89,3
+74,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,M Carter,HC Brook,90,3
+75,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,M Carter,JA Simpson,94,3
+76,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,L Gregory,HC Brook,95,3
+77,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,L Gregory,JA Simpson,95,3
+78,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,L Gregory,JA Simpson,99,3
+79,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,HC Brook,L Gregory,JA Simpson,99,4
+80,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,T Kohler-Cadmore,L Gregory,JA Simpson,99,4
+81,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,T Kohler-Cadmore,SR Patel,JA Simpson,100,4
+82,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,SR Patel,T Kohler-Cadmore,101,4
+83,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,T Kohler-Cadmore,SR Patel,JA Simpson,102,4
+84,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,SR Patel,T Kohler-Cadmore,102,4
+85,0,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,SR Patel,T Kohler-Cadmore,102,4
+86,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,T Kohler-Cadmore,Rashid Khan,JA Simpson,103,4
+87,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,T Kohler-Cadmore,Rashid Khan,JA Simpson,107,4
+88,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,T Kohler-Cadmore,Rashid Khan,JA Simpson,107,5
+89,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,Mujeeb Ur Rahman,Rashid Khan,JA Simpson,108,5
+90,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,Rashid Khan,Mujeeb Ur Rahman,109,5
+91,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,Mujeeb Ur Rahman,Rashid Khan,JA Simpson,109,6
+92,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,DJ Willey,M de Lange,JA Simpson,109,7
+93,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,BA Carse,M de Lange,JA Simpson,109,8
+94,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,AU Rashid,M de Lange,JA Simpson,110,8
+95,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,M de Lange,AU Rashid,111,8
+96,2,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,AU Rashid,M de Lange,JA Simpson,113,8
+97,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,L Gregory,AU Rashid,114,8
+98,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,L Gregory,AU Rashid,118,8
+99,2,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,L Gregory,AU Rashid,120,8
+100,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,L Gregory,AU Rashid,121,8
+101,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,AU Rashid,L Gregory,JA Simpson,122,8
+102,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,L Gregory,AU Rashid,123,8
+103,1,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,AU Rashid,M de Lange,JA Simpson,124,8
+104,0,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,JA Simpson,M de Lange,AU Rashid,124,9
+105,3,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,CF Parkinson,M de Lange,AU Rashid,127,9
+106,4,0,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,AU Rashid,M de Lange,CF Parkinson,131,9
+107,1,1,Northern Superchargers,1,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Trent Rockets,AU Rashid,M de Lange,CF Parkinson,132,10
+1,2,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,DJ Willey,AD Hales,2,0
+2,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,DJ Willey,AD Hales,2,0
+3,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,DJ Willey,AD Hales,2,0
+4,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,DJ Willey,AD Hales,3,0
+5,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,DJ Willey,DJM Short,4,0
+6,6,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,DJ Willey,AD Hales,10,0
+7,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,DJ Willey,AD Hales,10,0
+8,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,DJ Willey,AD Hales,11,0
+9,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,DJ Willey,AD Hales,12,0
+10,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,DJ Willey,DJM Short,16,0
+11,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,DJ Willey,DJM Short,16,0
+12,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,Mujeeb Ur Rahman,AD Hales,16,0
+13,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,Mujeeb Ur Rahman,AD Hales,16,0
+14,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,Mujeeb Ur Rahman,AD Hales,20,0
+15,0,1,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJM Short,Mujeeb Ur Rahman,AD Hales,20,1
+16,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJ Malan,Mujeeb Ur Rahman,AD Hales,20,1
+17,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJ Malan,AU Rashid,AD Hales,20,1
+18,0,1,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,DJ Malan,AU Rashid,AD Hales,20,2
+19,0,1,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,JE Root,AU Rashid,AD Hales,20,3
+20,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,AU Rashid,AD Hales,21,3
+21,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,SR Patel,21,3
+22,2,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,Mujeeb Ur Rahman,AD Hales,23,3
+23,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,Mujeeb Ur Rahman,AD Hales,24,3
+24,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,Mujeeb Ur Rahman,SR Patel,24,3
+25,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,Mujeeb Ur Rahman,SR Patel,24,3
+26,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,Mujeeb Ur Rahman,SR Patel,24,3
+27,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,CF Parkinson,SR Patel,25,3
+28,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,CF Parkinson,AD Hales,26,3
+29,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,CF Parkinson,SR Patel,27,3
+30,6,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,CF Parkinson,AD Hales,33,3
+31,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,CF Parkinson,AD Hales,34,3
+32,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,CF Parkinson,AD Hales,34,3
+33,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,CF Parkinson,AD Hales,35,3
+34,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,CF Parkinson,SR Patel,36,3
+35,0,1,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,SR Patel,CF Parkinson,AD Hales,36,4
+36,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,TJ Moores,CF Parkinson,AD Hales,37,4
+37,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,TJ Moores,37,4
+38,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,TJ Moores,37,4
+39,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,TJ Moores,37,4
+40,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,TJ Moores,37,4
+41,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,TJ Moores,37,4
+42,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,TJ Moores,BA Stokes,AD Hales,38,4
+43,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,TJ Moores,39,4
+44,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,TJ Moores,BA Stokes,AD Hales,39,4
+45,2,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,TJ Moores,BA Stokes,AD Hales,41,4
+46,0,1,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,TJ Moores,BA Stokes,AD Hales,41,5
+47,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Gregory,BA Stokes,AD Hales,42,5
+48,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,L Gregory,42,5
+49,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,L Gregory,42,5
+50,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,L Gregory,43,5
+51,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Gregory,BA Stokes,AD Hales,44,5
+52,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Gregory,Mujeeb Ur Rahman,AD Hales,45,5
+53,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,Mujeeb Ur Rahman,L Gregory,46,5
+54,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Gregory,Mujeeb Ur Rahman,AD Hales,50,5
+55,6,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Gregory,Mujeeb Ur Rahman,AD Hales,56,5
+56,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Gregory,Mujeeb Ur Rahman,AD Hales,57,5
+57,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,CF Parkinson,L Gregory,58,5
+58,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Gregory,CF Parkinson,AD Hales,58,5
+59,0,1,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Gregory,CF Parkinson,AD Hales,58,6
+60,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,CF Parkinson,AD Hales,62,6
+61,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,CF Parkinson,AD Hales,63,6
+62,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,BA Carse,AD Hales,67,6
+63,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,BA Carse,AD Hales,68,6
+64,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Carse,Rashid Khan,69,6
+65,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Carse,Rashid Khan,70,6
+66,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,BA Carse,AD Hales,70,6
+67,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,BA Carse,AD Hales,70,6
+68,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,AU Rashid,AD Hales,74,6
+69,6,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,AU Rashid,AD Hales,80,6
+70,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,AU Rashid,AD Hales,80,6
+71,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,AU Rashid,AD Hales,84,6
+72,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,AU Rashid,AD Hales,85,6
+73,0,1,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,Rashid Khan,BA Stokes,AD Hales,85,7
+74,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Wood,BA Stokes,AD Hales,86,7
+75,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,L Wood,86,7
+76,2,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,L Wood,88,7
+77,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,L Wood,89,7
+78,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,L Wood,90,7
+79,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Wood,AU Rashid,AD Hales,91,7
+80,6,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,L Wood,97,7
+81,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,L Wood,97,7
+82,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,L Wood,101,7
+83,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,AU Rashid,L Wood,101,7
+84,2,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Wood,Mujeeb Ur Rahman,AD Hales,103,7
+85,0,1,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,L Wood,Mujeeb Ur Rahman,AD Hales,103,8
+86,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,M Carter,Mujeeb Ur Rahman,AD Hales,104,8
+87,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,Mujeeb Ur Rahman,M Carter,105,8
+88,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,M Carter,Mujeeb Ur Rahman,AD Hales,105,8
+89,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,M Carter,BA Stokes,AD Hales,105,8
+90,4,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,M Carter,BA Stokes,AD Hales,109,8
+91,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,M Carter,BA Stokes,AD Hales,110,8
+92,0,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,M Carter,110,8
+93,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,M Carter,111,8
+94,6,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,BA Stokes,M Carter,117,8
+95,6,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,M Carter,DJ Willey,AD Hales,123,8
+96,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,M Carter,DJ Willey,AD Hales,124,8
+97,1,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,DJ Willey,M Carter,125,8
+98,3,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,M Carter,DJ Willey,AD Hales,128,8
+99,6,0,Trent Rockets,2,2021,male,Trent Rockets,2 wickets,"Trent Bridge, Nottingham",Northern Superchargers,bat,Northern Superchargers,AD Hales,DJ Willey,M Carter,134,8

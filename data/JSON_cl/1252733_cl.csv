@@ -1,0 +1,205 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,GL Adams,A Shrubsole,D van Niekerk,0,0
+2,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,GL Adams,A Shrubsole,D van Niekerk,0,0
+3,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,GL Adams,A Shrubsole,D van Niekerk,4,0
+4,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,GL Adams,A Shrubsole,D van Niekerk,4,0
+5,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,GL Adams,A Shrubsole,D van Niekerk,5,0
+6,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,GL Adams,5,0
+7,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,GL Adams,5,0
+8,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,GL Adams,5,0
+9,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,GL Adams,5,0
+10,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,GL Adams,5,0
+11,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,GL Adams,A Shrubsole,D van Niekerk,5,1
+12,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Shrubsole,D van Niekerk,5,1
+13,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Shrubsole,D van Niekerk,5,1
+14,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Shrubsole,D van Niekerk,5,1
+15,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Shrubsole,D van Niekerk,6,1
+16,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,FC Wilson,10,1
+17,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,FC Wilson,10,1
+18,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,FC Wilson,14,1
+19,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,FC Wilson,15,1
+20,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,FC Wilson,16,1
+21,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,LK Bell,D van Niekerk,16,1
+22,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Shrubsole,FC Wilson,17,1
+23,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Shrubsole,FC Wilson,18,1
+24,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Shrubsole,D van Niekerk,18,1
+25,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Shrubsole,D van Niekerk,19,1
+26,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Shrubsole,D van Niekerk,20,1
+27,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Shrubsole,FC Wilson,20,1
+28,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Shrubsole,FC Wilson,21,1
+29,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Wellington,D van Niekerk,22,1
+30,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Wellington,FC Wilson,23,1
+31,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Wellington,D van Niekerk,27,1
+32,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Wellington,D van Niekerk,27,1
+33,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Wellington,D van Niekerk,27,1
+34,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,FMK Morris,FC Wilson,28,1
+35,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,FMK Morris,D van Niekerk,28,1
+36,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,FMK Morris,D van Niekerk,29,1
+37,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,FMK Morris,FC Wilson,30,1
+38,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,FMK Morris,D van Niekerk,34,1
+39,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,SR Taylor,D van Niekerk,34,1
+40,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,SR Taylor,D van Niekerk,35,1
+41,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,SR Taylor,D van Niekerk,36,1
+42,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,SR Taylor,FC Wilson,38,1
+43,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,SR Taylor,FC Wilson,39,1
+44,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,SR Taylor,D van Niekerk,40,1
+45,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Wellington,D van Niekerk,41,1
+46,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Wellington,FC Wilson,42,1
+47,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Wellington,D van Niekerk,43,1
+48,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Wellington,FC Wilson,44,1
+49,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Wellington,D van Niekerk,45,1
+50,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,TG Norris,FC Wilson,45,1
+51,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,TG Norris,FC Wilson,46,1
+52,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,TG Norris,D van Niekerk,46,1
+53,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,TG Norris,D van Niekerk,47,1
+54,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,TG Norris,D van Niekerk,48,1
+55,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,TG Norris,FC Wilson,52,1
+56,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,FMK Morris,D van Niekerk,56,1
+57,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,FMK Morris,D van Niekerk,56,1
+58,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,FMK Morris,D van Niekerk,56,1
+59,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,FMK Morris,D van Niekerk,57,1
+60,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,FMK Morris,FC Wilson,57,1
+61,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,SR Taylor,FC Wilson,58,1
+62,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,SR Taylor,D van Niekerk,59,1
+63,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,SR Taylor,FC Wilson,59,1
+64,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,SR Taylor,FC Wilson,60,1
+65,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,SR Taylor,D van Niekerk,61,1
+66,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,FC Wilson,A Wellington,D van Niekerk,61,2
+67,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,A Wellington,D van Niekerk,62,2
+68,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Wellington,M Kapp,62,2
+69,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,A Wellington,M Kapp,63,2
+70,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,A Wellington,D van Niekerk,64,2
+71,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,D van Niekerk,LK Bell,M Kapp,64,3
+72,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,LK Bell,M Kapp,64,3
+73,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,LK Bell,M Kapp,65,3
+74,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,LK Bell,A Capsey,66,3
+75,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,LK Bell,M Kapp,70,3
+76,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,FMK Morris,A Capsey,70,3
+77,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,FMK Morris,A Capsey,72,3
+78,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,FMK Morris,A Capsey,76,3
+79,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,FMK Morris,A Capsey,77,3
+80,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,FMK Morris,M Kapp,79,3
+81,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,SR Taylor,M Kapp,80,3
+82,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,SR Taylor,A Capsey,82,3
+83,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,SR Taylor,A Capsey,83,3
+84,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,SR Taylor,M Kapp,84,3
+85,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,SR Taylor,A Capsey,88,3
+86,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,A Wellington,M Kapp,92,3
+87,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,A Wellington,M Kapp,93,3
+88,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,A Wellington,A Capsey,94,3
+89,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,A Wellington,M Kapp,94,3
+90,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,A Wellington,M Kapp,98,3
+91,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,LK Bell,M Kapp,98,3
+92,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,A Capsey,LK Bell,M Kapp,98,4
+93,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,MK Villiers,LK Bell,M Kapp,102,4
+94,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,MK Villiers,LK Bell,M Kapp,106,4
+95,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,MK Villiers,LK Bell,M Kapp,106,4
+96,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,FMK Morris,MK Villiers,110,4
+97,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,FMK Morris,MK Villiers,114,4
+98,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,M Kapp,FMK Morris,MK Villiers,114,5
+99,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,J Gardner,FMK Morris,MK Villiers,114,5
+100,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,J Gardner,FMK Morris,MK Villiers,115,5
+101,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,MK Villiers,A Shrubsole,J Gardner,117,5
+102,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,MK Villiers,A Shrubsole,J Gardner,119,5
+103,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,MK Villiers,A Shrubsole,J Gardner,120,5
+104,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,J Gardner,A Shrubsole,MK Villiers,121,5
+105,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Southern Brave,MK Villiers,A Shrubsole,J Gardner,121,6
+1,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,DN Wyatt,M Kapp,GH Lewis,1,0
+2,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,DN Wyatt,M Kapp,GH Lewis,1,0
+3,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,DN Wyatt,M Kapp,GH Lewis,1,0
+4,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,DN Wyatt,M Kapp,GH Lewis,1,0
+5,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,DN Wyatt,M Kapp,GH Lewis,1,1
+6,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SIR Dunkley,M Kapp,GH Lewis,1,1
+7,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SIR Dunkley,M Kapp,GH Lewis,1,2
+8,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,M Kapp,GH Lewis,1,2
+9,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,M Kapp,GH Lewis,2,2
+10,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,GH Lewis,M Kapp,SR Taylor,2,2
+11,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,GH Lewis,M Kapp,SR Taylor,2,3
+12,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,S Ismail,ME Bouchier,2,3
+13,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,S Ismail,ME Bouchier,3,3
+14,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,S Ismail,SR Taylor,3,3
+15,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,S Ismail,SR Taylor,3,3
+16,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,S Ismail,SR Taylor,7,3
+17,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,NE Farrant,SR Taylor,7,3
+18,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,NE Farrant,SR Taylor,7,3
+19,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,NE Farrant,SR Taylor,8,3
+20,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,NE Farrant,ME Bouchier,8,3
+21,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,NE Farrant,ME Bouchier,8,3
+22,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,M Kapp,SR Taylor,8,3
+23,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,M Kapp,SR Taylor,9,3
+24,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,M Kapp,ME Bouchier,10,3
+25,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,ME Bouchier,M Kapp,SR Taylor,11,3
+26,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,M Kapp,ME Bouchier,11,3
+27,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,S Ismail,ME Bouchier,11,3
+28,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,S Ismail,ME Bouchier,11,4
+29,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,A Wellington,S Ismail,SR Taylor,11,4
+30,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,A Wellington,S Ismail,SR Taylor,11,4
+31,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,A Wellington,S Ismail,SR Taylor,11,5
+32,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,NE Farrant,A Shrubsole,11,5
+33,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,NE Farrant,A Shrubsole,12,5
+34,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,A Shrubsole,NE Farrant,SR Taylor,12,5
+35,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,A Shrubsole,NE Farrant,SR Taylor,13,5
+36,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,NE Farrant,A Shrubsole,14,5
+37,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,A Shrubsole,A Capsey,SR Taylor,14,6
+38,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,SR Taylor,14,6
+39,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,SR Taylor,14,6
+40,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,SR Taylor,14,6
+41,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,SR Taylor,14,6
+42,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,S Ismail,FMK Morris,18,6
+43,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,S Ismail,FMK Morris,19,6
+44,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,S Ismail,SR Taylor,19,6
+45,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,S Ismail,SR Taylor,19,6
+46,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,S Ismail,SR Taylor,19,6
+47,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,D van Niekerk,SR Taylor,19,6
+48,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,D van Niekerk,SR Taylor,19,6
+49,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,D van Niekerk,SR Taylor,19,6
+50,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,D van Niekerk,SR Taylor,20,6
+51,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,D van Niekerk,FMK Morris,21,6
+52,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,A Capsey,FMK Morris,21,6
+53,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,A Capsey,FMK Morris,25,6
+54,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,A Capsey,FMK Morris,26,6
+55,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,SR Taylor,27,6
+56,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,A Capsey,FMK Morris,27,6
+57,2,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,D van Niekerk,FMK Morris,29,6
+58,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,SR Taylor,D van Niekerk,FMK Morris,29,7
+59,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,D van Niekerk,FMK Morris,30,7
+60,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,D van Niekerk,TG Norris,31,7
+61,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,D van Niekerk,FMK Morris,31,7
+62,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,TG Norris,35,7
+63,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,TG Norris,35,7
+64,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,TG Norris,39,7
+65,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,TG Norris,39,7
+66,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,TG Norris,40,7
+67,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,S Ismail,FMK Morris,40,7
+68,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,S Ismail,FMK Morris,40,7
+69,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,S Ismail,FMK Morris,41,7
+70,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,S Ismail,TG Norris,45,7
+71,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,S Ismail,TG Norris,45,7
+72,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,NE Farrant,FMK Morris,46,7
+73,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,NE Farrant,TG Norris,47,7
+74,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,NE Farrant,FMK Morris,48,7
+75,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,NE Farrant,TG Norris,48,7
+76,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,NE Farrant,TG Norris,48,7
+77,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,D van Niekerk,TG Norris,49,7
+78,2,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,D van Niekerk,FMK Morris,51,7
+79,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,D van Niekerk,FMK Morris,51,7
+80,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,D van Niekerk,FMK Morris,55,7
+81,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,D van Niekerk,FMK Morris,56,7
+82,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,A Capsey,FMK Morris,56,7
+83,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,A Capsey,FMK Morris,57,7
+84,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,TG Norris,61,7
+85,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,FMK Morris,A Capsey,TG Norris,62,7
+86,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,TG Norris,A Capsey,FMK Morris,62,8
+87,1,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,CE Rudd,D van Niekerk,FMK Morris,63,9
+88,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,CE Rudd,D van Niekerk,LK Bell,63,9
+89,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,CE Rudd,D van Niekerk,LK Bell,64,9
+90,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,LK Bell,D van Niekerk,CE Rudd,64,9
+91,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,LK Bell,D van Niekerk,CE Rudd,64,9
+92,2,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,CE Rudd,NE Farrant,LK Bell,66,9
+93,2,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,CE Rudd,NE Farrant,LK Bell,68,9
+94,1,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,CE Rudd,NE Farrant,LK Bell,69,9
+95,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,LK Bell,NE Farrant,CE Rudd,69,9
+96,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,LK Bell,NE Farrant,CE Rudd,69,9
+97,4,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,LK Bell,M Kapp,CE Rudd,73,9
+98,0,0,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,LK Bell,M Kapp,CE Rudd,73,9
+99,0,1,Southern Brave,2,2021,female,Oval Invincibles,48 runs,"Lord's, London",Southern Brave,field,Oval Invincibles,LK Bell,M Kapp,CE Rudd,73,10

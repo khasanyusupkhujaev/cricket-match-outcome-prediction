@@ -1,0 +1,201 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,L Lee,P Cleary,EL Lamb,4,0
+2,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,L Lee,P Cleary,EL Lamb,8,0
+3,0,1,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,L Lee,P Cleary,EL Lamb,8,1
+4,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,P Cleary,EL Lamb,8,1
+5,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,P Cleary,EL Lamb,9,1
+6,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,P Cleary,EL Lamb,10,1
+7,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,P Cleary,EL Lamb,10,1
+8,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,BF Smith,EL Lamb,10,1
+9,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,BF Smith,EL Lamb,11,1
+10,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,EL Lamb,BF Smith,GEB Boyce,11,1
+11,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,EL Lamb,BF Smith,GEB Boyce,12,1
+12,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,BF Smith,EL Lamb,12,1
+13,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,EL Lamb,HK Matthews,GEB Boyce,12,1
+14,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,EL Lamb,HK Matthews,GEB Boyce,13,1
+15,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,HK Matthews,EL Lamb,14,1
+16,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,EL Lamb,HK Matthews,GEB Boyce,14,1
+17,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,EL Lamb,HK Matthews,GEB Boyce,15,1
+18,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,BF Smith,EL Lamb,16,1
+19,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,EL Lamb,BF Smith,GEB Boyce,17,1
+20,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,BF Smith,EL Lamb,18,1
+21,0,1,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,EL Lamb,BF Smith,GEB Boyce,18,2
+22,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,BF Smith,GEB Boyce,19,2
+23,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,P Cleary,GEB Boyce,20,2
+24,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,P Cleary,H Kaur,20,2
+25,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,P Cleary,H Kaur,21,2
+26,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,P Cleary,GEB Boyce,21,2
+27,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,P Cleary,GEB Boyce,21,2
+28,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,21,2
+29,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,21,2
+30,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,21,2
+31,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,22,2
+32,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,GM Hennessy,H Kaur,22,2
+33,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,22,2
+34,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,23,2
+35,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,GM Hennessy,H Kaur,24,2
+36,2,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,26,2
+37,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,26,2
+38,5,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HL Baker,GEB Boyce,31,2
+39,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HL Baker,GEB Boyce,31,2
+40,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HL Baker,GEB Boyce,35,2
+41,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HL Baker,GEB Boyce,36,2
+42,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,HL Baker,H Kaur,36,2
+43,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,HL Baker,H Kaur,36,2
+44,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,N Harvey,GEB Boyce,36,2
+45,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,N Harvey,GEB Boyce,37,2
+46,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,N Harvey,H Kaur,37,2
+47,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,N Harvey,H Kaur,38,2
+48,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,N Harvey,GEB Boyce,38,2
+49,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HK Matthews,GEB Boyce,39,2
+50,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,HK Matthews,H Kaur,40,2
+51,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HK Matthews,GEB Boyce,40,2
+52,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HK Matthews,GEB Boyce,41,2
+53,2,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,HK Matthews,H Kaur,43,2
+54,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,GM Hennessy,GEB Boyce,44,2
+55,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,GM Hennessy,H Kaur,45,2
+56,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,GM Hennessy,H Kaur,49,2
+57,0,1,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,GEB Boyce,GM Hennessy,H Kaur,49,3
+58,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,GM Hennessy,H Kaur,49,3
+59,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,GM Hennessy,H Kaur,50,3
+60,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,GM Hennessy,H Kaur,54,3
+61,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,N Harvey,H Kaur,54,3
+62,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,N Harvey,H Kaur,55,3
+63,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,N Harvey,M du Preez,55,3
+64,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,N Harvey,M du Preez,56,3
+65,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,N Harvey,H Kaur,60,3
+66,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HK Matthews,M du Preez,61,3
+67,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,HK Matthews,H Kaur,62,3
+68,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,HK Matthews,M du Preez,63,3
+69,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,HK Matthews,H Kaur,67,3
+70,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,HK Matthews,H Kaur,68,3
+71,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,P Cleary,M du Preez,72,3
+72,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,P Cleary,M du Preez,73,3
+73,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,P Cleary,H Kaur,73,3
+74,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,P Cleary,H Kaur,74,3
+75,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,P Cleary,H Kaur,75,3
+76,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,P Cleary,M du Preez,76,3
+77,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,A Griffiths,M du Preez,77,3
+78,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,A Griffiths,H Kaur,78,3
+79,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,A Griffiths,M du Preez,79,3
+80,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,A Griffiths,H Kaur,80,3
+81,0,1,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,H Kaur,A Griffiths,M du Preez,80,4
+82,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,A Griffiths,M du Preez,80,4
+83,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,A Griffiths,M du Preez,81,4
+84,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,A Griffiths,S Ecclestone,82,4
+85,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,A Griffiths,M du Preez,83,4
+86,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,A Griffiths,S Ecclestone,87,4
+87,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,BF Smith,M du Preez,91,4
+88,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,BF Smith,M du Preez,95,4
+89,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,BF Smith,M du Preez,96,4
+90,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,BF Smith,S Ecclestone,97,4
+91,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,BF Smith,M du Preez,97,4
+92,2,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,GM Hennessy,M du Preez,99,4
+93,6,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,GM Hennessy,M du Preez,105,4
+94,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,GM Hennessy,M du Preez,106,4
+95,0,1,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,M du Preez,GM Hennessy,S Ecclestone,106,5
+96,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,KL Cross,GM Hennessy,S Ecclestone,106,5
+97,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,HK Matthews,KL Cross,107,5
+98,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,KL Cross,HK Matthews,S Ecclestone,108,5
+99,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,HK Matthews,KL Cross,109,5
+100,0,1,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,KL Cross,HK Matthews,S Ecclestone,109,6
+101,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,CL Griffith,HK Matthews,S Ecclestone,110,6
+102,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,A Griffiths,CL Griffith,111,6
+103,0,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,CL Griffith,A Griffiths,S Ecclestone,111,6
+104,1,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,CL Griffith,A Griffiths,S Ecclestone,112,6
+105,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,A Griffiths,CL Griffith,116,6
+106,4,0,Manchester Originals,1,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Welsh Fire,S Ecclestone,A Griffiths,CL Griffith,120,6
+1,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,BF Smith,A Hartley,HK Matthews,1,0
+2,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,BF Smith,A Hartley,HK Matthews,2,0
+3,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,BF Smith,3,0
+4,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,BF Smith,A Hartley,HK Matthews,4,0
+5,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,BF Smith,4,0
+6,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,BF Smith,8,0
+7,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,BF Smith,12,0
+8,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,BF Smith,16,0
+9,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,BF Smith,16,0
+10,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,BF Smith,16,0
+11,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,BF Smith,20,0
+12,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,BF Smith,S Ecclestone,HK Matthews,21,0
+13,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,BF Smith,22,0
+14,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,BF Smith,22,0
+15,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,BF Smith,22,0
+16,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,BF Smith,22,0
+17,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,BF Smith,22,0
+18,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,L Jackson,BF Smith,23,0
+19,0,1,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,BF Smith,L Jackson,HK Matthews,23,1
+20,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,24,1
+21,2,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,L Jackson,G Redmayne,26,1
+22,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,L Jackson,G Redmayne,27,1
+23,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,G Redmayne,28,1
+24,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,S Ecclestone,HK Matthews,28,1
+25,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,S Ecclestone,HK Matthews,29,1
+26,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,G Redmayne,29,1
+27,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,G Redmayne,29,1
+28,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,30,1
+29,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,EL Lamb,HK Matthews,31,1
+30,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,EL Lamb,HK Matthews,35,1
+31,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,EL Lamb,HK Matthews,36,1
+32,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,EL Lamb,HK Matthews,37,1
+33,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,37,1
+34,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,41,1
+35,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,KL Cross,HK Matthews,42,1
+36,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,G Redmayne,43,1
+37,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,KL Cross,HK Matthews,43,1
+38,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,KL Cross,HK Matthews,44,1
+39,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,G Redmayne,44,1
+40,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,G Redmayne,45,1
+41,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,A Hartley,HK Matthews,45,1
+42,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,A Hartley,HK Matthews,46,1
+43,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,G Redmayne,47,1
+44,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,A Hartley,HK Matthews,48,1
+45,3,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,51,1
+46,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,L Jackson,G Redmayne,51,1
+47,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,L Jackson,G Redmayne,52,1
+48,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,56,1
+49,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,57,1
+50,6,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,L Jackson,G Redmayne,63,1
+51,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,G Redmayne,67,1
+52,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,G Redmayne,68,1
+53,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,A Hartley,HK Matthews,68,1
+54,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,A Hartley,HK Matthews,69,1
+55,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,G Redmayne,73,1
+56,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,S Ecclestone,HK Matthews,74,1
+57,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,G Redmayne,75,1
+58,2,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,S Ecclestone,HK Matthews,77,1
+59,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,S Ecclestone,HK Matthews,78,1
+60,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,G Redmayne,79,1
+61,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,KL Cross,HK Matthews,80,1
+62,2,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,G Redmayne,82,1
+63,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,G Redmayne,83,1
+64,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,KL Cross,HK Matthews,83,1
+65,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,KL Cross,HK Matthews,87,1
+66,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,88,1
+67,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,EL Lamb,HK Matthews,89,1
+68,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,89,1
+69,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,90,1
+70,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,EL Lamb,HK Matthews,91,1
+71,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,G Redmayne,92,1
+72,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,S Ecclestone,HK Matthews,93,1
+73,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,G Redmayne,94,1
+74,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,S Ecclestone,HK Matthews,95,1
+75,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,S Ecclestone,G Redmayne,95,1
+76,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,A Hartley,HK Matthews,96,1
+77,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,G Redmayne,96,1
+78,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,G Redmayne,100,1
+79,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,A Hartley,G Redmayne,101,1
+80,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,A Hartley,HK Matthews,101,1
+81,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,EL Lamb,HK Matthews,102,1
+82,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,103,1
+83,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,EL Lamb,HK Matthews,104,1
+84,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,104,1
+85,2,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,EL Lamb,G Redmayne,106,1
+86,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,106,1
+87,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,107,1
+88,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,L Jackson,G Redmayne,108,1
+89,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,112,1
+90,3,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,115,1
+91,0,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,L Jackson,HK Matthews,115,1
+92,1,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,G Redmayne,KL Cross,HK Matthews,116,1
+93,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,G Redmayne,120,1
+94,4,0,Welsh Fire,2,2021,female,Welsh Fire,9 wickets,"Sophia Gardens, Cardiff",Welsh Fire,field,Manchester Originals,HK Matthews,KL Cross,G Redmayne,124,1

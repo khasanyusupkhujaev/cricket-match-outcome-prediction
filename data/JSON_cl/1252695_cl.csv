@@ -1,0 +1,200 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,3,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,JJ Roy,GHS Garton,WG Jacks,3,0
+2,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,GHS Garton,JJ Roy,4,0
+3,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,JJ Roy,GHS Garton,WG Jacks,5,0
+4,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,GHS Garton,JJ Roy,9,0
+5,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,GHS Garton,JJ Roy,10,0
+6,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,JJ Roy,DR Briggs,WG Jacks,11,0
+7,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,DR Briggs,JJ Roy,15,0
+8,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,DR Briggs,JJ Roy,15,0
+9,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,DR Briggs,JJ Roy,19,0
+10,6,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,DR Briggs,JJ Roy,25,0
+11,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,JJ Roy,TS Mills,WG Jacks,26,0
+12,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,TS Mills,JJ Roy,26,0
+13,6,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,TS Mills,JJ Roy,32,0
+14,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,TS Mills,JJ Roy,36,0
+15,6,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,TS Mills,JJ Roy,42,0
+16,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,GHS Garton,JJ Roy,46,0
+17,0,1,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,WG Jacks,GHS Garton,JJ Roy,46,1
+18,0,1,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,CA Ingram,GHS Garton,JJ Roy,46,2
+19,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,GHS Garton,JJ Roy,46,2
+20,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,GHS Garton,JJ Roy,46,2
+21,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,JJ Roy,GHS Garton,SW Billings,46,2
+22,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,JJ Roy,GHS Garton,SW Billings,47,2
+23,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,GHS Garton,JJ Roy,51,2
+24,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,GHS Garton,JJ Roy,55,2
+25,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,GHS Garton,JJ Roy,56,2
+26,0,1,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,JJ Roy,DR Briggs,SW Billings,56,3
+27,3,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,DR Briggs,SW Billings,59,3
+28,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,DR Briggs,SP Narine,59,3
+29,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,DR Briggs,SP Narine,59,3
+30,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,DR Briggs,SP Narine,60,3
+31,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,JB Lintott,SP Narine,61,3
+32,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,JB Lintott,SW Billings,62,3
+33,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,JB Lintott,SP Narine,63,3
+34,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,JB Lintott,SW Billings,64,3
+35,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,JB Lintott,SP Narine,64,3
+36,0,1,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SW Billings,JB Lintott,SP Narine,64,4
+37,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,LJ Evans,JB Lintott,SP Narine,65,4
+38,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,JB Lintott,LJ Evans,66,4
+39,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,LJ Evans,JB Lintott,SP Narine,67,4
+40,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,JB Lintott,LJ Evans,68,4
+41,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,TS Mills,LJ Evans,68,4
+42,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,TS Mills,LJ Evans,68,4
+43,2,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,TS Mills,LJ Evans,70,4
+44,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,TS Mills,LJ Evans,71,4
+45,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,LJ Evans,TS Mills,SP Narine,71,4
+46,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,LJ Evans,DR Briggs,SP Narine,71,4
+47,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,LJ Evans,DR Briggs,SP Narine,72,4
+48,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,DR Briggs,LJ Evans,73,4
+49,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,LJ Evans,DR Briggs,SP Narine,74,4
+50,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,DR Briggs,LJ Evans,75,4
+51,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,JB Lintott,LJ Evans,75,4
+52,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,JB Lintott,LJ Evans,76,4
+53,0,1,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,LJ Evans,JB Lintott,SP Narine,76,5
+54,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,JB Lintott,SP Narine,77,5
+55,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,JB Lintott,AJ Blake,78,5
+56,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,SP Narine,79,5
+57,0,1,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,SP Narine,CJ Jordan,AJ Blake,79,6
+58,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,TK Curran,CJ Jordan,AJ Blake,80,6
+59,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,TK Curran,81,6
+60,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,TK Curran,CJ Jordan,AJ Blake,82,6
+61,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,TK Curran,DR Briggs,AJ Blake,82,6
+62,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,TK Curran,DR Briggs,AJ Blake,83,6
+63,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,DR Briggs,TK Curran,84,6
+64,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,TK Curran,DR Briggs,AJ Blake,85,6
+65,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,DR Briggs,TK Curran,85,6
+66,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,TK Curran,85,6
+67,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,TK Curran,85,6
+68,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,TK Curran,89,6
+69,6,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,TK Curran,95,6
+70,2,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,TK Curran,97,6
+71,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,TK Curran,JB Lintott,AJ Blake,98,6
+72,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,JB Lintott,TK Curran,99,6
+73,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,TK Curran,JB Lintott,AJ Blake,99,6
+74,0,1,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,TK Curran,JB Lintott,AJ Blake,99,7
+75,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,JB Lintott,AJ Blake,100,7
+76,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,PR Stirling,S Mahmood,101,7
+77,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,PR Stirling,AJ Blake,101,7
+78,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,PR Stirling,AJ Blake,102,7
+79,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,PR Stirling,S Mahmood,103,7
+80,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,PR Stirling,AJ Blake,104,7
+81,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,TS Mills,AJ Blake,104,7
+82,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,TS Mills,AJ Blake,105,7
+83,6,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,TS Mills,S Mahmood,111,7
+84,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,TS Mills,S Mahmood,112,7
+85,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,TS Mills,AJ Blake,113,7
+86,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,113,7
+87,2,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,115,7
+88,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,116,7
+89,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,CJ Jordan,AJ Blake,117,7
+90,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,118,7
+91,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,TS Mills,S Mahmood,118,7
+92,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,TS Mills,S Mahmood,119,7
+93,1,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,S Mahmood,TS Mills,AJ Blake,120,7
+94,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,TS Mills,S Mahmood,120,7
+95,6,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,TS Mills,S Mahmood,126,7
+96,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,126,7
+97,2,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,128,7
+98,0,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,128,7
+99,2,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,130,7
+100,4,0,Oval Invincibles,1,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Southern Brave,AJ Blake,CJ Jordan,S Mahmood,134,7
+1,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,Q de Kock,S Mahmood,PR Stirling,1,0
+2,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,PR Stirling,S Mahmood,Q de Kock,1,0
+3,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,PR Stirling,S Mahmood,Q de Kock,2,0
+4,4,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,Q de Kock,S Mahmood,PR Stirling,6,0
+5,4,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,Q de Kock,S Mahmood,PR Stirling,10,0
+6,0,1,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,Q de Kock,RJW Topley,PR Stirling,10,1
+7,3,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,RJW Topley,PR Stirling,13,1
+8,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,PR Stirling,RJW Topley,JM Vince,13,1
+9,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,PR Stirling,RJW Topley,JM Vince,14,1
+10,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,RJW Topley,PR Stirling,14,1
+11,0,1,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,PR Stirling,TK Curran,JM Vince,14,2
+12,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,TK Curran,JM Vince,14,2
+13,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,TK Curran,JM Vince,15,2
+14,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,TK Curran,AL Davies,15,2
+15,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,TK Curran,AL Davies,15,2
+16,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,RJW Topley,AL Davies,15,2
+17,4,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,RJW Topley,AL Davies,19,2
+18,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,RJW Topley,AL Davies,19,2
+19,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,RJW Topley,AL Davies,20,2
+20,4,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,RJW Topley,JM Vince,24,2
+21,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,S Mahmood,AL Davies,24,2
+22,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,S Mahmood,AL Davies,25,2
+23,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,S Mahmood,JM Vince,26,2
+24,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,S Mahmood,JM Vince,26,2
+25,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,S Mahmood,JM Vince,27,2
+26,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,S Mahmood,AL Davies,27,2
+27,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,T Shamsi,AL Davies,27,2
+28,4,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,T Shamsi,AL Davies,31,2
+29,1,1,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,JM Vince,T Shamsi,AL Davies,32,3
+30,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,GHS Garton,34,3
+31,4,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,GHS Garton,38,3
+32,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,38,3
+33,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,39,3
+34,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,SP Narine,GHS Garton,40,3
+35,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,42,3
+36,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,42,3
+37,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,43,3
+38,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,SP Narine,GHS Garton,44,3
+39,6,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,50,3
+40,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,50,3
+41,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,51,3
+42,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,TK Curran,AL Davies,51,3
+43,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,TK Curran,AL Davies,51,3
+44,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,TK Curran,AL Davies,52,3
+45,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,TK Curran,GHS Garton,53,3
+46,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,TK Curran,AL Davies,55,3
+47,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,T Shamsi,AL Davies,56,3
+48,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,GHS Garton,57,3
+49,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,T Shamsi,AL Davies,57,3
+50,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,T Shamsi,AL Davies,58,3
+51,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,GHS Garton,59,3
+52,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,SP Narine,GHS Garton,60,3
+53,6,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,66,3
+54,2,1,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,GHS Garton,SP Narine,AL Davies,68,4
+55,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,SP Narine,C de Grandhomme,69,4
+56,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,SP Narine,AL Davies,69,4
+57,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,70,4
+58,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,71,4
+59,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,S Mahmood,C de Grandhomme,72,4
+60,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,74,4
+61,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,76,4
+62,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,77,4
+63,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,RJW Topley,AL Davies,78,4
+64,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,RJW Topley,C de Grandhomme,79,4
+65,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,RJW Topley,AL Davies,81,4
+66,6,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,RJW Topley,AL Davies,87,4
+67,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,RJW Topley,AL Davies,87,4
+68,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,RJW Topley,AL Davies,88,4
+69,4,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,C de Grandhomme,92,4
+70,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,C de Grandhomme,92,4
+71,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,C de Grandhomme,94,4
+72,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,C de Grandhomme,95,4
+73,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,T Shamsi,AL Davies,96,4
+74,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,SP Narine,AL Davies,97,4
+75,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,SP Narine,C de Grandhomme,98,4
+76,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,SP Narine,AL Davies,99,4
+77,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,SP Narine,C de Grandhomme,100,4
+78,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,SP Narine,AL Davies,101,4
+79,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,TK Curran,C de Grandhomme,102,4
+80,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,TK Curran,AL Davies,103,4
+81,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,TK Curran,C de Grandhomme,104,4
+82,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,TK Curran,AL Davies,104,4
+83,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,TK Curran,AL Davies,105,4
+84,6,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,T Shamsi,AL Davies,111,4
+85,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,T Shamsi,AL Davies,111,4
+86,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,T Shamsi,AL Davies,112,4
+87,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,T Shamsi,C de Grandhomme,113,4
+88,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,T Shamsi,AL Davies,115,4
+89,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,117,4
+90,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,118,4
+91,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,S Mahmood,C de Grandhomme,119,4
+92,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,119,4
+93,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,S Mahmood,AL Davies,120,4
+94,6,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,RJW Topley,AL Davies,126,4
+95,2,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,RJW Topley,AL Davies,128,4
+96,1,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,C de Grandhomme,RJW Topley,AL Davies,129,4
+97,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,RJW Topley,C de Grandhomme,129,4
+98,0,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,RJW Topley,C de Grandhomme,129,4
+99,6,0,Southern Brave,2,2021,male,Southern Brave,6 wickets,"The Rose Bowl, Southampton",Southern Brave,field,Oval Invincibles,AL Davies,RJW Topley,C de Grandhomme,135,4

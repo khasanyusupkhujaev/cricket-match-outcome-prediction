@@ -1,0 +1,211 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GL Adams,FR Davies,A Capsey,0,0
+2,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GL Adams,FR Davies,A Capsey,0,1
+3,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,0,1
+4,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,2,1
+5,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,2,1
+6,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,2,1
+7,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,3,1
+8,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,7,1
+9,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,8,1
+10,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,10,1
+11,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,10,1
+12,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,FR Davies,A Capsey,14,1
+13,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,ND Dattani,GJ Gibbs,18,1
+14,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,ND Dattani,GJ Gibbs,18,1
+15,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,ND Dattani,GJ Gibbs,20,1
+16,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,ND Dattani,GJ Gibbs,20,1
+17,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,ND Dattani,GJ Gibbs,20,1
+18,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,GJ Gibbs,20,1
+19,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,GJ Gibbs,20,1
+20,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,GJ Gibbs,24,1
+21,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,GJ Gibbs,24,1
+22,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,GJ Gibbs,24,1
+23,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,DB Sharma,A Capsey,24,1
+24,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,GJ Gibbs,DB Sharma,A Capsey,24,2
+25,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,FC Wilson,DB Sharma,A Capsey,24,2
+26,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,FC Wilson,DB Sharma,A Capsey,25,2
+27,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,FC Wilson,DB Sharma,A Capsey,26,2
+28,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,FC Wilson,27,2
+29,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,FC Wilson,CE Dean,A Capsey,28,2
+30,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,CE Dean,FC Wilson,28,2
+31,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,CE Dean,FC Wilson,29,2
+32,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,FC Wilson,CE Dean,A Capsey,29,3
+33,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CE Dean,A Capsey,29,3
+34,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,HC Knight,D van Niekerk,29,3
+35,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,HC Knight,D van Niekerk,33,3
+36,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,HC Knight,D van Niekerk,34,3
+37,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,HC Knight,A Capsey,35,3
+38,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,HC Knight,D van Niekerk,36,3
+39,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,ND Dattani,A Capsey,37,3
+40,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,ND Dattani,A Capsey,37,3
+41,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,ND Dattani,A Capsey,41,3
+42,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,ND Dattani,A Capsey,45,3
+43,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,ND Dattani,A Capsey,45,3
+44,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,ND Dattani,A Capsey,46,3
+45,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CE Dean,A Capsey,47,3
+46,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,CE Dean,D van Niekerk,51,3
+47,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,CE Dean,D van Niekerk,55,3
+48,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,CE Dean,D van Niekerk,56,3
+49,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CE Dean,A Capsey,57,3
+50,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,D van Niekerk,57,3
+51,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,D van Niekerk,61,3
+52,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,D van Niekerk,62,3
+53,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,A Capsey,62,3
+54,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,A Capsey,63,3
+55,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,HC Knight,A Capsey,64,3
+56,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,HC Knight,D van Niekerk,65,3
+57,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,HC Knight,A Capsey,66,3
+58,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,HC Knight,D van Niekerk,67,3
+59,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,HC Knight,A Capsey,68,3
+60,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,D van Niekerk,69,3
+61,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DB Sharma,A Capsey,70,3
+62,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,D van Niekerk,74,3
+63,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,D van Niekerk,75,3
+64,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DB Sharma,A Capsey,76,3
+65,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CL Tryon,A Capsey,76,3
+66,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CL Tryon,A Capsey,77,3
+67,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,CL Tryon,D van Niekerk,77,3
+68,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,CL Tryon,D van Niekerk,78,3
+69,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CL Tryon,A Capsey,78,3
+70,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CL Tryon,A Capsey,78,3
+71,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CL Tryon,A Capsey,78,3
+72,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CL Tryon,A Capsey,82,3
+73,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CL Tryon,A Capsey,82,3
+74,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,CL Tryon,A Capsey,82,3
+75,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,D van Niekerk,82,3
+76,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,D van Niekerk,86,3
+77,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,D van Niekerk,87,3
+78,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,D van Niekerk,91,3
+79,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DB Sharma,D van Niekerk,92,3
+80,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DB Sharma,A Capsey,93,3
+81,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,D van Niekerk,94,3
+82,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,A Capsey,95,3
+83,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,D van Niekerk,99,3
+84,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,DJS Dottin,D van Niekerk,100,3
+85,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,A Capsey,102,3
+86,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,A Capsey,103,3
+87,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,A Capsey,104,3
+88,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,FR Davies,A Capsey,104,3
+89,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,FR Davies,A Capsey,105,3
+90,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,FR Davies,D van Niekerk,107,3
+91,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,FR Davies,D van Niekerk,108,3
+92,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,FR Davies,A Capsey,109,3
+93,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,ND Dattani,D van Niekerk,109,3
+94,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,A Capsey,ND Dattani,D van Niekerk,109,4
+95,6,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,MK Villiers,ND Dattani,D van Niekerk,115,4
+96,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,MK Villiers,ND Dattani,D van Niekerk,117,4
+97,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,MK Villiers,ND Dattani,D van Niekerk,117,5
+98,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,NE Farrant,119,5
+99,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,NE Farrant,119,5
+100,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,NE Farrant,119,5
+101,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,D van Niekerk,DJS Dottin,NE Farrant,119,6
+102,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,J Gardner,DJS Dottin,NE Farrant,123,6
+103,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,J Gardner,FR Davies,NE Farrant,127,6
+104,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,J Gardner,FR Davies,NE Farrant,128,6
+105,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,NE Farrant,FR Davies,J Gardner,130,6
+106,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,NE Farrant,FR Davies,J Gardner,131,6
+107,1,1,Oval Invincibles,1,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,London Spirit,J Gardner,FR Davies,NE Farrant,132,7
+1,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,S Ismail,DJS Dottin,0,0
+2,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,S Ismail,DJS Dottin,0,0
+3,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,S Ismail,DJS Dottin,0,0
+4,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,S Ismail,DJS Dottin,1,0
+5,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,5,0
+6,2,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,7,0
+7,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,8,0
+8,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,8,0
+9,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,9,0
+10,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,9,0
+11,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,9,0
+12,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,9,0
+13,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,NE Farrant,DJS Dottin,9,0
+14,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,NE Farrant,DJS Dottin,9,0
+15,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,NE Farrant,DJS Dottin,9,0
+16,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,NE Farrant,DJS Dottin,9,0
+17,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,NE Farrant,DJS Dottin,10,0
+18,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,NE Farrant,ND Dattani,14,0
+19,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,NE Farrant,ND Dattani,14,0
+20,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,NE Farrant,ND Dattani,14,0
+21,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,NE Farrant,ND Dattani,14,0
+22,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,NE Farrant,ND Dattani,18,0
+23,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,S Ismail,DJS Dottin,18,0
+24,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,S Ismail,DJS Dottin,19,0
+25,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,19,0
+26,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,19,0
+27,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,S Ismail,ND Dattani,19,0
+28,0,1,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DJS Dottin,MK Villiers,ND Dattani,19,1
+29,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,MK Villiers,ND Dattani,20,1
+30,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,MK Villiers,HC Knight,21,1
+31,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,MK Villiers,ND Dattani,21,1
+32,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,MK Villiers,ND Dattani,22,1
+33,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D van Niekerk,ND Dattani,23,1
+34,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,D van Niekerk,HC Knight,27,1
+35,0,1,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,ND Dattani,D van Niekerk,HC Knight,27,2
+36,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DB Sharma,D van Niekerk,HC Knight,28,2
+37,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D van Niekerk,DB Sharma,32,2
+38,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,MK Villiers,DB Sharma,32,2
+39,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,MK Villiers,DB Sharma,32,2
+40,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,MK Villiers,DB Sharma,33,2
+41,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DB Sharma,MK Villiers,HC Knight,34,2
+42,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DB Sharma,MK Villiers,HC Knight,34,2
+43,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DB Sharma,MK Villiers,HC Knight,35,2
+44,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DB Sharma,D Gregory,HC Knight,36,2
+45,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D Gregory,DB Sharma,37,2
+46,0,1,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DB Sharma,D Gregory,HC Knight,37,3
+47,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D Gregory,CL Tryon,38,3
+48,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,D Gregory,HC Knight,38,3
+49,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,D Gregory,HC Knight,38,3
+50,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,D Gregory,HC Knight,39,3
+51,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D Gregory,CL Tryon,43,3
+52,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D Gregory,CL Tryon,47,3
+53,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D Gregory,CL Tryon,48,3
+54,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,GJ Gibbs,CL Tryon,49,3
+55,2,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,GJ Gibbs,HC Knight,51,3
+56,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,GJ Gibbs,HC Knight,51,3
+57,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,GJ Gibbs,HC Knight,52,3
+58,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,GJ Gibbs,CL Tryon,52,3
+59,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D van Niekerk,CL Tryon,52,3
+60,6,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D van Niekerk,CL Tryon,58,3
+61,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D van Niekerk,CL Tryon,59,3
+62,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,D van Niekerk,HC Knight,59,3
+63,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,D van Niekerk,HC Knight,59,3
+64,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,S Ismail,CL Tryon,59,3
+65,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,S Ismail,CL Tryon,60,3
+66,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,S Ismail,HC Knight,60,3
+67,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,S Ismail,HC Knight,64,3
+68,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,S Ismail,HC Knight,64,3
+69,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,MK Villiers,HC Knight,64,3
+70,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,MK Villiers,HC Knight,64,3
+71,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,MK Villiers,HC Knight,65,3
+72,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,MK Villiers,CL Tryon,66,3
+73,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,MK Villiers,HC Knight,66,3
+74,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,GJ Gibbs,CL Tryon,70,3
+75,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,GJ Gibbs,CL Tryon,70,3
+76,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,GJ Gibbs,CL Tryon,74,3
+77,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,GJ Gibbs,CL Tryon,74,3
+78,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,GJ Gibbs,CL Tryon,75,3
+79,0,1,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CL Tryon,NE Farrant,HC Knight,75,4
+80,0,1,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,FR Davies,NE Farrant,HC Knight,75,5
+81,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,NE Farrant,HC Knight,76,5
+82,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,NE Farrant,DR Gibson,77,5
+83,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,NE Farrant,HC Knight,77,5
+84,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D van Niekerk,DR Gibson,78,5
+85,0,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,D van Niekerk,HC Knight,78,5
+86,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,D van Niekerk,HC Knight,82,5
+87,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,D van Niekerk,HC Knight,83,5
+88,0,1,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,HC Knight,D van Niekerk,DR Gibson,83,6
+89,0,1,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,SE Rowe,D van Niekerk,DR Gibson,83,7
+90,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CE Dean,D van Niekerk,DR Gibson,84,7
+91,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,D van Niekerk,CE Dean,88,7
+92,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,D van Niekerk,CE Dean,89,7
+93,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CE Dean,D van Niekerk,DR Gibson,90,7
+94,2,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CE Dean,NE Farrant,DR Gibson,92,7
+95,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CE Dean,NE Farrant,DR Gibson,96,7
+96,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CE Dean,NE Farrant,DR Gibson,97,7
+97,2,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,NE Farrant,CE Dean,99,7
+98,2,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,NE Farrant,CE Dean,101,7
+99,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,MK Villiers,CE Dean,105,7
+100,4,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,MK Villiers,CE Dean,109,7
+101,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,MK Villiers,CE Dean,110,7
+102,1,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,CE Dean,MK Villiers,DR Gibson,111,7
+103,6,0,London Spirit,2,2021,female,Oval Invincibles,15 runs,"Lord's, London",London Spirit,field,Oval Invincibles,DR Gibson,MK Villiers,CE Dean,117,7

@@ -1,0 +1,136 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,2,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SR Patel,WG Jacks,2,0
+2,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SR Patel,WG Jacks,3,0
+3,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,SR Patel,JJ Roy,4,0
+4,2,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SR Patel,WG Jacks,6,0
+5,5,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SR Patel,WG Jacks,11,0
+6,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SR Patel,WG Jacks,11,0
+7,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,Rashid Khan,WG Jacks,17,0
+8,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,Rashid Khan,WG Jacks,18,0
+9,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,Rashid Khan,JJ Roy,24,0
+10,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,Rashid Khan,JJ Roy,25,0
+11,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,Rashid Khan,WG Jacks,25,0
+12,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,SJ Cook,JJ Roy,25,0
+13,4,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,SJ Cook,JJ Roy,29,0
+14,2,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,SJ Cook,JJ Roy,31,0
+15,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,SJ Cook,JJ Roy,31,0
+16,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,SJ Cook,JJ Roy,32,0
+17,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,T van der Gugten,WG Jacks,38,0
+18,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,T van der Gugten,WG Jacks,39,0
+19,0,1,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,WG Jacks,T van der Gugten,JJ Roy,39,1
+20,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,SP Narine,T van der Gugten,JJ Roy,40,1
+21,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,SP Narine,T van der Gugten,JJ Roy,41,1
+22,4,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,T van der Gugten,SP Narine,45,1
+23,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,SP Narine,M Carter,JJ Roy,45,1
+24,0,1,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,SP Narine,M Carter,JJ Roy,45,2
+25,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,CA Ingram,M Carter,JJ Roy,46,2
+26,4,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,M Carter,CA Ingram,50,2
+27,2,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,M Carter,CA Ingram,52,2
+28,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SR Patel,CA Ingram,53,2
+29,2,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,CA Ingram,SR Patel,JJ Roy,55,2
+30,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,CA Ingram,SR Patel,JJ Roy,61,2
+31,0,1,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,CA Ingram,SR Patel,JJ Roy,61,3
+32,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,SW Billings,SR Patel,JJ Roy,61,3
+33,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,Rashid Khan,SW Billings,61,3
+34,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,Rashid Khan,SW Billings,61,3
+35,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,Rashid Khan,SW Billings,62,3
+36,4,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,SW Billings,Rashid Khan,JJ Roy,66,3
+37,2,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,SW Billings,Rashid Khan,JJ Roy,68,3
+38,0,1,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,SW Billings,SR Patel,JJ Roy,68,4
+39,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,SR Patel,JJ Roy,68,4
+40,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,SR Patel,JJ Roy,68,4
+41,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,SR Patel,JJ Roy,69,4
+42,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SR Patel,AJ Blake,69,4
+43,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,M Carter,JJ Roy,70,4
+44,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,M Carter,AJ Blake,71,4
+45,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,M Carter,JJ Roy,77,4
+46,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,M Carter,JJ Roy,77,4
+47,0,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,M Carter,JJ Roy,77,4
+48,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,M Carter,JJ Roy,78,4
+49,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,M Carter,AJ Blake,84,4
+50,4,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,M Carter,AJ Blake,88,4
+51,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,M Carter,AJ Blake,94,4
+52,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,M Carter,AJ Blake,95,4
+53,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,Rashid Khan,AJ Blake,96,4
+54,0,1,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,AJ Blake,Rashid Khan,JJ Roy,96,5
+55,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,TK Curran,Rashid Khan,JJ Roy,102,5
+56,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,TK Curran,Rashid Khan,JJ Roy,103,5
+57,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,Rashid Khan,TK Curran,104,5
+58,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,TK Curran,SJ Cook,JJ Roy,105,5
+59,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SJ Cook,TK Curran,106,5
+60,0,1,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,TK Curran,SJ Cook,JJ Roy,106,6
+61,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,LJ Evans,SJ Cook,JJ Roy,107,6
+62,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,SJ Cook,LJ Evans,108,6
+63,4,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,T van der Gugten,LJ Evans,112,6
+64,4,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,T van der Gugten,LJ Evans,116,6
+65,1,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,JJ Roy,T van der Gugten,LJ Evans,117,6
+66,2,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,LJ Evans,T van der Gugten,JJ Roy,119,6
+67,6,0,Oval Invincibles,1,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Trent Rockets,LJ Evans,T van der Gugten,JJ Roy,125,6
+1,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJM Short,SP Narine,AD Hales,0,0
+2,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJM Short,SP Narine,AD Hales,0,0
+3,0,1,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJM Short,SP Narine,AD Hales,0,1
+4,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJ Malan,SP Narine,AD Hales,4,1
+5,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJ Malan,SP Narine,AD Hales,8,1
+6,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJ Malan,S Mahmood,AD Hales,8,1
+7,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJ Malan,S Mahmood,AD Hales,9,1
+8,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,S Mahmood,DJ Malan,13,1
+9,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,S Mahmood,DJ Malan,17,1
+10,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,S Mahmood,DJ Malan,18,1
+11,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,RJW Topley,DJ Malan,22,1
+12,2,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,RJW Topley,DJ Malan,24,1
+13,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,RJW Topley,DJ Malan,24,1
+14,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,RJW Topley,DJ Malan,24,1
+15,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,RJW Topley,DJ Malan,25,1
+16,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJ Malan,TK Curran,AD Hales,26,1
+17,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,TK Curran,DJ Malan,27,1
+18,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJ Malan,TK Curran,AD Hales,27,1
+19,0,1,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,DJ Malan,TK Curran,AD Hales,27,2
+20,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,TJ Moores,TK Curran,AD Hales,27,2
+21,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,T Shamsi,TJ Moores,28,2
+22,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,TJ Moores,T Shamsi,AD Hales,28,2
+23,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,TJ Moores,T Shamsi,AD Hales,29,2
+24,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,T Shamsi,TJ Moores,29,2
+25,6,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,T Shamsi,TJ Moores,35,2
+26,2,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,SP Narine,TJ Moores,37,2
+27,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,SP Narine,TJ Moores,41,2
+28,0,1,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,AD Hales,SP Narine,TJ Moores,41,3
+29,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SR Patel,SP Narine,TJ Moores,42,3
+30,0,1,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,TJ Moores,SP Narine,SR Patel,42,4
+31,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SR Patel,S Mahmood,SJ Mullaney,46,4
+32,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SR Patel,S Mahmood,SJ Mullaney,50,4
+33,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SR Patel,S Mahmood,SJ Mullaney,51,4
+34,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,S Mahmood,SR Patel,51,4
+35,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,S Mahmood,SR Patel,51,4
+36,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,RJW Topley,SR Patel,55,4
+37,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,RJW Topley,SR Patel,56,4
+38,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SR Patel,RJW Topley,SJ Mullaney,60,4
+39,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SR Patel,RJW Topley,SJ Mullaney,61,4
+40,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,RJW Topley,SR Patel,65,4
+41,0,1,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SR Patel,T Shamsi,SJ Mullaney,65,5
+42,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,T Shamsi,SJ Mullaney,69,5
+43,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,T Shamsi,SJ Mullaney,70,5
+44,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,T Shamsi,L Gregory,70,5
+45,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,T Shamsi,L Gregory,70,5
+46,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,T Shamsi,L Gregory,71,5
+47,6,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,T Shamsi,SJ Mullaney,77,5
+48,2,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,T Shamsi,SJ Mullaney,79,5
+49,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,T Shamsi,SJ Mullaney,80,5
+50,0,1,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,SJ Mullaney,T Shamsi,L Gregory,80,6
+51,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,TK Curran,Rashid Khan,81,6
+52,6,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,Rashid Khan,TK Curran,L Gregory,87,6
+53,2,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,Rashid Khan,TK Curran,L Gregory,89,6
+54,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,Rashid Khan,TK Curran,L Gregory,90,6
+55,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,TK Curran,Rashid Khan,91,6
+56,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,TK Curran,Rashid Khan,92,6
+57,0,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,TK Curran,Rashid Khan,92,6
+58,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,S Mahmood,Rashid Khan,93,6
+59,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,Rashid Khan,S Mahmood,L Gregory,94,6
+60,6,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,Rashid Khan,S Mahmood,L Gregory,100,6
+61,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,Rashid Khan,S Mahmood,L Gregory,101,6
+62,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,S Mahmood,Rashid Khan,105,6
+63,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,S Mahmood,Rashid Khan,109,6
+64,0,1,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,Rashid Khan,TK Curran,L Gregory,109,7
+65,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,M Carter,TK Curran,L Gregory,110,7
+66,1,1,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,TK Curran,M Carter,111,8
+67,1,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,T van der Gugten,TK Curran,L Gregory,112,8
+68,4,0,Trent Rockets,2,2021,male,Oval Invincibles,9 runs,"Kennington Oval, London",Trent Rockets,field,Oval Invincibles,L Gregory,TK Curran,T van der Gugten,116,8

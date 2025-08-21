@@ -1,0 +1,207 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,T Banton,1,0
+2,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,T Banton,DJ Willey,JM Bairstow,2,0
+3,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,T Banton,3,0
+4,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,T Banton,DJ Willey,JM Bairstow,4,0
+5,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,T Banton,4,0
+6,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,MJ Potts,T Banton,4,0
+7,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,MJ Potts,T Banton,8,0
+8,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,MJ Potts,T Banton,9,0
+9,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,T Banton,MJ Potts,JM Bairstow,9,0
+10,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,T Banton,MJ Potts,JM Bairstow,11,0
+11,6,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,T Banton,17,0
+12,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,T Banton,21,0
+13,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,T Banton,25,0
+14,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,T Banton,25,0
+15,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,T Banton,25,0
+16,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,Mujeeb Ur Rahman,T Banton,27,0
+17,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,Mujeeb Ur Rahman,T Banton,31,0
+18,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,Mujeeb Ur Rahman,T Banton,32,0
+19,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,T Banton,Mujeeb Ur Rahman,JM Bairstow,32,0
+20,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,T Banton,Mujeeb Ur Rahman,JM Bairstow,32,0
+21,6,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,BA Carse,T Banton,38,0
+22,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,BA Carse,T Banton,42,0
+23,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,BA Carse,T Banton,43,0
+24,0,1,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,T Banton,BA Carse,JM Bairstow,43,1
+25,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Carse,JM Bairstow,45,1
+26,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,AU Rashid,JM Bairstow,46,1
+27,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,AU Rashid,BM Duckett,47,1
+28,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,AU Rashid,JM Bairstow,48,1
+29,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,AU Rashid,BM Duckett,49,1
+30,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,AU Rashid,JM Bairstow,49,1
+31,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,BA Carse,BM Duckett,49,1
+32,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,BA Carse,BM Duckett,50,1
+33,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Carse,JM Bairstow,50,1
+34,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Carse,JM Bairstow,52,1
+35,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Carse,JM Bairstow,52,1
+36,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,AU Rashid,JM Bairstow,53,1
+37,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,AU Rashid,BM Duckett,54,1
+38,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,AU Rashid,JM Bairstow,55,1
+39,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,AU Rashid,BM Duckett,55,1
+40,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,AU Rashid,BM Duckett,56,1
+41,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,Mujeeb Ur Rahman,BM Duckett,57,1
+42,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,Mujeeb Ur Rahman,JM Bairstow,58,1
+43,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,Mujeeb Ur Rahman,BM Duckett,59,1
+44,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,Mujeeb Ur Rahman,JM Bairstow,59,1
+45,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,Mujeeb Ur Rahman,JM Bairstow,63,1
+46,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,Mujeeb Ur Rahman,JM Bairstow,67,1
+47,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,Mujeeb Ur Rahman,JM Bairstow,68,1
+48,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,Mujeeb Ur Rahman,BM Duckett,68,1
+49,6,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,Mujeeb Ur Rahman,BM Duckett,74,1
+50,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,Mujeeb Ur Rahman,BM Duckett,75,1
+51,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,MJ Potts,BM Duckett,75,1
+52,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,MJ Potts,BM Duckett,75,1
+53,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,MJ Potts,BM Duckett,75,1
+54,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,MJ Potts,BM Duckett,76,1
+55,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,MJ Potts,JM Bairstow,78,1
+56,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,DJ Willey,JM Bairstow,79,1
+57,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,DJ Willey,BM Duckett,80,1
+58,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,DJ Willey,JM Bairstow,82,1
+59,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,DJ Willey,JM Bairstow,86,1
+60,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,DJ Willey,JM Bairstow,90,1
+61,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,BA Stokes,BM Duckett,91,1
+62,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,BA Stokes,BM Duckett,92,1
+63,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Stokes,JM Bairstow,93,1
+64,0,1,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JM Bairstow,BA Stokes,BM Duckett,93,2
+65,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,BA Stokes,BM Duckett,93,2
+66,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,BA Stokes,BM Duckett,94,2
+67,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Stokes,GD Phillips,95,2
+68,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,BA Stokes,BM Duckett,96,2
+69,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Stokes,GD Phillips,96,2
+70,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Stokes,GD Phillips,96,2
+71,3,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,BA Stokes,GD Phillips,99,2
+72,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,BA Stokes,BM Duckett,99,2
+73,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,AU Rashid,GD Phillips,103,2
+74,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,AU Rashid,GD Phillips,107,2
+75,0,1,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,BM Duckett,AU Rashid,GD Phillips,107,3
+76,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,AU Rashid,GD Phillips,108,3
+77,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,AU Rashid,JDS Neesham,109,3
+78,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,AU Rashid,GD Phillips,110,3
+79,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,AU Rashid,JDS Neesham,110,3
+80,6,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,AU Rashid,JDS Neesham,116,3
+81,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,AU Rashid,JDS Neesham,117,3
+82,6,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,AU Rashid,GD Phillips,123,3
+83,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,BA Carse,JDS Neesham,124,3
+84,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,BA Carse,GD Phillips,126,3
+85,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,BA Carse,GD Phillips,130,3
+86,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,BA Carse,GD Phillips,131,3
+87,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,BA Carse,JDS Neesham,131,3
+88,6,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,MJ Potts,JDS Neesham,137,3
+89,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,MJ Potts,JDS Neesham,139,3
+90,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,MJ Potts,JDS Neesham,143,3
+91,0,1,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,GD Phillips,MJ Potts,JDS Neesham,143,4
+92,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,IA Cockbain,MJ Potts,JDS Neesham,144,4
+93,0,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,IA Cockbain,Mujeeb Ur Rahman,JDS Neesham,144,4
+94,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,IA Cockbain,Mujeeb Ur Rahman,JDS Neesham,145,4
+95,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,Mujeeb Ur Rahman,IA Cockbain,149,4
+96,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,Mujeeb Ur Rahman,IA Cockbain,150,4
+97,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,IA Cockbain,Mujeeb Ur Rahman,JDS Neesham,151,4
+98,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,BA Carse,IA Cockbain,152,4
+99,8,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,IA Cockbain,BA Carse,JDS Neesham,160,4
+100,2,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,IA Cockbain,BA Carse,JDS Neesham,162,4
+101,1,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,IA Cockbain,BA Carse,JDS Neesham,163,4
+102,4,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,BA Carse,IA Cockbain,167,4
+103,6,0,Welsh Fire,1,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Northern Superchargers,JDS Neesham,BA Carse,IA Cockbain,173,4
+1,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,DA Payne,CA Lynn,0,0
+2,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,DA Payne,CA Lynn,4,0
+3,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,DA Payne,CA Lynn,8,0
+4,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,DA Payne,CA Lynn,8,0
+5,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,DA Payne,CA Lynn,12,0
+6,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,MJJ Critchley,CA Lynn,13,0
+7,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,MJJ Critchley,A Lyth,13,0
+8,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,MJJ Critchley,A Lyth,13,0
+9,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,MJJ Critchley,A Lyth,13,0
+10,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,MJJ Critchley,A Lyth,14,0
+11,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,JT Ball,A Lyth,14,0
+12,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,JT Ball,A Lyth,18,0
+13,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,JT Ball,A Lyth,19,0
+14,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,JT Ball,CA Lynn,19,0
+15,6,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,JT Ball,CA Lynn,25,0
+16,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,DA Payne,CA Lynn,25,0
+17,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,DA Payne,CA Lynn,26,0
+18,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,DA Payne,A Lyth,27,0
+19,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,DA Payne,CA Lynn,28,0
+20,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,DA Payne,A Lyth,32,0
+21,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,MJJ Critchley,CA Lynn,36,0
+22,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,MJJ Critchley,CA Lynn,36,0
+23,0,1,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,A Lyth,MJJ Critchley,CA Lynn,36,1
+24,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Stokes,MJJ Critchley,CA Lynn,37,1
+25,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,MJJ Critchley,BA Stokes,38,1
+26,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Stokes,Qais Ahmad,CA Lynn,39,1
+27,0,1,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,CA Lynn,Qais Ahmad,BA Stokes,39,2
+28,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,Qais Ahmad,BA Stokes,40,2
+29,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Stokes,Qais Ahmad,HC Brook,41,2
+30,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,Qais Ahmad,BA Stokes,42,2
+31,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,BA Stokes,43,2
+32,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Stokes,LE Plunkett,HC Brook,43,2
+33,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Stokes,LE Plunkett,HC Brook,44,2
+34,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,BA Stokes,45,2
+35,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Stokes,LE Plunkett,HC Brook,46,2
+36,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,JT Ball,BA Stokes,47,2
+37,0,1,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Stokes,JT Ball,HC Brook,47,3
+38,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,DJ Willey,JT Ball,HC Brook,48,3
+39,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,JT Ball,DJ Willey,49,3
+40,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,DJ Willey,JT Ball,HC Brook,50,3
+41,0,1,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,DJ Willey,Qais Ahmad,HC Brook,50,4
+42,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,Qais Ahmad,HC Brook,50,4
+43,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,Qais Ahmad,HC Brook,50,4
+44,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,Qais Ahmad,HC Brook,51,4
+45,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,Qais Ahmad,T Kohler-Cadmore,52,4
+46,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,MJJ Critchley,HC Brook,53,4
+47,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,MJJ Critchley,T Kohler-Cadmore,53,4
+48,6,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,MJJ Critchley,T Kohler-Cadmore,59,4
+49,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,MJJ Critchley,T Kohler-Cadmore,60,4
+50,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,MJJ Critchley,HC Brook,61,4
+51,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,LE Plunkett,HC Brook,62,4
+52,8,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,T Kohler-Cadmore,70,4
+53,2,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,T Kohler-Cadmore,72,4
+54,6,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,T Kohler-Cadmore,78,4
+55,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,T Kohler-Cadmore,79,4
+56,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,LE Plunkett,HC Brook,83,4
+57,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,JDS Neesham,HC Brook,84,4
+58,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,JDS Neesham,T Kohler-Cadmore,84,4
+59,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,JDS Neesham,T Kohler-Cadmore,88,4
+60,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,JDS Neesham,T Kohler-Cadmore,92,4
+61,6,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,JDS Neesham,T Kohler-Cadmore,98,4
+62,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,DA Payne,HC Brook,99,4
+63,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,DA Payne,T Kohler-Cadmore,100,4
+64,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,DA Payne,HC Brook,104,4
+65,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,DA Payne,HC Brook,105,4
+66,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,DA Payne,HC Brook,106,4
+67,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,DA Payne,T Kohler-Cadmore,110,4
+68,2,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,Qais Ahmad,T Kohler-Cadmore,112,4
+69,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,Qais Ahmad,T Kohler-Cadmore,113,4
+70,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,Qais Ahmad,HC Brook,114,4
+71,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,Qais Ahmad,T Kohler-Cadmore,114,4
+72,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,Qais Ahmad,T Kohler-Cadmore,115,4
+73,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,JT Ball,T Kohler-Cadmore,115,4
+74,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,JT Ball,T Kohler-Cadmore,116,4
+75,2,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,JT Ball,HC Brook,118,4
+76,1,1,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,T Kohler-Cadmore,JT Ball,HC Brook,119,5
+77,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,JA Simpson,JT Ball,HC Brook,120,5
+78,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,JA Simpson,121,5
+79,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,JA Simpson,LE Plunkett,HC Brook,125,5
+80,3,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,JA Simpson,LE Plunkett,HC Brook,128,5
+81,6,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,JA Simpson,134,5
+82,2,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,JA Simpson,136,5
+83,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,LE Plunkett,JA Simpson,136,5
+84,0,1,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,JA Simpson,Qais Ahmad,HC Brook,136,6
+85,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Carse,Qais Ahmad,HC Brook,137,6
+86,0,1,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,HC Brook,Qais Ahmad,BA Carse,137,7
+87,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,Qais Ahmad,BA Carse,138,7
+88,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Carse,Qais Ahmad,MJ Potts,138,7
+89,6,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Carse,MJJ Critchley,MJ Potts,144,7
+90,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Carse,MJJ Critchley,MJ Potts,145,7
+91,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,MJJ Critchley,BA Carse,145,7
+92,0,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,MJJ Critchley,BA Carse,145,7
+93,6,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,MJJ Critchley,BA Carse,151,7
+94,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Carse,DA Payne,MJ Potts,152,7
+95,2,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,DA Payne,BA Carse,154,7
+96,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,DA Payne,BA Carse,158,7
+97,4,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,DA Payne,BA Carse,162,7
+98,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,DA Payne,BA Carse,163,7
+99,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Carse,JT Ball,MJ Potts,164,7
+100,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,JT Ball,BA Carse,165,7
+101,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Carse,JT Ball,MJ Potts,166,7
+102,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,MJ Potts,JT Ball,BA Carse,167,7
+103,1,0,Northern Superchargers,2,2021,male,Welsh Fire,5 runs,"Headingley, Leeds",Northern Superchargers,field,Welsh Fire,BA Carse,JT Ball,MJ Potts,168,7

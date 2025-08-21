@@ -1,0 +1,211 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,TW Hartley,CA Lynn,0,0
+2,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,TW Hartley,CA Lynn,1,0
+3,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,CA Lynn,TW Hartley,T Kohler-Cadmore,2,0
+4,5,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,TW Hartley,CA Lynn,7,0
+5,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,TW Hartley,CA Lynn,8,0
+6,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,CA Lynn,TW Hartley,T Kohler-Cadmore,9,0
+7,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,CA Lynn,TW Hartley,T Kohler-Cadmore,10,0
+8,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,CG Harrison,CA Lynn,14,0
+9,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,CG Harrison,CA Lynn,15,0
+10,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,CA Lynn,CG Harrison,T Kohler-Cadmore,16,0
+11,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,CG Harrison,CA Lynn,16,0
+12,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,CG Harrison,CA Lynn,20,0
+13,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,CA Lynn,ST Finn,T Kohler-Cadmore,20,0
+14,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,CA Lynn,ST Finn,T Kohler-Cadmore,26,0
+15,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,CA Lynn,ST Finn,T Kohler-Cadmore,32,0
+16,0,1,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,CA Lynn,ST Finn,T Kohler-Cadmore,32,1
+17,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,ST Finn,T Kohler-Cadmore,33,1
+18,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,ST Finn,T Kohler-Cadmore,34,1
+19,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,CR Brathwaite,DJ Willey,34,1
+20,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,CR Brathwaite,DJ Willey,38,1
+21,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,CR Brathwaite,DJ Willey,39,1
+22,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,CR Brathwaite,T Kohler-Cadmore,43,1
+23,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,CR Brathwaite,T Kohler-Cadmore,43,1
+24,0,1,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,T Kohler-Cadmore,LH Ferguson,DJ Willey,43,2
+25,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,LH Ferguson,DJ Willey,43,2
+26,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,LH Ferguson,DJ Willey,43,2
+27,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,LH Ferguson,DJ Willey,43,2
+28,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,LH Ferguson,DJ Willey,44,2
+29,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,CN Ackermann,DJ Vilas,45,2
+30,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CN Ackermann,DJ Willey,46,2
+31,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,CN Ackermann,DJ Vilas,46,2
+32,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,CN Ackermann,DJ Vilas,46,2
+33,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,CN Ackermann,DJ Vilas,48,2
+34,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,ST Finn,DJ Willey,49,2
+35,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,ST Finn,DJ Vilas,49,2
+36,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,ST Finn,DJ Vilas,55,2
+37,0,1,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Willey,ST Finn,DJ Vilas,55,3
+38,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,ST Finn,DJ Vilas,56,3
+39,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Thompson,58,3
+40,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Thompson,59,3
+41,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,MW Parkinson,DJ Vilas,60,3
+42,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Thompson,61,3
+43,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,MW Parkinson,DJ Vilas,61,3
+44,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CN Ackermann,JA Thompson,62,3
+45,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,CN Ackermann,DJ Vilas,63,3
+46,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CN Ackermann,JA Thompson,65,3
+47,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CN Ackermann,JA Thompson,66,3
+48,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,CN Ackermann,DJ Vilas,67,3
+49,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CR Brathwaite,JA Thompson,71,3
+50,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CR Brathwaite,JA Thompson,71,3
+51,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CR Brathwaite,JA Thompson,73,3
+52,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CR Brathwaite,JA Thompson,74,3
+53,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,CR Brathwaite,DJ Vilas,80,3
+54,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Thompson,80,3
+55,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Thompson,84,3
+56,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Thompson,84,3
+57,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Thompson,86,3
+58,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Thompson,87,3
+59,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,LH Ferguson,DJ Vilas,93,3
+60,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,LH Ferguson,DJ Vilas,93,3
+61,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,LH Ferguson,DJ Vilas,97,3
+62,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,LH Ferguson,DJ Vilas,97,3
+63,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,LH Ferguson,DJ Vilas,103,3
+64,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CN Ackermann,JA Thompson,104,3
+65,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,CN Ackermann,DJ Vilas,104,3
+66,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,CN Ackermann,DJ Vilas,105,3
+67,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CN Ackermann,JA Thompson,106,3
+68,0,1,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Thompson,CN Ackermann,DJ Vilas,106,4
+69,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,CN Ackermann,DJ Vilas,106,4
+70,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,CN Ackermann,DJ Vilas,110,4
+71,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,CN Ackermann,DJ Vilas,111,4
+72,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CN Ackermann,JA Simpson,112,4
+73,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,CN Ackermann,DJ Vilas,112,4
+74,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Simpson,112,4
+75,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Simpson,116,4
+76,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Simpson,117,4
+77,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,MW Parkinson,JA Simpson,118,4
+78,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,MW Parkinson,DJ Vilas,122,4
+79,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,MW Parkinson,DJ Vilas,122,4
+80,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,TW Hartley,DJ Vilas,128,4
+81,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,TW Hartley,DJ Vilas,132,4
+82,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,TW Hartley,DJ Vilas,134,4
+83,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,TW Hartley,DJ Vilas,136,4
+84,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,TW Hartley,DJ Vilas,137,4
+85,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,CR Brathwaite,DJ Vilas,138,4
+86,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CR Brathwaite,JA Simpson,142,4
+87,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CR Brathwaite,JA Simpson,143,4
+88,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,CR Brathwaite,DJ Vilas,144,4
+89,3,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,CR Brathwaite,JA Simpson,147,4
+90,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,CR Brathwaite,DJ Vilas,151,4
+91,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,LH Ferguson,DJ Vilas,153,4
+92,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,LH Ferguson,DJ Vilas,157,4
+93,0,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,LH Ferguson,DJ Vilas,157,4
+94,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,LH Ferguson,DJ Vilas,161,4
+95,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,LH Ferguson,DJ Vilas,162,4
+96,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,ST Finn,DJ Vilas,168,4
+97,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,ST Finn,DJ Vilas,172,4
+98,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,ST Finn,DJ Vilas,176,4
+99,6,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,ST Finn,DJ Vilas,182,4
+100,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,ST Finn,DJ Vilas,186,4
+101,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,ST Finn,DJ Vilas,187,4
+102,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,ST Finn,DJ Vilas,191,4
+103,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,LH Ferguson,DJ Vilas,193,4
+104,2,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,LH Ferguson,DJ Vilas,195,4
+105,1,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JA Simpson,LH Ferguson,DJ Vilas,196,4
+106,0,1,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,DJ Vilas,LH Ferguson,JA Simpson,196,5
+107,4,0,Northern Superchargers,1,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,BA Carse,LH Ferguson,JA Simpson,200,5
+1,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,DJ Willey,JM Clarke,1,0
+2,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,DJ Willey,PD Salt,1,0
+3,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,DJ Willey,PD Salt,1,0
+4,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,DJ Willey,PD Salt,2,0
+5,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,DJ Willey,JM Clarke,2,0
+6,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,MJ Potts,JM Clarke,3,0
+7,6,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,MJ Potts,PD Salt,9,0
+8,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,MJ Potts,PD Salt,9,0
+9,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,MJ Potts,PD Salt,10,0
+10,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,MJ Potts,JM Clarke,14,0
+11,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,BA Carse,PD Salt,18,0
+12,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,BA Carse,PD Salt,18,0
+13,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,BA Carse,PD Salt,19,0
+14,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,BA Carse,JM Clarke,19,0
+15,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,BA Carse,JM Clarke,23,0
+16,2,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,MJ Potts,JM Clarke,25,0
+17,6,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,MJ Potts,JM Clarke,31,0
+18,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,PD Salt,MJ Potts,JM Clarke,31,1
+19,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,MJ Potts,JM Clarke,31,1
+20,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,MJ Potts,JM Clarke,31,1
+21,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,JM Clarke,DJ Willey,C Munro,31,2
+22,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,DJ Willey,C Munro,31,2
+23,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,DJ Willey,C Munro,31,2
+24,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,DJ Willey,C Munro,32,2
+25,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,DJ Willey,CN Ackermann,36,2
+26,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,BA Carse,CN Ackermann,36,2
+27,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,BA Carse,CN Ackermann,37,2
+28,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,BA Carse,C Munro,38,2
+29,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,BA Carse,CN Ackermann,39,2
+30,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,BA Carse,C Munro,40,2
+31,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,Mujeeb Ur Rahman,C Munro,40,2
+32,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,Mujeeb Ur Rahman,C Munro,41,2
+33,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,Mujeeb Ur Rahman,CN Ackermann,41,2
+34,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,Mujeeb Ur Rahman,CN Ackermann,41,2
+35,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,Mujeeb Ur Rahman,CN Ackermann,42,2
+36,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,Mujeeb Ur Rahman,C Munro,43,2
+37,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,C Munro,Mujeeb Ur Rahman,CN Ackermann,43,3
+38,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,Mujeeb Ur Rahman,CN Ackermann,43,3
+39,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,Mujeeb Ur Rahman,CN Ackermann,43,3
+40,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,Mujeeb Ur Rahman,CN Ackermann,43,3
+41,2,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,BA Raine,TA Lammonby,45,3
+42,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CN Ackermann,BA Raine,TA Lammonby,45,4
+43,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,BA Raine,TA Lammonby,45,4
+44,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,BA Raine,TA Lammonby,45,4
+45,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,BA Raine,TA Lammonby,46,4
+46,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,AU Rashid,CR Brathwaite,47,4
+47,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,AU Rashid,TA Lammonby,47,4
+48,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,AU Rashid,TA Lammonby,48,4
+49,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,AU Rashid,CR Brathwaite,49,4
+50,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,AU Rashid,TA Lammonby,49,4
+51,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,AU Rashid,CR Brathwaite,53,4
+52,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,AU Rashid,CR Brathwaite,53,4
+53,6,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,AU Rashid,CR Brathwaite,59,4
+54,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,AU Rashid,CR Brathwaite,59,4
+55,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TA Lammonby,AU Rashid,CR Brathwaite,59,5
+56,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,BA Raine,CR Brathwaite,60,5
+57,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,BA Raine,CG Harrison,60,5
+58,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,BA Raine,CG Harrison,61,5
+59,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,BA Raine,CR Brathwaite,62,5
+60,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,BA Raine,CR Brathwaite,63,5
+61,6,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,BA Raine,CG Harrison,69,5
+62,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,Mujeeb Ur Rahman,CR Brathwaite,70,5
+63,6,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,Mujeeb Ur Rahman,CG Harrison,76,5
+64,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,Mujeeb Ur Rahman,CG Harrison,76,5
+65,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,Mujeeb Ur Rahman,CG Harrison,76,5
+66,6,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,Mujeeb Ur Rahman,CG Harrison,82,5
+67,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,AU Rashid,CG Harrison,83,5
+68,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CR Brathwaite,AU Rashid,CG Harrison,83,6
+69,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TW Hartley,AU Rashid,CG Harrison,84,6
+70,2,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TW Hartley,AU Rashid,CG Harrison,86,6
+71,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TW Hartley,AU Rashid,CG Harrison,87,6
+72,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,AU Rashid,TW Hartley,88,6
+73,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TW Hartley,AU Rashid,CG Harrison,92,6
+74,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,AU Rashid,TW Hartley,92,6
+75,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,AU Rashid,TW Hartley,92,6
+76,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,AU Rashid,TW Hartley,96,6
+77,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,AU Rashid,TW Hartley,100,6
+78,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,AU Rashid,TW Hartley,101,6
+79,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TW Hartley,Mujeeb Ur Rahman,CG Harrison,102,6
+80,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,Mujeeb Ur Rahman,TW Hartley,102,6
+81,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,Mujeeb Ur Rahman,TW Hartley,103,6
+82,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TW Hartley,Mujeeb Ur Rahman,CG Harrison,103,6
+83,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,TW Hartley,Mujeeb Ur Rahman,CG Harrison,103,7
+84,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,LH Ferguson,DJ Willey,CG Harrison,104,7
+85,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CG Harrison,DJ Willey,LH Ferguson,104,8
+86,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,ST Finn,DJ Willey,LH Ferguson,108,8
+87,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,ST Finn,DJ Willey,LH Ferguson,109,8
+88,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,LH Ferguson,DJ Willey,ST Finn,110,8
+89,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,ST Finn,MJ Potts,LH Ferguson,110,8
+90,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,ST Finn,MJ Potts,LH Ferguson,110,8
+91,1,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,ST Finn,MJ Potts,LH Ferguson,111,8
+92,4,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,ST Finn,MJ Potts,LH Ferguson,115,8
+93,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,ST Finn,MJ Potts,LH Ferguson,115,8
+94,2,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,ST Finn,MJ Potts,LH Ferguson,117,8
+95,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,LH Ferguson,DJ Willey,ST Finn,117,8
+96,6,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,LH Ferguson,DJ Willey,ST Finn,123,8
+97,6,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,LH Ferguson,DJ Willey,ST Finn,129,8
+98,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,LH Ferguson,DJ Willey,ST Finn,129,8
+99,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,LH Ferguson,DJ Willey,ST Finn,129,8
+100,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,LH Ferguson,BA Raine,ST Finn,129,9
+101,0,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,MW Parkinson,BA Raine,ST Finn,129,9
+102,2,0,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,MW Parkinson,BA Raine,ST Finn,131,9
+103,0,1,Manchester Originals,2,2021,male,Northern Superchargers,69 runs,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,MW Parkinson,BA Raine,ST Finn,131,10

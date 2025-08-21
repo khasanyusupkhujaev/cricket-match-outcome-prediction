@@ -1,0 +1,205 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,A Capsey,E Jones,0,0
+2,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,A Capsey,E Jones,0,0
+3,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,A Capsey,E Jones,0,0
+4,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,A Capsey,E Jones,1,0
+5,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,E Jones,A Capsey,Shafali Verma,1,0
+6,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,E Jones,NE Farrant,Shafali Verma,1,0
+7,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,E Jones,NE Farrant,Shafali Verma,1,1
+8,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,NE Farrant,Shafali Verma,1,1
+9,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,NE Farrant,Shafali Verma,1,1
+10,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,NE Farrant,Shafali Verma,5,1
+11,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,MK Villiers,KM Mack,6,1
+12,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,MK Villiers,Shafali Verma,6,1
+13,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,MK Villiers,Shafali Verma,7,1
+14,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,MK Villiers,KM Mack,9,1
+15,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,MK Villiers,KM Mack,13,1
+16,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,A Capsey,KM Mack,15,1
+17,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,A Capsey,KM Mack,16,1
+18,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,A Capsey,Shafali Verma,20,1
+19,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,A Capsey,Shafali Verma,20,1
+20,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,A Capsey,Shafali Verma,21,1
+21,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,NE Farrant,Shafali Verma,25,1
+22,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KM Mack,NE Farrant,Shafali Verma,25,2
+23,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AE Jones,NE Farrant,Shafali Verma,25,2
+24,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AE Jones,NE Farrant,Shafali Verma,26,2
+25,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,NE Farrant,AE Jones,27,2
+26,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,NE Farrant,AE Jones,28,2
+27,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AE Jones,D van Niekerk,Shafali Verma,28,2
+28,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AE Jones,D van Niekerk,Shafali Verma,28,3
+29,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,Shafali Verma,28,3
+30,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,Shafali Verma,28,3
+31,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,Shafali Verma,28,3
+32,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,D van Niekerk,EA Burns,29,3
+33,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,Shafali Verma,29,3
+34,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,Shafali Verma,30,3
+35,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,D van Niekerk,EA Burns,31,3
+36,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,Shafali Verma,33,3
+37,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D Gregory,Shafali Verma,33,3
+38,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D Gregory,Shafali Verma,33,3
+39,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D Gregory,Shafali Verma,34,3
+40,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,D Gregory,EA Burns,35,3
+41,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D Gregory,Shafali Verma,36,3
+42,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,MK Villiers,Shafali Verma,37,3
+43,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,MK Villiers,EA Burns,37,3
+44,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,MK Villiers,EA Burns,38,3
+45,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,MK Villiers,Shafali Verma,38,3
+46,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,MK Villiers,Shafali Verma,42,3
+47,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,E Gray,Shafali Verma,46,3
+48,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,E Gray,Shafali Verma,50,3
+49,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,E Gray,Shafali Verma,51,3
+50,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,Shafali Verma,E Gray,EA Burns,51,4
+51,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GA Elwiss,E Gray,EA Burns,51,4
+52,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,GA Elwiss,53,4
+53,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,GA Elwiss,54,4
+54,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GA Elwiss,D van Niekerk,EA Burns,54,4
+55,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GA Elwiss,D van Niekerk,EA Burns,55,4
+56,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D van Niekerk,GA Elwiss,59,4
+57,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D Gregory,GA Elwiss,60,4
+58,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GA Elwiss,D Gregory,EA Burns,62,4
+59,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GA Elwiss,D Gregory,EA Burns,63,4
+60,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D Gregory,GA Elwiss,65,4
+61,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D Gregory,GA Elwiss,69,4
+62,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GA Elwiss,A Capsey,EA Burns,69,5
+63,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,A Capsey,EA Burns,70,5
+64,3,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,A Capsey,IECM Wong,73,5
+65,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,A Capsey,EA Burns,74,5
+66,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,A Capsey,IECM Wong,78,5
+67,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,MK Villiers,IECM Wong,78,5
+68,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,MK Villiers,IECM Wong,79,5
+69,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,MK Villiers,EA Burns,79,5
+70,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,MK Villiers,EA Burns,80,5
+71,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,MK Villiers,IECM Wong,84,5
+72,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,D Gregory,EA Burns,84,5
+73,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,D Gregory,EA Burns,85,5
+74,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,EA Burns,D Gregory,IECM Wong,85,6
+75,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GM Davies,D Gregory,IECM Wong,85,6
+76,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GM Davies,D Gregory,IECM Wong,89,6
+77,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GM Davies,A Capsey,IECM Wong,93,6
+78,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GM Davies,A Capsey,IECM Wong,97,6
+79,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GM Davies,A Capsey,IECM Wong,97,6
+80,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GM Davies,A Capsey,IECM Wong,98,6
+81,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,A Capsey,GM Davies,100,6
+82,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,A Capsey,GM Davies,104,6
+83,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GM Davies,D van Niekerk,IECM Wong,106,6
+84,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,GM Davies,D van Niekerk,IECM Wong,106,7
+85,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,PA Franklin,D van Niekerk,IECM Wong,107,7
+86,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,D van Niekerk,PA Franklin,108,7
+87,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,PA Franklin,D van Niekerk,IECM Wong,109,7
+88,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,IECM Wong,NE Farrant,PA Franklin,109,8
+89,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KL Gordon,NE Farrant,PA Franklin,110,8
+90,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,PA Franklin,NE Farrant,KL Gordon,111,8
+91,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KL Gordon,NE Farrant,PA Franklin,112,8
+92,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,PA Franklin,NE Farrant,KL Gordon,116,8
+93,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KL Gordon,MK Villiers,PA Franklin,117,8
+94,0,1,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,PA Franklin,MK Villiers,KL Gordon,117,9
+95,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AH Maqsood,MK Villiers,KL Gordon,118,9
+96,4,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KL Gordon,MK Villiers,AH Maqsood,122,9
+97,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KL Gordon,MK Villiers,AH Maqsood,123,9
+98,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AH Maqsood,NE Farrant,KL Gordon,124,9
+99,0,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AH Maqsood,NE Farrant,KL Gordon,124,9
+100,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AH Maqsood,NE Farrant,KL Gordon,125,9
+101,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KL Gordon,NE Farrant,AH Maqsood,126,9
+102,1,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,AH Maqsood,NE Farrant,KL Gordon,127,9
+103,2,0,Birmingham Phoenix,1,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Oval Invincibles,KL Gordon,NE Farrant,AH Maqsood,129,9
+1,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,EA Burns,D van Niekerk,1,0
+2,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,EA Burns,D van Niekerk,2,0
+3,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,EA Burns,GL Adams,2,0
+4,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,EA Burns,GL Adams,6,0
+5,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,EA Burns,GL Adams,6,0
+6,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,EA Burns,GL Adams,6,0
+7,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,IECM Wong,GL Adams,7,0
+8,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,7,0
+9,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,11,0
+10,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,11,0
+11,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,11,0
+12,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,GL Adams,11,0
+13,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,GL Adams,15,0
+14,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,GL Adams,15,0
+15,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,GL Adams,19,0
+16,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,GL Adams,23,0
+17,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,GA Elwiss,GL Adams,23,0
+18,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,GA Elwiss,GL Adams,23,0
+19,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,GA Elwiss,GL Adams,25,0
+20,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,GA Elwiss,D van Niekerk,25,0
+21,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,GA Elwiss,D van Niekerk,25,0
+22,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,GA Elwiss,D van Niekerk,26,0
+23,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,28,0
+24,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,29,0
+25,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,33,0
+26,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,33,0
+27,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,34,0
+28,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,IECM Wong,GL Adams,34,0
+29,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,GL Adams,36,0
+30,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,GL Adams,37,0
+31,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,AH Maqsood,D van Niekerk,38,0
+32,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,GL Adams,38,0
+33,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,GL Adams,39,0
+34,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,GL Adams,40,0
+35,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,PA Franklin,D van Niekerk,41,0
+36,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,GL Adams,41,0
+37,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,GL Adams,42,0
+38,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,PA Franklin,D van Niekerk,43,0
+39,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,GA Elwiss,GL Adams,43,0
+40,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,GA Elwiss,GL Adams,44,0
+41,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,GA Elwiss,D van Niekerk,45,0
+42,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,GA Elwiss,GL Adams,46,0
+43,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,GA Elwiss,D van Niekerk,47,0
+44,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,AH Maqsood,D van Niekerk,51,0
+45,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,AH Maqsood,D van Niekerk,52,0
+46,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,GL Adams,56,0
+47,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,GL Adams,57,0
+48,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,AH Maqsood,D van Niekerk,58,0
+49,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,EA Burns,GL Adams,62,0
+50,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,EA Burns,GL Adams,63,0
+51,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,EA Burns,D van Niekerk,64,0
+52,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,EA Burns,GL Adams,66,0
+53,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,EA Burns,GL Adams,67,0
+54,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,GL Adams,68,0
+55,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,GL Adams,70,0
+56,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,GL Adams,71,0
+57,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,PA Franklin,D van Niekerk,75,0
+58,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,PA Franklin,D van Niekerk,79,0
+59,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,PA Franklin,D van Niekerk,80,0
+60,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,GL Adams,80,0
+61,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,GL Adams,81,0
+62,6,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,AH Maqsood,D van Niekerk,87,0
+63,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,AH Maqsood,D van Niekerk,87,0
+64,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,AH Maqsood,D van Niekerk,88,0
+65,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,KL Gordon,D van Niekerk,88,0
+66,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,KL Gordon,D van Niekerk,89,0
+67,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,GL Adams,90,0
+68,0,1,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,GL Adams,KL Gordon,D van Niekerk,90,1
+69,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,FC Wilson,KL Gordon,D van Niekerk,91,1
+70,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,IECM Wong,FC Wilson,91,1
+71,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,IECM Wong,FC Wilson,95,1
+72,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,IECM Wong,FC Wilson,96,1
+73,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,FC Wilson,IECM Wong,D van Niekerk,97,1
+74,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,IECM Wong,FC Wilson,97,1
+75,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,FC Wilson,AH Maqsood,D van Niekerk,98,1
+76,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,FC Wilson,98,1
+77,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,FC Wilson,100,1
+78,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,FC Wilson,100,1
+79,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,AH Maqsood,FC Wilson,101,1
+80,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,FC Wilson,KL Gordon,D van Niekerk,102,1
+81,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,FC Wilson,103,1
+82,0,1,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,FC Wilson,KL Gordon,D van Niekerk,103,2
+83,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,KL Gordon,D van Niekerk,103,2
+84,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,KL Gordon,D van Niekerk,103,2
+85,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,A Capsey,104,2
+86,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,KL Gordon,D van Niekerk,105,2
+87,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,A Capsey,105,2
+88,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,KL Gordon,A Capsey,106,2
+89,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,KL Gordon,D van Niekerk,106,2
+90,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,GA Elwiss,D van Niekerk,107,2
+91,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,GA Elwiss,A Capsey,108,2
+92,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,GA Elwiss,D van Niekerk,108,2
+93,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,GA Elwiss,D van Niekerk,112,2
+94,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,GA Elwiss,D van Niekerk,113,2
+95,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,PA Franklin,D van Niekerk,115,2
+96,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,PA Franklin,D van Niekerk,116,2
+97,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,A Capsey,120,2
+98,6,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,A Capsey,126,2
+99,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,PA Franklin,A Capsey,128,2
+100,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,D van Niekerk,IECM Wong,A Capsey,129,2
+101,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,8 wickets,"Edgbaston, Birmingham",Birmingham Phoenix,bat,Birmingham Phoenix,A Capsey,IECM Wong,D van Niekerk,133,2

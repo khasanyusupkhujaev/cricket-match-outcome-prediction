@@ -1,0 +1,199 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,KL Cross,SJ Johnson,0,0
+2,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,KL Cross,SJ Johnson,4,0
+3,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,KL Cross,SJ Johnson,4,0
+4,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,KL Cross,SJ Johnson,5,0
+5,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,KL Cross,RH Priest,5,0
+6,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,S Ecclestone,RH Priest,6,0
+7,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,S Ecclestone,SJ Johnson,6,0
+8,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,S Ecclestone,SJ Johnson,6,0
+9,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,S Ecclestone,SJ Johnson,7,0
+10,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,S Ecclestone,SJ Johnson,7,0
+11,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,S Ecclestone,SJ Johnson,7,0
+12,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,HE Jones,RH Priest,8,0
+13,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,HE Jones,SJ Johnson,8,0
+14,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,HE Jones,SJ Johnson,8,0
+15,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,HE Jones,SJ Johnson,9,0
+16,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,HE Jones,RH Priest,9,0
+17,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,HE Jones,RH Priest,9,0
+18,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,HE Jones,RH Priest,9,0
+19,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,HE Jones,RH Priest,9,0
+20,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,HE Jones,RH Priest,9,0
+21,6,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,HE Jones,RH Priest,15,0
+22,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,KL Cross,SJ Johnson,15,0
+23,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,KL Cross,SJ Johnson,16,0
+24,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,KL Cross,RH Priest,16,0
+25,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,KL Cross,RH Priest,20,0
+26,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,KL Cross,RH Priest,20,0
+27,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,A Hartley,RH Priest,21,0
+28,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,A Hartley,SJ Johnson,22,0
+29,6,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,A Hartley,RH Priest,28,0
+30,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,A Hartley,RH Priest,29,0
+31,0,1,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,RH Priest,A Hartley,SJ Johnson,29,1
+32,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,S Ecclestone,NR Sciver,30,1
+33,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,S Ecclestone,SJ Johnson,30,1
+34,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,S Ecclestone,SJ Johnson,30,1
+35,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,S Ecclestone,SJ Johnson,30,1
+36,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,S Ecclestone,SJ Johnson,31,1
+37,2,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,N Brown,NR Sciver,33,1
+38,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,N Brown,SJ Johnson,33,1
+39,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,N Brown,SJ Johnson,34,1
+40,6,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,N Brown,NR Sciver,40,1
+41,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,N Brown,NR Sciver,40,1
+42,6,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,N Brown,NR Sciver,46,1
+43,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,A Hartley,SJ Johnson,47,1
+44,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,A Hartley,NR Sciver,48,1
+45,0,1,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,SJ Johnson,A Hartley,NR Sciver,48,2
+46,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,A Hartley,NR Sciver,48,2
+47,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,A Hartley,NR Sciver,49,2
+48,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,A Hartley,KH Brunt,49,2
+49,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,HE Jones,KH Brunt,53,2
+50,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,HE Jones,KH Brunt,54,2
+51,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,HE Jones,NR Sciver,55,2
+52,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,HE Jones,KH Brunt,59,2
+53,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,HE Jones,KH Brunt,60,2
+54,0,1,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,NR Sciver,KL Cross,KH Brunt,60,3
+55,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,KL Cross,KH Brunt,64,3
+56,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,KL Cross,KH Brunt,64,3
+57,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,KL Cross,KH Brunt,65,3
+58,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,KL Cross,H Graham,66,3
+59,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,EL Lamb,KH Brunt,66,3
+60,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,EL Lamb,KH Brunt,67,3
+61,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,EL Lamb,H Graham,68,3
+62,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,EL Lamb,KH Brunt,69,3
+63,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,EL Lamb,H Graham,69,3
+64,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,A Hartley,KH Brunt,70,3
+65,2,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,A Hartley,H Graham,72,3
+66,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,A Hartley,H Graham,73,3
+67,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,A Hartley,KH Brunt,73,3
+68,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,A Hartley,KH Brunt,74,3
+69,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,A Hartley,H Graham,74,3
+70,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,S Ecclestone,H Graham,74,3
+71,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,S Ecclestone,H Graham,78,3
+72,2,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,S Ecclestone,H Graham,80,3
+73,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,S Ecclestone,H Graham,80,3
+74,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,S Ecclestone,H Graham,80,3
+75,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,KL Cross,KH Brunt,81,3
+76,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,KL Cross,H Graham,85,3
+77,0,1,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KH Brunt,KL Cross,H Graham,85,4
+78,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,KL Cross,H Graham,86,4
+79,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,KL Cross,S Glenn,86,4
+80,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,EL Lamb,S Glenn,87,4
+81,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,EL Lamb,H Graham,88,4
+82,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,EL Lamb,S Glenn,89,4
+83,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,EL Lamb,H Graham,90,4
+84,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,EL Lamb,S Glenn,91,4
+85,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,A Hartley,S Glenn,95,4
+86,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,A Hartley,S Glenn,96,4
+87,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,A Hartley,H Graham,97,4
+88,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,A Hartley,S Glenn,98,4
+89,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,A Hartley,H Graham,99,4
+90,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,EL Lamb,S Glenn,100,4
+91,6,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,EL Lamb,H Graham,106,4
+92,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,EL Lamb,H Graham,107,4
+93,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,EL Lamb,S Glenn,108,4
+94,2,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,EL Lamb,H Graham,110,4
+95,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,S Ecclestone,S Glenn,110,4
+96,0,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,S Ecclestone,S Glenn,110,4
+97,0,1,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,H Graham,S Ecclestone,S Glenn,110,5
+98,0,1,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,AJ Freeborn,S Ecclestone,S Glenn,110,6
+99,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KE Bryce,S Ecclestone,S Glenn,111,6
+100,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,HE Jones,KE Bryce,112,6
+101,1,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,KE Bryce,HE Jones,S Glenn,113,6
+102,4,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,HE Jones,KE Bryce,117,6
+103,2,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,HE Jones,KE Bryce,119,6
+104,3,0,Trent Rockets,1,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Manchester Originals,S Glenn,HE Jones,KE Bryce,122,6
+1,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,1,0
+2,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,1,0
+3,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,2,0
+4,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,2,0
+5,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,3,0
+6,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,KH Brunt,L Lee,4,0
+7,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,4,0
+8,5,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,9,0
+9,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,9,0
+10,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,9,0
+11,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,13,0
+12,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,13,0
+13,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,KE Bryce,L Lee,13,0
+14,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,KE Bryce,L Lee,14,0
+15,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KE Bryce,EL Lamb,14,0
+16,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KE Bryce,EL Lamb,18,0
+17,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KE Bryce,EL Lamb,22,0
+18,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,22,0
+19,2,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,24,0
+20,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,EL Lamb,25,0
+21,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,KH Brunt,L Lee,25,0
+22,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,KH Brunt,L Lee,26,0
+23,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,KH Brunt,L Lee,30,0
+24,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,31,0
+25,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,31,0
+26,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,32,0
+27,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,SJ Johnson,L Lee,32,0
+28,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,SJ Johnson,L Lee,33,0
+29,2,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,35,0
+30,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,NR Sciver,EL Lamb,35,0
+31,2,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,NR Sciver,EL Lamb,37,0
+32,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,NR Sciver,L Lee,38,0
+33,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,NR Sciver,EL Lamb,39,0
+34,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,NR Sciver,L Lee,40,0
+35,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,NR Sciver,EL Lamb,40,0
+36,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,S Glenn,L Lee,44,0
+37,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,S Glenn,L Lee,44,0
+38,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,S Glenn,L Lee,44,0
+39,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,S Glenn,L Lee,48,0
+40,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,S Glenn,L Lee,52,0
+41,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,H Graham,L Lee,53,0
+42,2,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,H Graham,EL Lamb,55,0
+43,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,H Graham,EL Lamb,56,0
+44,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,H Graham,L Lee,57,0
+45,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,H Graham,EL Lamb,58,0
+46,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KE Bryce,EL Lamb,58,0
+47,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KE Bryce,EL Lamb,59,0
+48,6,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,KE Bryce,L Lee,65,0
+49,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,KE Bryce,L Lee,66,0
+50,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KE Bryce,EL Lamb,67,0
+51,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,NR Sciver,L Lee,71,0
+52,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,NR Sciver,L Lee,72,0
+53,5,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,NR Sciver,EL Lamb,77,0
+54,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,NR Sciver,EL Lamb,78,0
+55,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,NR Sciver,L Lee,79,0
+56,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,NR Sciver,EL Lamb,79,0
+57,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,S Glenn,L Lee,80,0
+58,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,S Glenn,EL Lamb,80,0
+59,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,S Glenn,EL Lamb,80,0
+60,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,S Glenn,EL Lamb,81,0
+61,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,S Glenn,L Lee,81,0
+62,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,SJ Johnson,L Lee,82,0
+63,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,82,0
+64,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,82,0
+65,6,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,88,0
+66,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,EL Lamb,88,0
+67,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,GK Davis,L Lee,88,0
+68,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,GK Davis,L Lee,92,0
+69,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,GK Davis,L Lee,92,0
+70,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,GK Davis,L Lee,96,0
+71,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,GK Davis,L Lee,96,0
+72,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,GK Davis,L Lee,96,0
+73,0,1,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,EL Lamb,GK Davis,L Lee,96,1
+74,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,GK Davis,L Lee,96,1
+75,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,GK Davis,L Lee,96,1
+76,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,GK Davis,L Lee,97,1
+77,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,KH Brunt,L Lee,97,1
+78,5,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,KH Brunt,L Lee,102,1
+79,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,KH Brunt,L Lee,102,1
+80,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,KH Brunt,L Lee,103,1
+81,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,M du Preez,104,1
+82,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,KH Brunt,L Lee,105,1
+83,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,S Glenn,M du Preez,105,1
+84,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,S Glenn,M du Preez,105,1
+85,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,S Glenn,M du Preez,106,1
+86,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,S Glenn,L Lee,107,1
+87,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,S Glenn,M du Preez,111,1
+88,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,SJ Johnson,L Lee,112,1
+89,2,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,M du Preez,114,1
+90,0,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,M du Preez,114,1
+91,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,SJ Johnson,M du Preez,115,1
+92,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,SJ Johnson,L Lee,119,1
+93,1,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,M du Preez,KH Brunt,L Lee,120,1
+94,4,0,Manchester Originals,2,2021,female,Manchester Originals,9 wickets,"Trent Bridge, Nottingham",Manchester Originals,field,Trent Rockets,L Lee,KH Brunt,M du Preez,124,1

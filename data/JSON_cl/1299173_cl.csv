@@ -1,0 +1,203 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,PD Salt,1,0
+2,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PD Salt,DJ Willey,JC Buttler,2,0
+3,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,PD Salt,2,0
+4,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,PD Salt,2,0
+5,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,PD Salt,2,0
+6,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,MJ Potts,PD Salt,4,0
+7,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,MJ Potts,PD Salt,8,0
+8,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,MJ Potts,PD Salt,10,0
+9,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,MJ Potts,PD Salt,14,0
+10,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,MJ Potts,PD Salt,16,0
+11,0,1,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PD Salt,DJ Willey,JC Buttler,16,1
+12,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Willey,JC Buttler,17,1
+13,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,WL Madsen,17,1
+14,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,WL Madsen,21,1
+15,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,WL Madsen,25,1
+16,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,RE van der Merwe,WL Madsen,26,1
+17,3,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,RE van der Merwe,JC Buttler,29,1
+18,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,RE van der Merwe,WL Madsen,29,1
+19,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,RE van der Merwe,WL Madsen,29,1
+20,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,RE van der Merwe,WL Madsen,30,1
+21,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Bravo,WL Madsen,30,1
+22,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Bravo,WL Madsen,31,1
+23,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Bravo,JC Buttler,31,1
+24,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Bravo,JC Buttler,33,1
+25,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Bravo,JC Buttler,37,1
+26,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,AU Rashid,JC Buttler,37,1
+27,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,AU Rashid,JC Buttler,37,1
+28,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,AU Rashid,JC Buttler,38,1
+29,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,AU Rashid,WL Madsen,40,1
+30,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,AU Rashid,WL Madsen,42,1
+31,6,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,RE van der Merwe,JC Buttler,48,1
+32,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,RE van der Merwe,JC Buttler,49,1
+33,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,RE van der Merwe,WL Madsen,50,1
+34,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,RE van der Merwe,JC Buttler,51,1
+35,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,RE van der Merwe,WL Madsen,52,1
+36,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,MJ Potts,JC Buttler,56,1
+37,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,MJ Potts,JC Buttler,57,1
+38,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,MJ Potts,WL Madsen,58,1
+39,3,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,MJ Potts,JC Buttler,61,1
+40,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,MJ Potts,WL Madsen,62,1
+41,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,D Wiese,WL Madsen,62,1
+42,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,D Wiese,WL Madsen,62,1
+43,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,D Wiese,WL Madsen,63,1
+44,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,D Wiese,JC Buttler,64,1
+45,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,D Wiese,WL Madsen,65,1
+46,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,AU Rashid,JC Buttler,66,1
+47,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,AU Rashid,WL Madsen,67,1
+48,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,AU Rashid,JC Buttler,69,1
+49,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,AU Rashid,JC Buttler,70,1
+50,6,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,AU Rashid,WL Madsen,76,1
+51,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Willey,JC Buttler,77,1
+52,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,WL Madsen,78,1
+53,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,WL Madsen,82,1
+54,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,WL Madsen,83,1
+55,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Willey,JC Buttler,84,1
+56,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,WL Madsen,85,1
+57,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,D Wiese,JC Buttler,89,1
+58,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,D Wiese,JC Buttler,90,1
+59,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,D Wiese,WL Madsen,91,1
+60,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,D Wiese,JC Buttler,92,1
+61,4,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,D Wiese,WL Madsen,96,1
+62,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Willey,JC Buttler,97,1
+63,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Willey,WL Madsen,98,1
+64,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Willey,JC Buttler,100,1
+65,0,1,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,WL Madsen,DJ Willey,JC Buttler,100,2
+66,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Willey,JC Buttler,100,2
+67,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,JC Buttler,101,2
+68,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Bravo,AD Russell,103,2
+69,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,DJ Bravo,AD Russell,104,2
+70,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,JC Buttler,104,2
+71,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,JC Buttler,105,2
+72,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,AU Rashid,JC Buttler,105,2
+73,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,AU Rashid,JC Buttler,106,2
+74,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,AU Rashid,AD Russell,106,2
+75,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,AU Rashid,AD Russell,107,2
+76,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,AU Rashid,JC Buttler,108,2
+77,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,AU Rashid,AD Russell,109,2
+78,0,1,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,JC Buttler,AU Rashid,AD Russell,109,3
+79,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,AU Rashid,AD Russell,109,3
+80,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,AU Rashid,AD Russell,110,3
+81,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,AU Rashid,PI Walter,110,3
+82,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,AU Rashid,PI Walter,110,3
+83,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,D Wiese,AD Russell,111,3
+84,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,D Wiese,PI Walter,111,3
+85,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,D Wiese,PI Walter,113,3
+86,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,D Wiese,PI Walter,114,3
+87,6,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,D Wiese,AD Russell,120,3
+88,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,DJ Bravo,AD Russell,121,3
+89,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,PI Walter,122,3
+90,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,DJ Bravo,AD Russell,123,3
+91,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,DJ Bravo,AD Russell,124,3
+92,2,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,PI Walter,126,3
+93,6,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,PI Walter,132,3
+94,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,D Wiese,AD Russell,133,3
+95,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,D Wiese,AD Russell,134,3
+96,6,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,D Wiese,PI Walter,140,3
+97,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,D Wiese,PI Walter,141,3
+98,6,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,D Wiese,AD Russell,147,3
+99,6,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,D Wiese,AD Russell,153,3
+100,0,1,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,PI Walter,DJ Bravo,AD Russell,153,4
+101,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,LJ Evans,DJ Bravo,AD Russell,154,4
+102,0,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,LJ Evans,154,4
+103,6,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,LJ Evans,160,4
+104,1,0,Manchester Originals,1,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Northern Superchargers,AD Russell,DJ Bravo,LJ Evans,161,4
+1,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,TW Hartley,F du Plessis,1,0
+2,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,TW Hartley,A Lyth,1,0
+3,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,TW Hartley,A Lyth,2,0
+4,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,TW Hartley,F du Plessis,4,0
+5,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,TW Hartley,F du Plessis,8,0
+6,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,FJ Klaassen,F du Plessis,12,0
+7,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,FJ Klaassen,F du Plessis,12,0
+8,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,FJ Klaassen,F du Plessis,13,0
+9,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,FJ Klaassen,A Lyth,13,0
+10,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,FJ Klaassen,A Lyth,14,0
+11,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,SA Abbott,A Lyth,14,0
+12,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,SA Abbott,A Lyth,20,0
+13,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,SA Abbott,A Lyth,20,0
+14,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,SA Abbott,A Lyth,26,0
+15,3,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,SA Abbott,A Lyth,29,0
+16,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,SA Abbott,F du Plessis,29,0
+17,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,FJ Klaassen,F du Plessis,30,0
+18,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,FJ Klaassen,A Lyth,30,0
+19,0,1,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,F du Plessis,FJ Klaassen,A Lyth,30,1
+20,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,MS Pepper,FJ Klaassen,A Lyth,31,1
+21,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,FJ Klaassen,MS Pepper,35,1
+22,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,MS Pepper,SA Abbott,A Lyth,39,1
+23,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,MS Pepper,SA Abbott,A Lyth,40,1
+24,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,SA Abbott,MS Pepper,44,1
+25,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,SA Abbott,MS Pepper,44,1
+26,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,SA Abbott,MS Pepper,45,1
+27,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,MS Pepper,MW Parkinson,A Lyth,46,1
+28,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,MW Parkinson,MS Pepper,46,1
+29,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,MW Parkinson,MS Pepper,46,1
+30,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,MW Parkinson,MS Pepper,47,1
+31,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,MS Pepper,MW Parkinson,A Lyth,48,1
+32,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,MS Pepper,AD Russell,A Lyth,49,1
+33,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,AD Russell,MS Pepper,55,1
+34,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,AD Russell,MS Pepper,56,1
+35,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,AD Russell,MS Pepper,56,1
+36,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,AD Russell,MS Pepper,58,1
+37,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,AD Russell,MS Pepper,60,1
+38,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,AJ Turner,MS Pepper,61,1
+39,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,MS Pepper,AJ Turner,A Lyth,65,1
+40,0,1,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,MS Pepper,AJ Turner,A Lyth,65,2
+41,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,AJ Turner,A Lyth,66,2
+42,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,AJ Turner,HC Brook,67,2
+43,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,TW Hartley,HC Brook,71,2
+44,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,TW Hartley,HC Brook,75,2
+45,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,TW Hartley,HC Brook,76,2
+46,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,TW Hartley,A Lyth,77,2
+47,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,TW Hartley,HC Brook,79,2
+48,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,MW Parkinson,HC Brook,80,2
+49,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,MW Parkinson,A Lyth,81,2
+50,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,MW Parkinson,HC Brook,83,2
+51,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,MW Parkinson,HC Brook,83,2
+52,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,MW Parkinson,HC Brook,85,2
+53,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,AD Russell,A Lyth,86,2
+54,0,1,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,A Lyth,AD Russell,HC Brook,86,3
+55,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,AD Russell,HC Brook,86,3
+56,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,AD Russell,HC Brook,86,3
+57,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,AD Russell,HC Brook,88,3
+58,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,SA Abbott,HC Brook,90,3
+59,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,SA Abbott,HC Brook,91,3
+60,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,SA Abbott,DJ Willey,93,3
+61,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,SA Abbott,DJ Willey,94,3
+62,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,SA Abbott,HC Brook,94,3
+63,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,MW Parkinson,DJ Willey,95,3
+64,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,MW Parkinson,HC Brook,96,3
+65,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,MW Parkinson,DJ Willey,97,3
+66,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,MW Parkinson,HC Brook,98,3
+67,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,MW Parkinson,HC Brook,99,3
+68,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,MW Parkinson,DJ Willey,100,3
+69,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,TW Hartley,HC Brook,100,3
+70,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,TW Hartley,HC Brook,100,3
+71,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,TW Hartley,HC Brook,100,3
+72,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,TW Hartley,HC Brook,102,3
+73,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,TW Hartley,HC Brook,104,3
+74,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,AD Russell,DJ Willey,105,3
+75,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,AD Russell,HC Brook,111,3
+76,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,AD Russell,HC Brook,112,3
+77,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,AD Russell,DJ Willey,113,3
+78,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,AD Russell,HC Brook,114,3
+79,0,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,AD Russell,HC Brook,114,3
+80,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,FJ Klaassen,HC Brook,115,3
+81,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,FJ Klaassen,DJ Willey,116,3
+82,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,FJ Klaassen,HC Brook,122,3
+83,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,FJ Klaassen,HC Brook,126,3
+84,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,FJ Klaassen,HC Brook,127,3
+85,0,1,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,DJ Willey,MW Parkinson,HC Brook,127,4
+86,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,D Wiese,MW Parkinson,HC Brook,128,4
+87,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,MW Parkinson,D Wiese,129,4
+88,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,D Wiese,MW Parkinson,HC Brook,131,4
+89,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,D Wiese,MW Parkinson,HC Brook,132,4
+90,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,TW Hartley,D Wiese,134,4
+91,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,TW Hartley,D Wiese,136,4
+92,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,TW Hartley,D Wiese,142,4
+93,2,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,TW Hartley,D Wiese,144,4
+94,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,TW Hartley,D Wiese,150,4
+95,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,D Wiese,SA Abbott,HC Brook,151,4
+96,1,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,HC Brook,SA Abbott,D Wiese,152,4
+97,6,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,D Wiese,SA Abbott,HC Brook,158,4
+98,4,0,Northern Superchargers,2,2022,male,Northern Superchargers,6 wickets,"Old Trafford, Manchester",Northern Superchargers,field,Manchester Originals,D Wiese,SA Abbott,HC Brook,162,4

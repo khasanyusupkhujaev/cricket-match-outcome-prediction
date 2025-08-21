@@ -1,0 +1,210 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,M Kapp,EL Lamb,1,0
+2,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,M Kapp,EL Lamb,1,0
+3,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,M Kapp,EL Lamb,1,0
+4,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,M Kapp,EL Lamb,1,0
+5,2,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,M Kapp,EL Lamb,3,0
+6,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,M Kapp,EL Lamb,4,0
+7,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,EL Lamb,M Kapp,L Lee,4,0
+8,0,1,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,EL Lamb,M Kapp,L Lee,4,1
+9,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,M Kapp,L Lee,4,1
+10,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,M Kapp,L Lee,4,1
+11,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,M Kapp,L Lee,5,1
+12,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,NE Farrant,L Lee,6,1
+13,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,NE Farrant,GEB Boyce,6,1
+14,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,NE Farrant,GEB Boyce,10,1
+15,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,NE Farrant,GEB Boyce,14,1
+16,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,NE Farrant,GEB Boyce,14,1
+17,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,GEB Boyce,14,1
+18,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,GEB Boyce,14,1
+19,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,GEB Boyce,18,1
+20,6,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,GEB Boyce,24,1
+21,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,GEB Boyce,25,1
+22,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,S Ismail,L Lee,26,1
+23,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,M Kapp,L Lee,26,1
+24,2,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,M Kapp,L Lee,28,1
+25,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,M Kapp,L Lee,32,1
+26,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,M Kapp,L Lee,36,1
+27,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,M Kapp,L Lee,36,1
+28,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,S Ismail,L Lee,36,1
+29,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,S Ismail,L Lee,37,1
+30,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,GEB Boyce,38,1
+31,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,S Ismail,L Lee,38,1
+32,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,S Ismail,L Lee,42,1
+33,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,GEB Boyce,43,1
+34,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,D van Niekerk,L Lee,43,1
+35,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,D van Niekerk,L Lee,44,1
+36,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,GEB Boyce,44,1
+37,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,GEB Boyce,44,1
+38,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,GEB Boyce,45,1
+39,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,D van Niekerk,L Lee,46,1
+40,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,GEB Boyce,46,1
+41,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,GEB Boyce,50,1
+42,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,GEB Boyce,51,1
+43,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,GEB Boyce,51,1
+44,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,GEB Boyce,52,1
+45,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,GEB Boyce,52,1
+46,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,GEB Boyce,56,1
+47,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,GEB Boyce,56,1
+48,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,GEB Boyce,57,1
+49,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,MK Villiers,L Lee,58,1
+50,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,GEB Boyce,59,1
+51,0,1,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,GEB Boyce,MK Villiers,L Lee,59,2
+52,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,59,2
+53,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,59,2
+54,2,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,H Kaur,61,2
+55,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,H Kaur,62,2
+56,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,S Ismail,L Lee,63,2
+57,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,H Kaur,67,2
+58,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,H Kaur,68,2
+59,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,S Ismail,H Kaur,68,2
+60,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,H Kaur,68,2
+61,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,H Kaur,69,2
+62,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,D van Niekerk,L Lee,70,2
+63,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,D van Niekerk,H Kaur,71,2
+64,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,D van Niekerk,L Lee,75,2
+65,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,H Kaur,76,2
+66,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,77,2
+67,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,H Kaur,78,2
+68,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,79,2
+69,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,MK Villiers,H Kaur,80,2
+70,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,84,2
+71,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,88,2
+72,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,92,2
+73,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,92,2
+74,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,MK Villiers,L Lee,96,2
+75,0,1,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,L Lee,NE Farrant,H Kaur,96,3
+76,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,NE Farrant,H Kaur,96,3
+77,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,NE Farrant,H Kaur,96,3
+78,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,NE Farrant,H Kaur,97,3
+79,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,NE Farrant,M du Preez,98,3
+80,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,D Gregory,H Kaur,98,3
+81,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,D Gregory,H Kaur,98,3
+82,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,D Gregory,H Kaur,98,3
+83,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,D Gregory,H Kaur,99,3
+84,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,D Gregory,M du Preez,103,3
+85,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,NE Farrant,H Kaur,103,3
+86,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,NE Farrant,H Kaur,107,3
+87,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,NE Farrant,H Kaur,108,3
+88,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,NE Farrant,M du Preez,108,3
+89,0,1,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,H Kaur,NE Farrant,M du Preez,108,4
+90,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,S Ecclestone,M Kapp,M du Preez,109,4
+91,2,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,M Kapp,S Ecclestone,111,4
+92,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,M Kapp,S Ecclestone,112,4
+93,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,S Ecclestone,M Kapp,M du Preez,113,4
+94,0,1,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,M du Preez,M Kapp,S Ecclestone,113,5
+95,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,S Ecclestone,D Gregory,KL Cross,114,5
+96,4,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,KL Cross,D Gregory,S Ecclestone,118,5
+97,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,KL Cross,D Gregory,S Ecclestone,119,5
+98,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,S Ecclestone,D Gregory,KL Cross,120,5
+99,6,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,KL Cross,D Gregory,S Ecclestone,126,5
+100,1,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,KL Cross,NE Farrant,S Ecclestone,127,5
+101,0,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,S Ecclestone,NE Farrant,KL Cross,127,5
+102,6,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,S Ecclestone,NE Farrant,KL Cross,133,5
+103,0,1,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,S Ecclestone,NE Farrant,KL Cross,133,6
+104,2,0,Manchester Originals,1,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Oval Invincibles,CL Griffith,NE Farrant,KL Cross,135,6
+1,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,A Hartley,A Capsey,0,0
+2,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,A Hartley,A Capsey,0,0
+3,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,A Hartley,A Capsey,1,0
+4,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,A Capsey,A Hartley,GL Adams,5,0
+5,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,A Capsey,A Hartley,GL Adams,5,0
+6,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,A Capsey,KL Cross,GL Adams,7,0
+7,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,A Capsey,KL Cross,GL Adams,7,0
+8,0,1,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,A Capsey,KL Cross,GL Adams,7,1
+9,0,1,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GJ Gibbs,KL Cross,GL Adams,7,2
+10,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,FC Wilson,KL Cross,GL Adams,11,2
+11,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,FC Wilson,KL Cross,GL Adams,11,2
+12,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,S Ecclestone,FC Wilson,11,2
+13,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,S Ecclestone,FC Wilson,11,2
+14,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,S Ecclestone,FC Wilson,11,2
+15,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,S Ecclestone,FC Wilson,11,2
+16,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,S Ecclestone,FC Wilson,12,2
+17,0,1,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,FC Wilson,L Jackson,GL Adams,12,3
+18,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,L Jackson,GL Adams,12,3
+19,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,L Jackson,GL Adams,12,3
+20,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,L Jackson,GL Adams,12,3
+21,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,L Jackson,GL Adams,16,3
+22,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,EL Lamb,D van Niekerk,20,3
+23,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,EL Lamb,D van Niekerk,22,3
+24,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,EL Lamb,D van Niekerk,24,3
+25,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,EL Lamb,D van Niekerk,25,3
+26,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,EL Lamb,GL Adams,26,3
+27,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,EL Lamb,GL Adams,26,3
+28,6,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,GL Adams,32,3
+29,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,GL Adams,33,3
+30,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,A Hartley,D van Niekerk,34,3
+31,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,GL Adams,34,3
+32,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,GL Adams,35,3
+33,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,KL Cross,GL Adams,36,3
+34,0,1,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,GL Adams,KL Cross,D van Niekerk,36,4
+35,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,KL Cross,D van Niekerk,37,4
+36,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,KL Cross,M Kapp,37,4
+37,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,KL Cross,M Kapp,41,4
+38,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,H Kaur,M Kapp,45,4
+39,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,H Kaur,M Kapp,46,4
+40,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,H Kaur,D van Niekerk,46,4
+41,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,H Kaur,D van Niekerk,47,4
+42,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,H Kaur,M Kapp,51,4
+43,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,S Ecclestone,D van Niekerk,51,4
+44,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,S Ecclestone,D van Niekerk,51,4
+45,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,S Ecclestone,D van Niekerk,52,4
+46,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,S Ecclestone,M Kapp,52,4
+47,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,S Ecclestone,M Kapp,52,4
+48,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,L Jackson,M Kapp,53,4
+49,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,L Jackson,D van Niekerk,53,4
+50,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,L Jackson,D van Niekerk,53,4
+51,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,L Jackson,D van Niekerk,57,4
+52,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,L Jackson,D van Niekerk,58,4
+53,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,A Hartley,D van Niekerk,62,4
+54,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,A Hartley,D van Niekerk,63,4
+55,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,M Kapp,63,4
+56,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,M Kapp,64,4
+57,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,A Hartley,D van Niekerk,64,4
+58,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,EL Lamb,D van Niekerk,68,4
+59,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,EL Lamb,D van Niekerk,69,4
+60,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,EL Lamb,M Kapp,70,4
+61,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,EL Lamb,D van Niekerk,71,4
+62,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,EL Lamb,M Kapp,72,4
+63,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,L Jackson,M Kapp,72,4
+64,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,L Jackson,M Kapp,73,4
+65,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,L Jackson,D van Niekerk,73,4
+66,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,L Jackson,D van Niekerk,74,4
+67,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,L Jackson,M Kapp,78,4
+68,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,H Kaur,M Kapp,79,4
+69,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,H Kaur,D van Niekerk,81,4
+70,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,H Kaur,D van Niekerk,81,4
+71,6,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,H Kaur,D van Niekerk,87,4
+72,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,H Kaur,D van Niekerk,88,4
+73,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,KL Cross,D van Niekerk,89,4
+74,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,KL Cross,M Kapp,91,4
+75,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,KL Cross,M Kapp,93,4
+76,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,KL Cross,M Kapp,93,4
+77,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,KL Cross,M Kapp,94,4
+78,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,KL Cross,D van Niekerk,95,4
+79,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,EL Lamb,M Kapp,99,4
+80,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,EL Lamb,M Kapp,99,4
+81,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,EL Lamb,M Kapp,100,4
+82,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,EL Lamb,D van Niekerk,101,4
+83,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,EL Lamb,M Kapp,101,4
+84,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,S Ecclestone,D van Niekerk,101,4
+85,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,S Ecclestone,D van Niekerk,102,4
+86,6,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,S Ecclestone,D van Niekerk,108,4
+87,1,1,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,M Kapp,S Ecclestone,D van Niekerk,109,5
+88,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,S Ecclestone,D van Niekerk,109,5
+89,2,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,S Ecclestone,D van Niekerk,111,5
+90,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,S Ecclestone,D van Niekerk,112,5
+91,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,MK Villiers,113,5
+92,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,A Hartley,D van Niekerk,114,5
+93,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,MK Villiers,118,5
+94,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,MK Villiers,118,5
+95,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,MK Villiers,119,5
+96,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,A Hartley,MK Villiers,120,5
+97,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,S Ecclestone,MK Villiers,121,5
+98,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,S Ecclestone,D van Niekerk,122,5
+99,6,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,S Ecclestone,D van Niekerk,128,5
+100,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,S Ecclestone,D van Niekerk,129,5
+101,0,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,S Ecclestone,MK Villiers,129,5
+102,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,S Ecclestone,MK Villiers,130,5
+103,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,KL Cross,D van Niekerk,134,5
+104,1,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,MK Villiers,KL Cross,D van Niekerk,135,5
+105,4,0,Oval Invincibles,2,2021,female,Oval Invincibles,5 wickets,"Kennington Oval, London",Manchester Originals,bat,Manchester Originals,D van Niekerk,KL Cross,MK Villiers,139,5

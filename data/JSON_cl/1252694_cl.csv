@@ -1,0 +1,200 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,SR Patel,JM Clarke,1,0
+2,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SR Patel,PD Salt,1,0
+3,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SR Patel,PD Salt,1,0
+4,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SR Patel,PD Salt,5,0
+5,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SR Patel,PD Salt,5,0
+6,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SJ Cook,PD Salt,5,0
+7,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SJ Cook,PD Salt,6,0
+8,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,SJ Cook,JM Clarke,6,0
+9,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,SJ Cook,JM Clarke,7,0
+10,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SJ Cook,PD Salt,11,0
+11,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,M Carter,JM Clarke,12,0
+12,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,M Carter,PD Salt,12,0
+13,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,M Carter,PD Salt,14,0
+14,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,M Carter,PD Salt,18,0
+15,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,M Carter,PD Salt,20,0
+16,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SJ Cook,PD Salt,21,0
+17,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,SJ Cook,JM Clarke,22,0
+18,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SJ Cook,PD Salt,26,0
+19,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SJ Cook,PD Salt,27,0
+20,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,SJ Cook,JM Clarke,29,0
+21,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SR Patel,PD Salt,29,0
+22,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SR Patel,PD Salt,33,0
+23,0,1,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,JM Clarke,SR Patel,PD Salt,33,1
+24,6,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SR Patel,PD Salt,39,1
+25,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SR Patel,PD Salt,43,1
+26,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SJ Mullaney,PD Salt,43,1
+27,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SJ Mullaney,PD Salt,44,1
+28,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,SJ Mullaney,C Munro,48,1
+29,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,SJ Mullaney,C Munro,49,1
+30,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SJ Mullaney,PD Salt,49,1
+31,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,M de Lange,C Munro,50,1
+32,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M de Lange,PD Salt,51,1
+33,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,M de Lange,C Munro,52,1
+34,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M de Lange,PD Salt,56,1
+35,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M de Lange,PD Salt,56,1
+36,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M Carter,PD Salt,57,1
+37,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,M Carter,C Munro,58,1
+38,8,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M Carter,PD Salt,66,1
+39,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M Carter,PD Salt,68,1
+40,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M Carter,PD Salt,69,1
+41,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,M Carter,C Munro,70,1
+42,0,1,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,PD Salt,Rashid Khan,C Munro,70,2
+43,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,CN Ackermann,Rashid Khan,C Munro,70,2
+44,0,1,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,CN Ackermann,Rashid Khan,C Munro,70,3
+45,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TA Lammonby,Rashid Khan,C Munro,71,3
+46,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,Rashid Khan,TA Lammonby,72,3
+47,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TA Lammonby,SJ Mullaney,C Munro,72,3
+48,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TA Lammonby,SJ Mullaney,C Munro,74,3
+49,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TA Lammonby,SJ Mullaney,C Munro,74,3
+50,0,1,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TA Lammonby,SJ Mullaney,C Munro,74,4
+51,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,CR Brathwaite,SJ Mullaney,C Munro,75,4
+52,0,1,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,CR Brathwaite,Rashid Khan,C Munro,75,5
+53,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,Rashid Khan,C Munro,75,5
+54,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,Rashid Khan,C Munro,75,5
+55,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,Rashid Khan,C Munro,75,5
+56,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,Rashid Khan,C Munro,75,5
+57,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,Rashid Khan,C Munro,75,5
+58,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,Rashid Khan,C Munro,76,5
+59,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,Rashid Khan,DA Douthwaite,77,5
+60,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,Rashid Khan,C Munro,79,5
+61,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,Rashid Khan,C Munro,79,5
+62,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SR Patel,DA Douthwaite,83,5
+63,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SR Patel,DA Douthwaite,83,5
+64,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SR Patel,DA Douthwaite,84,5
+65,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,SR Patel,C Munro,85,5
+66,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,SR Patel,DA Douthwaite,87,5
+67,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M de Lange,DA Douthwaite,91,5
+68,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M de Lange,DA Douthwaite,92,5
+69,0,1,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,DA Douthwaite,M de Lange,C Munro,92,6
+70,6,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M de Lange,TW Hartley,98,6
+71,0,1,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,C Munro,M de Lange,TW Hartley,98,7
+72,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,Rashid Khan,LH Ferguson,102,7
+73,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,Rashid Khan,LH Ferguson,103,7
+74,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,Rashid Khan,TW Hartley,104,7
+75,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,Rashid Khan,LH Ferguson,108,7
+76,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,Rashid Khan,LH Ferguson,108,7
+77,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,M de Lange,LH Ferguson,109,7
+78,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,M de Lange,TW Hartley,110,7
+79,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,M de Lange,LH Ferguson,110,7
+80,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,M de Lange,LH Ferguson,111,7
+81,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,M de Lange,TW Hartley,112,7
+82,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,SR Patel,TW Hartley,113,7
+83,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,SR Patel,LH Ferguson,114,7
+84,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,SR Patel,TW Hartley,116,7
+85,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,SR Patel,TW Hartley,116,7
+86,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,SR Patel,TW Hartley,117,7
+87,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,SJ Cook,LH Ferguson,118,7
+88,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,SJ Cook,TW Hartley,118,7
+89,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,SJ Cook,TW Hartley,118,7
+90,6,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,SJ Cook,TW Hartley,124,7
+91,0,1,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,LH Ferguson,SJ Cook,TW Hartley,124,8
+92,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,M de Lange,FJ Klaassen,124,8
+93,2,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,M de Lange,FJ Klaassen,126,8
+94,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,M de Lange,FJ Klaassen,126,8
+95,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,M de Lange,FJ Klaassen,127,8
+96,0,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,FJ Klaassen,M de Lange,TW Hartley,127,8
+97,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,FJ Klaassen,SJ Cook,TW Hartley,128,8
+98,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,SJ Cook,FJ Klaassen,129,8
+99,4,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,FJ Klaassen,SJ Cook,TW Hartley,133,8
+100,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,FJ Klaassen,SJ Cook,TW Hartley,134,8
+101,1,0,Manchester Originals,1,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Trent Rockets,TW Hartley,SJ Cook,FJ Klaassen,135,8
+1,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,FJ Klaassen,DJ Malan,0,0
+2,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,FJ Klaassen,DJ Malan,1,0
+3,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,FJ Klaassen,AD Hales,1,0
+4,2,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,FJ Klaassen,AD Hales,3,0
+5,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,FJ Klaassen,AD Hales,7,0
+6,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,FJ Klaassen,AD Hales,8,0
+7,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,FJ Klaassen,AD Hales,9,0
+8,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,FJ Klaassen,DJ Malan,9,0
+9,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,FJ Klaassen,DJ Malan,13,0
+10,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,FJ Klaassen,DJ Malan,17,0
+11,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,FJ Klaassen,DJ Malan,17,0
+12,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,TW Hartley,AD Hales,21,0
+13,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,TW Hartley,AD Hales,21,0
+14,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,TW Hartley,AD Hales,22,0
+15,2,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,TW Hartley,DJ Malan,24,0
+16,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,TW Hartley,DJ Malan,24,0
+17,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,LH Ferguson,DJ Malan,25,0
+18,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,AD Hales,25,0
+19,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,AD Hales,26,0
+20,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,LH Ferguson,DJ Malan,27,0
+21,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,AD Hales,28,0
+22,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CR Brathwaite,AD Hales,28,0
+23,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CR Brathwaite,AD Hales,32,0
+24,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CR Brathwaite,AD Hales,32,0
+25,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CR Brathwaite,AD Hales,33,0
+26,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,CR Brathwaite,DJ Malan,33,0
+27,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,CN Ackermann,DJ Malan,33,0
+28,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,CN Ackermann,DJ Malan,34,0
+29,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CN Ackermann,AD Hales,34,0
+30,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CN Ackermann,AD Hales,38,0
+31,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CN Ackermann,AD Hales,39,0
+32,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,AD Hales,43,0
+33,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,AD Hales,44,0
+34,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,LH Ferguson,DJ Malan,45,0
+35,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,AD Hales,45,0
+36,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,AD Hales,46,0
+37,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,MW Parkinson,DJ Malan,50,0
+38,0,1,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,AD Hales,MW Parkinson,DJ Malan,50,1
+39,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,MW Parkinson,DJ Malan,51,1
+40,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SJ Mullaney,52,1
+41,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,MW Parkinson,DJ Malan,53,1
+42,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,CN Ackermann,DJ Malan,57,1
+43,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,CN Ackermann,DJ Malan,61,1
+44,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,CN Ackermann,DJ Malan,61,1
+45,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,CN Ackermann,DJ Malan,62,1
+46,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CN Ackermann,SJ Mullaney,66,1
+47,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CR Brathwaite,SJ Mullaney,67,1
+48,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,CR Brathwaite,DJ Malan,71,1
+49,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,CR Brathwaite,DJ Malan,72,1
+50,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CR Brathwaite,SJ Mullaney,73,1
+51,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,CR Brathwaite,DJ Malan,74,1
+52,0,1,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SJ Mullaney,MW Parkinson,DJ Malan,74,2
+53,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,MW Parkinson,DJ Malan,75,2
+54,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,76,2
+55,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,MW Parkinson,DJ Malan,77,2
+56,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,77,2
+57,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,78,2
+58,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,MW Parkinson,DJ Malan,79,2
+59,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,79,2
+60,2,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,81,2
+61,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,82,2
+62,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,SR Patel,86,2
+63,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,SR Patel,87,2
+64,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,LH Ferguson,DJ Malan,91,2
+65,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,LH Ferguson,DJ Malan,92,2
+66,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,SR Patel,93,2
+67,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,CR Brathwaite,DJ Malan,94,2
+68,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CR Brathwaite,SR Patel,95,2
+69,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,CR Brathwaite,DJ Malan,99,2
+70,2,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,CR Brathwaite,DJ Malan,101,2
+71,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,CR Brathwaite,DJ Malan,102,2
+72,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,CR Brathwaite,SR Patel,102,2
+73,2,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,TW Hartley,DJ Malan,104,2
+74,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,TW Hartley,DJ Malan,105,2
+75,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,TW Hartley,SR Patel,105,2
+76,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,TW Hartley,SR Patel,106,2
+77,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,TW Hartley,DJ Malan,106,2
+78,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,MW Parkinson,DJ Malan,106,2
+79,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,MW Parkinson,DJ Malan,107,2
+80,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,107,2
+81,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,111,2
+82,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,MW Parkinson,SR Patel,112,2
+83,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,SR Patel,112,2
+84,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,SR Patel,112,2
+85,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,SR Patel,113,2
+86,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,LH Ferguson,DJ Malan,114,2
+87,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,LH Ferguson,SR Patel,115,2
+88,2,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,FJ Klaassen,DJ Malan,117,2
+89,6,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,FJ Klaassen,DJ Malan,123,2
+90,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,FJ Klaassen,DJ Malan,123,2
+91,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,FJ Klaassen,DJ Malan,124,2
+92,0,1,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJ Malan,FJ Klaassen,SR Patel,124,3
+93,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,TW Hartley,DJM Short,124,3
+94,6,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,TW Hartley,DJM Short,130,3
+95,0,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,TW Hartley,DJM Short,130,3
+96,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,TW Hartley,DJM Short,131,3
+97,1,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,SR Patel,TW Hartley,DJM Short,132,3
+98,4,0,Trent Rockets,2,2021,male,Trent Rockets,7 wickets,"Trent Bridge, Nottingham",Manchester Originals,bat,Manchester Originals,DJM Short,TW Hartley,SR Patel,136,3

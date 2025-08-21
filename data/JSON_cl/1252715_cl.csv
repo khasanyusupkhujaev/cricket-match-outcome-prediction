@@ -1,0 +1,208 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,A Capsey,HK Matthews,0,0
+2,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,A Capsey,HK Matthews,0,0
+3,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,A Capsey,HK Matthews,0,0
+4,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,A Capsey,HK Matthews,1,0
+5,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,A Capsey,BF Smith,2,0
+6,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,NE Farrant,HK Matthews,2,0
+7,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,NE Farrant,HK Matthews,3,0
+8,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,NE Farrant,BF Smith,4,0
+9,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,NE Farrant,HK Matthews,4,0
+10,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,NE Farrant,HK Matthews,5,0
+11,0,1,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,BF Smith,MK Villiers,HK Matthews,5,1
+12,4,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,MK Villiers,HK Matthews,9,1
+13,4,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,MK Villiers,HK Matthews,13,1
+14,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,MK Villiers,HK Matthews,14,1
+15,4,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,MK Villiers,G Redmayne,18,1
+16,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,A Capsey,G Redmayne,18,1
+17,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,A Capsey,G Redmayne,18,1
+18,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,A Capsey,G Redmayne,19,1
+19,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,A Capsey,HK Matthews,19,1
+20,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,A Capsey,HK Matthews,19,1
+21,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,NE Farrant,G Redmayne,19,1
+22,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,NE Farrant,G Redmayne,19,1
+23,4,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,NE Farrant,G Redmayne,23,1
+24,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,NE Farrant,G Redmayne,24,1
+25,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,NE Farrant,HK Matthews,25,1
+26,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,D van Niekerk,G Redmayne,25,1
+27,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,D van Niekerk,G Redmayne,26,1
+28,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,HK Matthews,26,1
+29,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,HK Matthews,27,1
+30,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,D van Niekerk,G Redmayne,28,1
+31,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,D Gregory,G Redmayne,29,1
+32,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,D Gregory,G Redmayne,29,1
+33,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,D Gregory,G Redmayne,30,1
+34,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D Gregory,HK Matthews,30,1
+35,4,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D Gregory,HK Matthews,34,1
+36,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D Gregory,HK Matthews,35,1
+37,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,GJ Gibbs,G Redmayne,37,1
+38,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,GJ Gibbs,G Redmayne,39,1
+39,3,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,GJ Gibbs,G Redmayne,42,1
+40,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,GJ Gibbs,HK Matthews,43,1
+41,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,GJ Gibbs,HK Matthews,45,1
+42,5,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,GJ Gibbs,HK Matthews,50,1
+43,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,GJ Gibbs,HK Matthews,51,1
+44,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,GJ Gibbs,G Redmayne,52,1
+45,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,D van Niekerk,G Redmayne,52,1
+46,0,1,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,HK Matthews,D van Niekerk,G Redmayne,52,2
+47,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,D van Niekerk,G Redmayne,53,2
+48,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,SJ Taylor,54,2
+49,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,D van Niekerk,G Redmayne,55,2
+50,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,SJ Taylor,56,2
+51,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,D van Niekerk,G Redmayne,56,2
+52,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,D van Niekerk,G Redmayne,56,2
+53,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,D van Niekerk,G Redmayne,57,2
+54,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,SJ Taylor,57,2
+55,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,MK Villiers,G Redmayne,58,2
+56,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,MK Villiers,SJ Taylor,58,2
+57,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,MK Villiers,SJ Taylor,58,2
+58,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,MK Villiers,SJ Taylor,58,2
+59,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,MK Villiers,SJ Taylor,60,2
+60,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,E Gray,SJ Taylor,60,2
+61,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,E Gray,SJ Taylor,62,2
+62,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,E Gray,SJ Taylor,63,2
+63,4,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,E Gray,G Redmayne,67,2
+64,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,E Gray,G Redmayne,67,2
+65,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,SJ Taylor,68,2
+66,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,D van Niekerk,G Redmayne,69,2
+67,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,SJ Taylor,69,2
+68,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,SJ Taylor,69,2
+69,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D van Niekerk,SJ Taylor,70,2
+70,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,D Gregory,G Redmayne,71,2
+71,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D Gregory,SJ Taylor,73,2
+72,1,1,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,G Redmayne,D Gregory,SJ Taylor,74,3
+73,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,D Gregory,SJ Taylor,75,3
+74,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,D Gregory,SN Luff,76,3
+75,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,MK Villiers,SN Luff,78,3
+76,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,MK Villiers,SN Luff,79,3
+77,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,MK Villiers,SJ Taylor,80,3
+78,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,MK Villiers,SN Luff,80,3
+79,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,MK Villiers,SN Luff,80,3
+80,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,A Capsey,SN Luff,81,3
+81,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,A Capsey,SJ Taylor,82,3
+82,4,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,A Capsey,SN Luff,86,3
+83,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,A Capsey,SN Luff,88,3
+84,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,A Capsey,SN Luff,89,3
+85,4,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,NE Farrant,SN Luff,93,3
+86,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,NE Farrant,SN Luff,94,3
+87,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,NE Farrant,SJ Taylor,96,3
+88,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,NE Farrant,SJ Taylor,98,3
+89,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,NE Farrant,SJ Taylor,99,3
+90,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,A Capsey,SN Luff,101,3
+91,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,A Capsey,SN Luff,102,3
+92,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,A Capsey,SJ Taylor,103,3
+93,0,1,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SJ Taylor,A Capsey,SN Luff,103,4
+94,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,GM Hennessy,A Capsey,SN Luff,104,4
+95,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,GM Hennessy,MK Villiers,SN Luff,104,4
+96,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,GM Hennessy,MK Villiers,SN Luff,106,4
+97,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,GM Hennessy,MK Villiers,SN Luff,106,4
+98,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,GM Hennessy,MK Villiers,SN Luff,106,4
+99,0,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,GM Hennessy,MK Villiers,SN Luff,106,4
+100,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,GM Hennessy,NE Farrant,SN Luff,108,4
+101,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,NE Farrant,GM Hennessy,109,4
+102,0,1,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,GM Hennessy,NE Farrant,SN Luff,109,5
+103,2,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,NE Farrant,P Cleary,111,5
+104,1,0,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,SN Luff,NE Farrant,P Cleary,112,5
+105,0,1,Welsh Fire,1,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Oval Invincibles,P Cleary,NE Farrant,SN Luff,112,6
+1,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GL Adams,BF Smith,A Capsey,0,0
+2,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GL Adams,BF Smith,A Capsey,0,0
+3,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GL Adams,BF Smith,A Capsey,0,1
+4,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,BF Smith,A Capsey,0,1
+5,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,BF Smith,A Capsey,4,1
+6,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,P Cleary,A Capsey,5,1
+7,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,P Cleary,GJ Gibbs,6,1
+8,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,P Cleary,A Capsey,6,1
+9,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,P Cleary,A Capsey,6,1
+10,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,P Cleary,A Capsey,7,1
+11,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,HK Matthews,A Capsey,7,1
+12,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,HK Matthews,A Capsey,8,1
+13,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,HK Matthews,GJ Gibbs,9,1
+14,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,HK Matthews,A Capsey,9,1
+15,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,HK Matthews,A Capsey,9,1
+16,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,P Cleary,A Capsey,10,1
+17,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,P Cleary,GJ Gibbs,10,1
+18,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,P Cleary,GJ Gibbs,11,1
+19,2,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,P Cleary,A Capsey,13,1
+20,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,P Cleary,A Capsey,17,1
+21,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,HK Matthews,GJ Gibbs,17,1
+22,2,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,HK Matthews,GJ Gibbs,19,1
+23,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,HK Matthews,GJ Gibbs,23,1
+24,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,HK Matthews,GJ Gibbs,27,1
+25,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,HK Matthews,GJ Gibbs,28,1
+26,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,GM Hennessy,A Capsey,28,1
+27,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,GM Hennessy,A Capsey,32,1
+28,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,GM Hennessy,A Capsey,33,1
+29,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,GM Hennessy,GJ Gibbs,34,1
+30,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,GM Hennessy,A Capsey,34,1
+31,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,N Harvey,GJ Gibbs,34,1
+32,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,A Capsey,N Harvey,GJ Gibbs,34,2
+33,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,N Harvey,GJ Gibbs,34,2
+34,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,N Harvey,GJ Gibbs,35,2
+35,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,N Harvey,FC Wilson,36,2
+36,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,BF Smith,GJ Gibbs,40,2
+37,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,BF Smith,GJ Gibbs,41,2
+38,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,BF Smith,FC Wilson,41,2
+39,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,BF Smith,FC Wilson,42,2
+40,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,BF Smith,GJ Gibbs,42,2
+41,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,HL Baker,FC Wilson,43,2
+42,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,HL Baker,GJ Gibbs,43,2
+43,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,HL Baker,GJ Gibbs,44,2
+44,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,GJ Gibbs,HL Baker,FC Wilson,44,3
+45,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,HL Baker,FC Wilson,44,3
+46,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,44,3
+47,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,44,3
+48,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,44,3
+49,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,45,3
+50,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,GM Hennessy,D van Niekerk,45,3
+51,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,HL Baker,FC Wilson,45,3
+52,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,HL Baker,FC Wilson,46,3
+53,2,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,HL Baker,D van Niekerk,48,3
+54,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,HL Baker,D van Niekerk,52,3
+55,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,HL Baker,D van Niekerk,52,3
+56,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,P Cleary,D van Niekerk,52,3
+57,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,P Cleary,D van Niekerk,53,3
+58,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,P Cleary,FC Wilson,54,3
+59,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,P Cleary,D van Niekerk,54,3
+60,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,P Cleary,D van Niekerk,54,3
+61,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,N Harvey,FC Wilson,54,3
+62,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,N Harvey,FC Wilson,55,3
+63,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,N Harvey,FC Wilson,56,3
+64,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,N Harvey,D van Niekerk,57,3
+65,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,N Harvey,FC Wilson,58,3
+66,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,N Harvey,D van Niekerk,59,3
+67,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,60,3
+68,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,60,3
+69,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,60,3
+70,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,61,3
+71,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,GM Hennessy,D van Niekerk,62,3
+72,2,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,GM Hennessy,FC Wilson,64,3
+73,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,N Harvey,D van Niekerk,65,3
+74,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D van Niekerk,N Harvey,FC Wilson,65,4
+75,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,MK Villiers,N Harvey,FC Wilson,66,4
+76,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,N Harvey,MK Villiers,67,4
+77,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,MK Villiers,N Harvey,FC Wilson,68,4
+78,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,BF Smith,MK Villiers,69,4
+79,2,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,MK Villiers,BF Smith,FC Wilson,71,4
+80,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,MK Villiers,BF Smith,FC Wilson,72,4
+81,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,BF Smith,MK Villiers,73,4
+82,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,MK Villiers,BF Smith,FC Wilson,74,4
+83,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,MK Villiers,HK Matthews,FC Wilson,75,4
+84,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,FC Wilson,HK Matthews,MK Villiers,75,5
+85,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,NE Farrant,HK Matthews,MK Villiers,76,5
+86,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,MK Villiers,HK Matthews,NE Farrant,77,5
+87,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,NE Farrant,HK Matthews,MK Villiers,78,5
+88,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,MK Villiers,BF Smith,NE Farrant,78,6
+89,2,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,J Gardner,BF Smith,NE Farrant,80,6
+90,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,J Gardner,BF Smith,NE Farrant,80,6
+91,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,NE Farrant,BF Smith,J Gardner,81,6
+92,6,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,J Gardner,BF Smith,NE Farrant,87,6
+93,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,NE Farrant,HK Matthews,J Gardner,88,6
+94,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,J Gardner,HK Matthews,NE Farrant,92,6
+95,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,J Gardner,HK Matthews,NE Farrant,92,7
+96,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,SJ Bryce,HK Matthews,NE Farrant,93,7
+97,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,NE Farrant,HK Matthews,SJ Bryce,93,8
+98,4,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,E Gray,P Cleary,SJ Bryce,97,8
+99,0,1,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,E Gray,P Cleary,SJ Bryce,97,9
+100,1,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,D Gregory,P Cleary,SJ Bryce,98,9
+101,2,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,SJ Bryce,P Cleary,D Gregory,100,9
+102,0,0,Oval Invincibles,2,2021,female,Welsh Fire,12 runs,"Kennington Oval, London",Oval Invincibles,field,Welsh Fire,SJ Bryce,P Cleary,D Gregory,100,9

@@ -1,0 +1,203 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,0,0
+2,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,4,0
+3,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,5,0
+4,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,5,0
+5,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GL Adams,IECM Wong,D van Niekerk,5,1
+6,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,IECM Wong,D van Niekerk,6,1
+7,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,D van Niekerk,EL Arlott,FC Wilson,6,1
+8,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,D van Niekerk,EL Arlott,FC Wilson,7,1
+9,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,D van Niekerk,EL Arlott,FC Wilson,7,1
+10,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,D van Niekerk,EL Arlott,FC Wilson,7,1
+11,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,D van Niekerk,EL Arlott,FC Wilson,8,1
+12,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,EL Arlott,D van Niekerk,8,1
+13,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,D van Niekerk,KL Gordon,FC Wilson,8,1
+14,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,D van Niekerk,KL Gordon,FC Wilson,9,1
+15,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,KL Gordon,D van Niekerk,9,1
+16,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,KL Gordon,D van Niekerk,9,1
+17,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,KL Gordon,D van Niekerk,13,1
+18,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,EL Arlott,D van Niekerk,14,1
+19,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,EL Arlott,D van Niekerk,15,1
+20,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,D van Niekerk,EL Arlott,FC Wilson,15,2
+21,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EL Arlott,FC Wilson,15,2
+22,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EL Arlott,FC Wilson,15,2
+23,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EL Arlott,FC Wilson,15,2
+24,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,IECM Wong,M Kapp,15,2
+25,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,IECM Wong,M Kapp,19,2
+26,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,IECM Wong,M Kapp,23,2
+27,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,IECM Wong,M Kapp,23,2
+28,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,IECM Wong,M Kapp,23,2
+29,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,AH Maqsood,M Kapp,24,2
+30,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,AH Maqsood,FC Wilson,24,2
+31,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,AH Maqsood,FC Wilson,25,2
+32,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,AH Maqsood,M Kapp,25,2
+33,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,AH Maqsood,M Kapp,29,2
+34,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,FC Wilson,30,2
+35,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,GA Elwiss,M Kapp,32,2
+36,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,GA Elwiss,M Kapp,33,2
+37,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,FC Wilson,33,2
+38,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,FC Wilson,35,2
+39,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,KL Gordon,FC Wilson,36,2
+40,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,FC Wilson,KL Gordon,M Kapp,36,3
+41,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,KL Gordon,M Kapp,36,3
+42,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,KL Gordon,M Kapp,37,3
+43,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,KL Gordon,A Capsey,37,3
+44,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,AH Maqsood,M Kapp,37,3
+45,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,AH Maqsood,M Kapp,38,3
+46,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,AH Maqsood,A Capsey,38,3
+47,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,AH Maqsood,A Capsey,42,3
+48,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,AH Maqsood,A Capsey,42,3
+49,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,A Capsey,42,3
+50,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,A Capsey,42,3
+51,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,A Capsey,43,3
+52,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,GA Elwiss,M Kapp,44,3
+53,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,A Capsey,45,3
+54,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EA Burns,A Capsey,45,3
+55,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EA Burns,A Capsey,46,3
+56,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EA Burns,M Kapp,47,3
+57,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EA Burns,A Capsey,48,3
+58,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EA Burns,M Kapp,49,3
+59,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EL Arlott,A Capsey,50,3
+60,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EL Arlott,M Kapp,50,3
+61,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EL Arlott,M Kapp,52,3
+62,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EL Arlott,M Kapp,53,3
+63,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EL Arlott,A Capsey,57,3
+64,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,AH Maqsood,M Kapp,61,3
+65,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,AH Maqsood,M Kapp,62,3
+66,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,AH Maqsood,A Capsey,64,3
+67,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,AH Maqsood,A Capsey,64,3
+68,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,AH Maqsood,A Capsey,64,3
+69,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,KL Gordon,A Capsey,68,3
+70,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,KL Gordon,A Capsey,68,3
+71,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,KL Gordon,A Capsey,69,3
+72,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,KL Gordon,M Kapp,73,3
+73,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,KL Gordon,M Kapp,74,3
+74,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,IECM Wong,M Kapp,75,3
+75,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,IECM Wong,M Kapp,76,3
+76,6,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,IECM Wong,A Capsey,82,3
+77,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,IECM Wong,A Capsey,82,3
+78,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,IECM Wong,A Capsey,83,3
+79,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,IECM Wong,A Capsey,83,3
+80,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,IECM Wong,A Capsey,87,3
+81,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,A Capsey,87,3
+82,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,A Capsey,87,3
+83,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,A Capsey,88,3
+84,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,GA Elwiss,M Kapp,89,3
+85,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,GA Elwiss,A Capsey,90,3
+86,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,M Kapp,EA Burns,A Capsey,90,4
+87,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,MK Villiers,EA Burns,A Capsey,90,4
+88,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,MK Villiers,EA Burns,A Capsey,91,4
+89,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EA Burns,MK Villiers,92,4
+90,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,MK Villiers,EA Burns,A Capsey,92,4
+91,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,MK Villiers,EA Burns,A Capsey,93,4
+92,0,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EA Burns,MK Villiers,93,4
+93,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EA Burns,MK Villiers,94,4
+94,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,MK Villiers,EA Burns,A Capsey,95,4
+95,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,A Capsey,EA Burns,MK Villiers,99,4
+96,1,1,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,MK Villiers,KL Gordon,A Capsey,100,5
+97,0,1,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,MK Villiers,KL Gordon,J Gardner,100,6
+98,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GJ Gibbs,KL Gordon,J Gardner,101,6
+99,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,J Gardner,KL Gordon,GJ Gibbs,102,6
+100,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GJ Gibbs,KL Gordon,J Gardner,104,6
+101,1,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GJ Gibbs,GA Elwiss,J Gardner,105,6
+102,1,1,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,J Gardner,GA Elwiss,GJ Gibbs,106,7
+103,4,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GJ Gibbs,GA Elwiss,SJ Bryce,110,7
+104,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GJ Gibbs,GA Elwiss,SJ Bryce,112,7
+105,2,0,Oval Invincibles,1,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Birmingham Phoenix,GJ Gibbs,GA Elwiss,SJ Bryce,114,7
+1,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KM Mack,M Kapp,E Jones,0,0
+2,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KM Mack,M Kapp,E Jones,0,0
+3,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KM Mack,M Kapp,E Jones,0,1
+4,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,M Kapp,E Jones,4,1
+5,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,M Kapp,E Jones,4,1
+6,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,E Jones,4,1
+7,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,E Jones,4,1
+8,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,E Jones,4,1
+9,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,E Jones,8,1
+10,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,E Jones,9,1
+11,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,M Kapp,E Jones,13,1
+12,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,M Kapp,E Jones,14,1
+13,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,E Jones,M Kapp,AE Jones,14,2
+14,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,M Kapp,AE Jones,18,2
+15,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,M Kapp,AE Jones,18,2
+16,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,NE Farrant,AE Jones,18,2
+17,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,NE Farrant,AE Jones,18,2
+18,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,NE Farrant,AE Jones,19,2
+19,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,NE Farrant,AE Jones,20,2
+20,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,NE Farrant,EA Burns,21,2
+21,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,NE Farrant,AE Jones,25,2
+22,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,EA Burns,25,2
+23,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,EA Burns,25,2
+24,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,EA Burns,29,2
+25,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,EA Burns,30,2
+26,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,S Ismail,AE Jones,30,2
+27,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,D van Niekerk,AE Jones,34,2
+28,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,D van Niekerk,AE Jones,35,2
+29,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,D van Niekerk,EA Burns,36,2
+30,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,D van Niekerk,AE Jones,36,2
+31,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,D van Niekerk,AE Jones,37,2
+32,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,A Capsey,AE Jones,37,2
+33,3,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,A Capsey,AE Jones,40,2
+34,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,A Capsey,EA Burns,44,2
+35,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,A Capsey,EA Burns,45,2
+36,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,A Capsey,AE Jones,46,2
+37,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,EA Burns,47,2
+38,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,S Ismail,AE Jones,47,2
+39,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,S Ismail,AE Jones,47,2
+40,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,S Ismail,AE Jones,47,2
+41,2,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,S Ismail,AE Jones,49,2
+42,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,S Ismail,EA Burns,50,2
+43,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,D van Niekerk,EA Burns,51,2
+44,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,D van Niekerk,AE Jones,55,2
+45,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,D van Niekerk,AE Jones,56,2
+46,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,D van Niekerk,EA Burns,57,2
+47,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,D van Niekerk,AE Jones,58,2
+48,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,M Kapp,EA Burns,59,2
+49,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,M Kapp,EA Burns,60,2
+50,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,M Kapp,AE Jones,61,2
+51,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,M Kapp,EA Burns,65,2
+52,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,M Kapp,EA Burns,66,2
+53,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EA Burns,M Kapp,AE Jones,66,3
+54,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AE Jones,NE Farrant,GM Davies,66,4
+55,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,M Kelly,NE Farrant,GM Davies,66,4
+56,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,M Kelly,NE Farrant,GM Davies,66,4
+57,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,M Kelly,NE Farrant,GM Davies,67,4
+58,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,NE Farrant,M Kelly,67,4
+59,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,A Capsey,M Kelly,67,4
+60,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,A Capsey,M Kelly,68,4
+61,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,M Kelly,A Capsey,GM Davies,69,4
+62,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,A Capsey,M Kelly,69,4
+63,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,A Capsey,M Kelly,73,4
+64,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,M Kelly,D van Niekerk,GM Davies,74,4
+65,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,D van Niekerk,M Kelly,75,4
+66,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,M Kelly,D van Niekerk,GM Davies,76,4
+67,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,D van Niekerk,M Kelly,76,4
+68,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,D van Niekerk,M Kelly,76,4
+69,4,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,D van Niekerk,M Kelly,80,4
+70,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,D van Niekerk,M Kelly,81,4
+71,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,M Kelly,D van Niekerk,GM Davies,81,5
+72,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,IECM Wong,D van Niekerk,GM Davies,82,5
+73,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,D van Niekerk,IECM Wong,83,5
+74,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,S Ismail,IECM Wong,83,5
+75,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,S Ismail,IECM Wong,83,5
+76,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,S Ismail,IECM Wong,84,5
+77,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,IECM Wong,S Ismail,GM Davies,84,5
+78,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,IECM Wong,S Ismail,GM Davies,84,6
+79,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GA Elwiss,NE Farrant,GM Davies,85,6
+80,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,NE Farrant,GA Elwiss,85,6
+81,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GM Davies,NE Farrant,GA Elwiss,85,7
+82,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EL Arlott,NE Farrant,GA Elwiss,85,7
+83,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EL Arlott,NE Farrant,GA Elwiss,85,7
+84,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GA Elwiss,A Capsey,EL Arlott,86,7
+85,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EL Arlott,A Capsey,GA Elwiss,86,7
+86,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EL Arlott,A Capsey,GA Elwiss,86,7
+87,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EL Arlott,A Capsey,GA Elwiss,87,7
+88,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,GA Elwiss,A Capsey,EL Arlott,87,8
+89,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KL Gordon,A Capsey,EL Arlott,88,8
+90,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EL Arlott,A Capsey,KL Gordon,89,8
+91,0,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KL Gordon,A Capsey,EL Arlott,89,8
+92,2,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KL Gordon,A Capsey,EL Arlott,91,8
+93,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KL Gordon,A Capsey,EL Arlott,92,8
+94,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KL Gordon,NE Farrant,EL Arlott,93,8
+95,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,EL Arlott,NE Farrant,KL Gordon,93,9
+96,1,0,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,AH Maqsood,NE Farrant,KL Gordon,94,9
+97,0,1,Birmingham Phoenix,2,2021,female,Oval Invincibles,20 runs,"Kennington Oval, London",Birmingham Phoenix,field,Oval Invincibles,KL Gordon,NE Farrant,AH Maqsood,94,10

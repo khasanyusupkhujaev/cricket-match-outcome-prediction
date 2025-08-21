@@ -1,0 +1,211 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,Mohammad Nabi,Q de Kock,0,0
+2,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,Mohammad Nabi,Q de Kock,0,0
+3,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,Mohammad Nabi,Q de Kock,2,0
+4,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,Mohammad Nabi,Q de Kock,3,0
+5,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Nabi,JM Vince,4,0
+6,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,Mohammad Nabi,Q de Kock,5,0
+7,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Nabi,JM Vince,6,0
+8,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,Mohammad Nabi,Q de Kock,7,0
+9,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Nabi,JM Vince,7,0
+10,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Nabi,JM Vince,11,0
+11,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,Mohammad Amir,Q de Kock,12,0
+12,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Amir,JM Vince,12,0
+13,6,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Amir,JM Vince,18,0
+14,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Amir,JM Vince,19,0
+15,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,Mohammad Amir,Q de Kock,19,0
+16,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,CP Wood,Q de Kock,19,0
+17,0,1,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,JM Vince,CP Wood,Q de Kock,19,1
+18,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,Q de Kock,19,1
+19,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,Q de Kock,20,1
+20,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,CP Wood,AL Davies,21,1
+21,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Nabi,AL Davies,25,1
+22,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Nabi,AL Davies,26,1
+23,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Nabi,Q de Kock,27,1
+24,6,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Nabi,AL Davies,33,1
+25,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,Mohammad Nabi,AL Davies,34,1
+26,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,Q de Kock,34,1
+27,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,Q de Kock,35,1
+28,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,CP Wood,AL Davies,36,1
+29,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,Q de Kock,36,1
+30,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,Q de Kock,36,1
+31,0,1,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,Q de Kock,BC Cullen,AL Davies,36,2
+32,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,BC Cullen,AL Davies,36,2
+33,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,BC Cullen,AL Davies,37,2
+34,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,DP Conway,38,2
+35,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,BC Cullen,AL Davies,39,2
+36,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,DP Conway,39,2
+37,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,DP Conway,40,2
+38,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,BC Cullen,AL Davies,40,2
+39,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,BC Cullen,AL Davies,41,2
+40,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,DP Conway,41,2
+41,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,Mohammad Amir,AL Davies,42,2
+42,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Amir,DP Conway,43,2
+43,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,Mohammad Amir,AL Davies,43,2
+44,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,Mohammad Amir,AL Davies,45,2
+45,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,Mohammad Amir,AL Davies,49,2
+46,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,Mohammad Nabi,AL Davies,50,2
+47,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Nabi,DP Conway,51,2
+48,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,Mohammad Nabi,AL Davies,53,2
+49,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,Mohammad Nabi,AL Davies,54,2
+50,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Nabi,DP Conway,55,2
+51,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,MS Crane,DP Conway,56,2
+52,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,MS Crane,AL Davies,57,2
+53,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,MS Crane,DP Conway,58,2
+54,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,MS Crane,AL Davies,62,2
+55,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,MS Crane,AL Davies,63,2
+56,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,RE van der Merwe,DP Conway,64,2
+57,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,RE van der Merwe,AL Davies,64,2
+58,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,RE van der Merwe,AL Davies,68,2
+59,0,1,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,DP Conway,RE van der Merwe,AL Davies,68,3
+60,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,GHS Garton,RE van der Merwe,AL Davies,68,3
+61,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,GHS Garton,69,3
+62,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,GHS Garton,BC Cullen,AL Davies,71,3
+63,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,GHS Garton,BC Cullen,AL Davies,72,3
+64,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,GHS Garton,73,3
+65,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,GHS Garton,BC Cullen,AL Davies,74,3
+66,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,GHS Garton,78,3
+67,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,GHS Garton,82,3
+68,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,GHS Garton,84,3
+69,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,GHS Garton,85,3
+70,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,GHS Garton,CP Wood,AL Davies,85,3
+71,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,GHS Garton,CP Wood,AL Davies,89,3
+72,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,MS Crane,GHS Garton,90,3
+73,0,1,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,GHS Garton,MS Crane,AL Davies,90,4
+74,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,MS Crane,AL Davies,90,4
+75,3,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,MS Crane,AL Davies,93,4
+76,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,MS Crane,RA Whiteley,94,4
+77,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,MS Crane,AL Davies,96,4
+78,6,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,MS Crane,AL Davies,102,4
+79,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,MS Crane,AL Davies,103,4
+80,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,MS Crane,RA Whiteley,107,4
+81,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,MS Crane,RA Whiteley,109,4
+82,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,Mohammad Amir,AL Davies,110,4
+83,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Amir,RA Whiteley,111,4
+84,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,Mohammad Amir,AL Davies,112,4
+85,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Amir,RA Whiteley,116,4
+86,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Amir,RA Whiteley,118,4
+87,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Amir,RA Whiteley,120,4
+88,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Amir,RA Whiteley,120,4
+89,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,Mohammad Amir,RA Whiteley,121,4
+90,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,Mohammad Amir,AL Davies,125,4
+91,0,1,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,RA Whiteley,Mohammad Amir,AL Davies,125,5
+92,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,C de Grandhomme,Mohammad Amir,AL Davies,125,5
+93,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,C de Grandhomme,126,5
+94,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,C de Grandhomme,CP Wood,AL Davies,127,5
+95,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,C de Grandhomme,129,5
+96,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,C de Grandhomme,131,5
+97,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,CP Wood,C de Grandhomme,132,5
+98,6,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,C de Grandhomme,BC Cullen,AL Davies,138,5
+99,2,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,C de Grandhomme,BC Cullen,AL Davies,140,5
+100,1,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,C de Grandhomme,BC Cullen,AL Davies,141,5
+101,0,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,C de Grandhomme,141,5
+102,4,0,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,C de Grandhomme,145,5
+103,0,1,Southern Brave,1,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,London Spirit,AL Davies,BC Cullen,C de Grandhomme,145,6
+1,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,GHS Garton,JP Inglis,0,0
+2,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,GHS Garton,JP Inglis,2,0
+3,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,GHS Garton,JP Inglis,2,0
+4,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,GHS Garton,JP Inglis,6,0
+5,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,GHS Garton,JP Inglis,7,0
+6,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,GHS Garton,JP Inglis,11,0
+7,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,C de Grandhomme,JP Inglis,11,0
+8,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,C de Grandhomme,JP Inglis,15,0
+9,6,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,C de Grandhomme,JP Inglis,21,0
+10,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,C de Grandhomme,JP Inglis,25,0
+11,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,C de Grandhomme,JP Inglis,27,0
+12,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,C de Grandhomme,JP Inglis,29,0
+13,6,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,C de Grandhomme,JP Inglis,35,0
+14,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,LA Dawson,AM Rossington,36,0
+15,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,LA Dawson,JP Inglis,36,0
+16,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,LA Dawson,JP Inglis,38,0
+17,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,LA Dawson,JP Inglis,40,0
+18,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,LA Dawson,JP Inglis,44,0
+19,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,TS Mills,JP Inglis,45,0
+20,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,AM Rossington,49,0
+21,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,AM Rossington,53,0
+22,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,AM Rossington,53,0
+23,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,AM Rossington,54,0
+24,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,CJ Jordan,AM Rossington,58,0
+25,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,CJ Jordan,AM Rossington,59,0
+26,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,CJ Jordan,AM Rossington,59,0
+27,3,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,CJ Jordan,AM Rossington,62,0
+28,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,CJ Jordan,JP Inglis,66,0
+29,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,CJ Jordan,JP Inglis,68,0
+30,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,GHS Garton,JP Inglis,68,0
+31,0,1,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,AM Rossington,GHS Garton,JP Inglis,68,1
+32,0,1,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JL Denly,GHS Garton,JP Inglis,68,2
+33,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,GHS Garton,JP Inglis,68,2
+34,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,GHS Garton,JP Inglis,68,2
+35,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,EJG Morgan,69,2
+36,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,JB Lintott,JP Inglis,71,2
+37,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,JB Lintott,JP Inglis,72,2
+38,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,EJG Morgan,74,2
+39,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,EJG Morgan,75,2
+40,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,JB Lintott,JP Inglis,75,2
+41,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,JB Lintott,JP Inglis,76,2
+42,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,EJG Morgan,77,2
+43,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,JB Lintott,JP Inglis,78,2
+44,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,EJG Morgan,79,2
+45,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,EJG Morgan,80,2
+46,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,TS Mills,JP Inglis,81,2
+47,0,1,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,EJG Morgan,TS Mills,JP Inglis,81,3
+48,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,RS Bopara,81,3
+49,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,RS Bopara,81,3
+50,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,RS Bopara,82,3
+51,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,LA Dawson,JP Inglis,83,3
+52,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,LA Dawson,RS Bopara,83,3
+53,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,LA Dawson,RS Bopara,83,3
+54,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,LA Dawson,RS Bopara,84,3
+55,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,LA Dawson,JP Inglis,86,3
+56,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,RS Bopara,87,3
+57,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,JB Lintott,JP Inglis,88,3
+58,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,RS Bopara,90,3
+59,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,RS Bopara,91,3
+60,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,JB Lintott,JP Inglis,92,3
+61,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,C de Grandhomme,RS Bopara,93,3
+62,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,C de Grandhomme,JP Inglis,95,3
+63,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,C de Grandhomme,JP Inglis,96,3
+64,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,C de Grandhomme,RS Bopara,97,3
+65,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,C de Grandhomme,JP Inglis,97,3
+66,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,CJ Jordan,RS Bopara,101,3
+67,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,CJ Jordan,RS Bopara,102,3
+68,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,CJ Jordan,JP Inglis,103,3
+69,0,1,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RS Bopara,CJ Jordan,JP Inglis,103,4
+70,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,CJ Jordan,JP Inglis,104,4
+71,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,CJ Jordan,Mohammad Nabi,105,4
+72,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,GHS Garton,JP Inglis,106,4
+73,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,GHS Garton,Mohammad Nabi,106,4
+74,6,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,GHS Garton,Mohammad Nabi,112,4
+75,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,GHS Garton,Mohammad Nabi,114,4
+76,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,GHS Garton,Mohammad Nabi,115,4
+77,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,Mohammad Nabi,115,4
+78,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,Mohammad Nabi,116,4
+79,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,JB Lintott,JP Inglis,117,4
+80,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,Mohammad Nabi,117,4
+81,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,JB Lintott,Mohammad Nabi,118,4
+82,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,TS Mills,JP Inglis,118,4
+83,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,TS Mills,JP Inglis,119,4
+84,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,Mohammad Nabi,119,4
+85,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,Mohammad Nabi,119,4
+86,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,TS Mills,Mohammad Nabi,119,4
+87,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,GHS Garton,JP Inglis,120,4
+88,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,GHS Garton,Mohammad Nabi,120,4
+89,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,GHS Garton,Mohammad Nabi,121,4
+90,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,GHS Garton,JP Inglis,122,4
+91,6,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,GHS Garton,Mohammad Nabi,128,4
+92,0,1,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,JP Inglis,CJ Jordan,Mohammad Nabi,128,5
+93,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RE van der Merwe,CJ Jordan,Mohammad Nabi,129,5
+94,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,CJ Jordan,RE van der Merwe,130,5
+95,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,CJ Jordan,RE van der Merwe,130,5
+96,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,CJ Jordan,RE van der Merwe,130,5
+97,2,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,CJ Jordan,RE van der Merwe,132,5
+98,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RE van der Merwe,TS Mills,Mohammad Nabi,132,5
+99,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RE van der Merwe,TS Mills,Mohammad Nabi,133,5
+100,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,TS Mills,RE van der Merwe,134,5
+101,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RE van der Merwe,TS Mills,Mohammad Nabi,135,5
+102,0,1,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Nabi,TS Mills,RE van der Merwe,135,6
+103,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,BC Cullen,CJ Jordan,RE van der Merwe,136,6
+104,4,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RE van der Merwe,CJ Jordan,BC Cullen,140,6
+105,1,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,RE van der Merwe,CJ Jordan,BC Cullen,141,6
+106,0,1,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,BC Cullen,CJ Jordan,RE van der Merwe,141,7
+107,0,0,London Spirit,2,2021,male,Southern Brave,4 runs,"Lord's, London",London Spirit,field,Southern Brave,Mohammad Amir,CJ Jordan,RE van der Merwe,141,7

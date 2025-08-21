@@ -1,0 +1,203 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,Sophia Smale,BF Smith,0,0
+2,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,Sophia Smale,BF Smith,0,0
+3,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,Sophia Smale,BF Smith,1,0
+4,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,Sophia Smale,EJ Villani,2,0
+5,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,Sophia Smale,BF Smith,3,0
+6,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,M Kapp,EJ Villani,3,0
+7,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,M Kapp,EJ Villani,7,0
+8,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,M Kapp,EJ Villani,7,0
+9,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,M Kapp,EJ Villani,8,0
+10,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,M Kapp,BF Smith,8,0
+11,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,S Ismail,EJ Villani,12,0
+12,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,S Ismail,EJ Villani,12,0
+13,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,S Ismail,EJ Villani,12,0
+14,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,S Ismail,EJ Villani,12,0
+15,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,S Ismail,EJ Villani,12,0
+16,0,1,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,BF Smith,Sophia Smale,EJ Villani,12,1
+17,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,EJ Villani,12,1
+18,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,EJ Villani,16,1
+19,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,EJ Villani,17,1
+20,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,Sophia Smale,NR Sciver,21,1
+21,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,M Kapp,EJ Villani,22,1
+22,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,M Kapp,NR Sciver,22,1
+23,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,M Kapp,NR Sciver,23,1
+24,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,M Kapp,EJ Villani,27,1
+25,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,M Kapp,EJ Villani,27,1
+26,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,EJ Villani,27,1
+27,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,EJ Villani,28,1
+28,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,S Ismail,NR Sciver,28,1
+29,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,S Ismail,NR Sciver,32,1
+30,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,S Ismail,NR Sciver,33,1
+31,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,Sophia Smale,NR Sciver,34,1
+32,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,EJ Villani,34,1
+33,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,EJ Villani,38,1
+34,2,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,EJ Villani,40,1
+35,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,EJ Villani,41,1
+36,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,M Kapp,NR Sciver,45,1
+37,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,M Kapp,NR Sciver,45,1
+38,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,M Kapp,NR Sciver,45,1
+39,0,1,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,EJ Villani,M Kapp,NR Sciver,45,2
+40,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,M Kapp,M du Preez,46,2
+41,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,M du Preez,46,2
+42,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,M du Preez,46,2
+43,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,M du Preez,46,2
+44,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,M du Preez,47,2
+45,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,E Gray,NR Sciver,47,2
+46,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,Sophia Smale,NR Sciver,48,2
+47,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,M du Preez,49,2
+48,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,Sophia Smale,NR Sciver,50,2
+49,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,M du Preez,50,2
+50,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,Sophia Smale,M du Preez,51,2
+51,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,M du Preez,52,2
+52,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,E Gray,NR Sciver,52,2
+53,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,E Gray,NR Sciver,53,2
+54,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,M du Preez,53,2
+55,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,M du Preez,54,2
+56,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,A Capsey,NR Sciver,55,2
+57,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,M du Preez,55,2
+58,2,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,M du Preez,57,2
+59,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,M du Preez,61,2
+60,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,M du Preez,62,2
+61,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,M du Preez,63,2
+62,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,S Ismail,NR Sciver,64,2
+63,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,M du Preez,68,2
+64,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,M du Preez,68,2
+65,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,M du Preez,69,2
+66,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,E Gray,NR Sciver,70,2
+67,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,M du Preez,71,2
+68,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,E Gray,NR Sciver,71,2
+69,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,E Gray,NR Sciver,75,2
+70,0,1,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M du Preez,E Gray,NR Sciver,75,3
+71,2,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,A King,77,3
+72,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,A King,81,3
+73,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,A King,81,3
+74,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,A King,82,3
+75,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,A King,A Capsey,NR Sciver,82,3
+76,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,A King,S Ismail,NR Sciver,83,3
+77,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,A King,83,3
+78,2,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,A King,85,3
+79,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,S Ismail,A King,86,3
+80,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,A King,S Ismail,NR Sciver,86,3
+81,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,R MacDonald-Gay,A King,90,3
+82,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,R MacDonald-Gay,A King,91,3
+83,3,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,A King,R MacDonald-Gay,NR Sciver,94,3
+84,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,A King,R MacDonald-Gay,NR Sciver,95,3
+85,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,R MacDonald-Gay,A King,96,3
+86,0,1,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,A King,R MacDonald-Gay,NR Sciver,96,4
+87,0,1,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,M Kelly,A Capsey,NR Sciver,96,5
+88,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,KH Brunt,A Capsey,NR Sciver,97,5
+89,0,1,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,KH Brunt,97,6
+90,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,A Capsey,AJ Freeborn,98,6
+91,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,AJ Freeborn,A Capsey,NR Sciver,102,6
+92,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,M Kapp,AJ Freeborn,103,6
+93,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,AJ Freeborn,M Kapp,NR Sciver,104,6
+94,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,M Kapp,AJ Freeborn,105,6
+95,0,1,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,AJ Freeborn,M Kapp,NR Sciver,105,7
+96,0,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,S Glenn,M Kapp,NR Sciver,105,7
+97,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,S Glenn,E Gray,NR Sciver,106,7
+98,4,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,S Glenn,110,7
+99,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,NR Sciver,E Gray,S Glenn,111,7
+100,0,1,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,S Glenn,E Gray,NR Sciver,111,8
+101,1,0,Trent Rockets,1,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Oval Invincibles,KE Bryce,E Gray,NR Sciver,112,8
+1,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,L Winfield-Hill,KH Brunt,SW Bates,1,0
+2,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KH Brunt,L Winfield-Hill,2,0
+3,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,L Winfield-Hill,KH Brunt,SW Bates,3,0
+4,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KH Brunt,L Winfield-Hill,3,0
+5,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KH Brunt,L Winfield-Hill,7,0
+6,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,NR Sciver,L Winfield-Hill,8,0
+7,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,L Winfield-Hill,NR Sciver,SW Bates,9,0
+8,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,NR Sciver,L Winfield-Hill,9,0
+9,6,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,NR Sciver,L Winfield-Hill,15,0
+10,2,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,NR Sciver,L Winfield-Hill,17,0
+11,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,L Winfield-Hill,KE Bryce,SW Bates,18,0
+12,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,L Winfield-Hill,KE Bryce,SW Bates,19,0
+13,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KE Bryce,L Winfield-Hill,20,0
+14,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,L Winfield-Hill,KE Bryce,SW Bates,21,0
+15,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KE Bryce,L Winfield-Hill,25,0
+16,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KE Bryce,L Winfield-Hill,25,0
+17,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,BF Smith,L Winfield-Hill,26,0
+18,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,L Winfield-Hill,BF Smith,SW Bates,26,0
+19,0,1,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,L Winfield-Hill,BF Smith,SW Bates,26,1
+20,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,BF Smith,SW Bates,27,1
+21,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,BF Smith,A Capsey,28,1
+22,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KH Brunt,A Capsey,28,1
+23,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KH Brunt,A Capsey,32,1
+24,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KH Brunt,A Capsey,32,1
+25,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KH Brunt,A Capsey,33,1
+26,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,KH Brunt,SW Bates,33,1
+27,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,A King,SW Bates,34,1
+28,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,A King,A Capsey,35,1
+29,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,A King,SW Bates,39,1
+30,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,A King,SW Bates,39,1
+31,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,A King,SW Bates,40,1
+32,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,S Glenn,SW Bates,41,1
+33,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,S Glenn,A Capsey,42,1
+34,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,S Glenn,SW Bates,43,1
+35,6,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,S Glenn,SW Bates,49,1
+36,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,S Glenn,SW Bates,50,1
+37,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,S Glenn,A Capsey,51,1
+38,2,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,BF Smith,SW Bates,53,1
+39,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,BF Smith,SW Bates,54,1
+40,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,BF Smith,A Capsey,54,1
+41,6,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,BF Smith,A Capsey,60,1
+42,2,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,BF Smith,A Capsey,62,1
+43,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,KH Brunt,SW Bates,66,1
+44,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,KH Brunt,SW Bates,66,1
+45,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,KH Brunt,SW Bates,67,1
+46,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,KH Brunt,A Capsey,68,1
+47,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,KH Brunt,SW Bates,69,1
+48,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,A King,A Capsey,69,1
+49,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,A King,A Capsey,69,1
+50,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,A King,A Capsey,69,1
+51,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,A King,A Capsey,70,1
+52,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,A King,SW Bates,70,1
+53,2,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,S Glenn,A Capsey,72,1
+54,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,S Glenn,A Capsey,72,1
+55,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,S Glenn,A Capsey,73,1
+56,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,S Glenn,SW Bates,73,1
+57,0,1,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,A Capsey,S Glenn,SW Bates,73,2
+58,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,S Glenn,SW Bates,74,2
+59,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,S Glenn,M Kapp,75,2
+60,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,S Glenn,SW Bates,79,2
+61,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,S Glenn,SW Bates,80,2
+62,0,1,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,SW Bates,S Glenn,M Kapp,80,3
+63,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+64,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+65,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+66,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+67,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+68,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+69,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+70,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+71,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+72,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,A King,MK Villiers,80,3
+73,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,S Glenn,M Kapp,80,3
+74,3,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,S Glenn,M Kapp,83,3
+75,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,S Glenn,MK Villiers,87,3
+76,2,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,S Glenn,MK Villiers,89,3
+77,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,S Glenn,MK Villiers,90,3
+78,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,NR Sciver,M Kapp,90,3
+79,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,NR Sciver,M Kapp,90,3
+80,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,NR Sciver,M Kapp,91,3
+81,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,NR Sciver,MK Villiers,95,3
+82,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,NR Sciver,MK Villiers,96,3
+83,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,KH Brunt,MK Villiers,96,3
+84,2,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,KH Brunt,MK Villiers,98,3
+85,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,KH Brunt,MK Villiers,99,3
+86,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,KH Brunt,M Kapp,99,3
+87,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,KH Brunt,M Kapp,99,3
+88,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,NR Sciver,M Kapp,100,3
+89,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,NR Sciver,MK Villiers,104,3
+90,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,NR Sciver,MK Villiers,108,3
+91,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,NR Sciver,MK Villiers,108,3
+92,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,NR Sciver,MK Villiers,108,3
+93,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,BF Smith,M Kapp,109,3
+94,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,BF Smith,MK Villiers,110,3
+95,0,1,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,MK Villiers,BF Smith,M Kapp,110,4
+96,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,KM Chathli,BF Smith,M Kapp,110,4
+97,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,KM Chathli,BF Smith,M Kapp,110,4
+98,0,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,KM Chathli,BF Smith,M Kapp,110,4
+99,0,1,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,KM Chathli,BF Smith,M Kapp,110,5
+100,1,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,KE White,BF Smith,M Kapp,111,5
+101,4,0,Oval Invincibles,2,2022,female,Oval Invincibles,5 wickets,"Trent Bridge, Nottingham",Oval Invincibles,field,Trent Rockets,M Kapp,BF Smith,KE White,115,5

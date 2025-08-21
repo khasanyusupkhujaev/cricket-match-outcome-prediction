@@ -1,0 +1,204 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,WG Jacks,1,0
+2,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,WG Jacks,DJ Willey,JJ Roy,2,0
+3,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,WG Jacks,2,0
+4,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,WG Jacks,2,0
+5,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,WG Jacks,2,0
+6,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,WG Jacks,2,0
+7,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,WG Jacks,2,0
+8,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,WG Jacks,3,0
+9,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,WG Jacks,MJ Potts,JJ Roy,4,0
+10,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,WG Jacks,4,0
+11,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,WG Jacks,BA Carse,JJ Roy,5,0
+12,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,BA Carse,WG Jacks,6,0
+13,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,WG Jacks,BA Carse,JJ Roy,6,0
+14,0,1,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,WG Jacks,BA Carse,JJ Roy,6,1
+15,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,BA Carse,JJ Roy,6,1
+16,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,BA Carse,JJ Roy,7,1
+17,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,BA Carse,SP Narine,7,1
+18,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,BA Carse,SP Narine,8,1
+19,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,BA Carse,JJ Roy,9,1
+20,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,BA Carse,SP Narine,10,1
+21,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,SP Narine,10,1
+22,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,SP Narine,11,1
+23,6,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,MJ Potts,JJ Roy,17,1
+24,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,MJ Potts,JJ Roy,17,1
+25,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,MJ Potts,JJ Roy,18,1
+26,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,BA Carse,SP Narine,19,1
+27,2,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,BA Carse,JJ Roy,21,1
+28,6,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,BA Carse,JJ Roy,27,1
+29,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,BA Carse,JJ Roy,28,1
+30,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,BA Carse,SP Narine,29,1
+31,6,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,BA Carse,JJ Roy,35,1
+32,4,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,SP Narine,39,1
+33,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,SP Narine,40,1
+34,0,1,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SP Narine,Mujeeb Ur Rahman,JJ Roy,40,2
+35,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,CA Ingram,Mujeeb Ur Rahman,JJ Roy,41,2
+36,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,CA Ingram,42,2
+37,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,CA Ingram,AU Rashid,JJ Roy,42,2
+38,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,CA Ingram,AU Rashid,JJ Roy,43,2
+39,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,AU Rashid,CA Ingram,44,2
+40,0,1,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,CA Ingram,AU Rashid,JJ Roy,44,3
+41,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SW Billings,AU Rashid,JJ Roy,45,3
+42,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SW Billings,MJ Potts,JJ Roy,46,3
+43,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,SW Billings,47,3
+44,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SW Billings,MJ Potts,JJ Roy,48,3
+45,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,SW Billings,49,3
+46,0,1,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,SW Billings,MJ Potts,JJ Roy,49,4
+47,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,Mujeeb Ur Rahman,JJ Roy,50,4
+48,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,LJ Evans,51,4
+49,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,Mujeeb Ur Rahman,JJ Roy,52,4
+50,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,LJ Evans,53,4
+51,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,Mujeeb Ur Rahman,JJ Roy,54,4
+52,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,AU Rashid,JJ Roy,54,4
+53,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,AU Rashid,JJ Roy,55,4
+54,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,AU Rashid,LJ Evans,56,4
+55,2,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,AU Rashid,JJ Roy,58,4
+56,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,AU Rashid,JJ Roy,58,4
+57,2,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,AU Rashid,JJ Roy,60,4
+58,0,1,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,LJ Evans,AU Rashid,JJ Roy,60,5
+59,0,1,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,J Clark,AU Rashid,JJ Roy,60,6
+60,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,AU Rashid,JJ Roy,60,6
+61,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,AU Rashid,JJ Roy,61,6
+62,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,DJ Willey,JJ Roy,62,6
+63,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,TK Curran,63,6
+64,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,DJ Willey,JJ Roy,63,6
+65,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,DJ Willey,JJ Roy,64,6
+66,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,TK Curran,64,6
+67,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,TK Curran,65,6
+68,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,Mujeeb Ur Rahman,JJ Roy,66,6
+69,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,TK Curran,67,6
+70,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,Mujeeb Ur Rahman,JJ Roy,68,6
+71,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,TK Curran,68,6
+72,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,AU Rashid,JJ Roy,69,6
+73,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,AU Rashid,TK Curran,70,6
+74,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,AU Rashid,JJ Roy,70,6
+75,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,AU Rashid,JJ Roy,70,6
+76,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,AU Rashid,JJ Roy,71,6
+77,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,TK Curran,71,6
+78,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,TK Curran,72,6
+79,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,DJ Willey,JJ Roy,72,6
+80,4,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,DJ Willey,JJ Roy,76,6
+81,2,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,DJ Willey,JJ Roy,78,6
+82,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,TK Curran,79,6
+83,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,Mujeeb Ur Rahman,JJ Roy,80,6
+84,6,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,TK Curran,86,6
+85,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,Mujeeb Ur Rahman,TK Curran,87,6
+86,4,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,Mujeeb Ur Rahman,JJ Roy,91,6
+87,4,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,BA Carse,JJ Roy,95,6
+88,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,BA Carse,JJ Roy,96,6
+89,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,BA Carse,TK Curran,97,6
+90,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,BA Carse,JJ Roy,98,6
+91,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,BA Carse,TK Curran,99,6
+92,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,TK Curran,100,6
+93,6,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,MJ Potts,JJ Roy,106,6
+94,2,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,MJ Potts,JJ Roy,108,6
+95,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,MJ Potts,JJ Roy,109,6
+96,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,MJ Potts,TK Curran,110,6
+97,0,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,DJ Willey,JJ Roy,110,6
+98,1,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,TK Curran,DJ Willey,JJ Roy,111,6
+99,6,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,TK Curran,117,6
+100,6,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,TK Curran,123,6
+101,4,0,Oval Invincibles,1,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Northern Superchargers,JJ Roy,DJ Willey,TK Curran,127,6
+1,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,A Lyth,0,0
+2,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,A Lyth,0,0
+3,5,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,A Lyth,5,0
+4,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,A Lyth,5,0
+5,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,A Lyth,5,0
+6,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,A Lyth,7,0
+7,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,A Lyth,7,0
+8,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,A Lyth,7,0
+9,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,A Lyth,8,0
+10,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,A Lyth,S Mahmood,CA Lynn,8,0
+11,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,A Lyth,S Mahmood,CA Lynn,8,0
+12,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,A Lyth,9,0
+13,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,A Lyth,10,0
+14,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,A Lyth,RJW Topley,CA Lynn,11,0
+15,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,A Lyth,15,0
+16,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,A Lyth,17,0
+17,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,A Lyth,18,0
+18,0,1,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,A Lyth,TK Curran,CA Lynn,18,1
+19,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,DJ Willey,TK Curran,CA Lynn,19,1
+20,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,TK Curran,DJ Willey,20,1
+21,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,DJ Willey,TK Curran,CA Lynn,22,1
+22,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,DJ Willey,TK Curran,CA Lynn,23,1
+23,0,1,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,DJ Willey,S Mahmood,CA Lynn,23,2
+24,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,S Mahmood,CA Lynn,24,2
+25,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,HC Brook,24,2
+26,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,HC Brook,24,2
+27,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,HC Brook,24,2
+28,6,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,HC Brook,30,2
+29,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,HC Brook,31,2
+30,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,S Mahmood,CA Lynn,32,2
+31,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,HC Brook,32,2
+32,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,S Mahmood,HC Brook,36,2
+33,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,SP Narine,CA Lynn,37,2
+34,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,38,2
+35,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,SP Narine,CA Lynn,39,2
+36,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,40,2
+37,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,SP Narine,CA Lynn,40,2
+38,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,J Clark,CA Lynn,44,2
+39,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,J Clark,CA Lynn,44,2
+40,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,J Clark,CA Lynn,45,2
+41,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,J Clark,HC Brook,46,2
+42,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,J Clark,CA Lynn,46,2
+43,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,47,2
+44,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,T Shamsi,CA Lynn,48,2
+45,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,49,2
+46,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,T Shamsi,CA Lynn,50,2
+47,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,50,2
+48,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,50,2
+49,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,50,2
+50,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,51,2
+51,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,SP Narine,CA Lynn,52,2
+52,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,53,2
+53,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,54,2
+54,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,54,2
+55,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,55,2
+56,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,T Shamsi,CA Lynn,56,2
+57,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,57,2
+58,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,T Shamsi,CA Lynn,61,2
+59,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,TK Curran,CA Lynn,62,2
+60,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,TK Curran,HC Brook,63,2
+61,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,TK Curran,CA Lynn,67,2
+62,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,TK Curran,CA Lynn,71,2
+63,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,TK Curran,CA Lynn,71,2
+64,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,72,2
+65,6,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,T Shamsi,CA Lynn,78,2
+66,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,T Shamsi,CA Lynn,79,2
+67,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,81,2
+68,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,82,2
+69,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,RJW Topley,CA Lynn,82,2
+70,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,RJW Topley,CA Lynn,83,2
+71,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,HC Brook,87,2
+72,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,HC Brook,89,2
+73,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,HC Brook,90,2
+74,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,RJW Topley,HC Brook,91,2
+75,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,92,2
+76,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,T Shamsi,CA Lynn,93,2
+77,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,95,2
+78,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,95,2
+79,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,T Shamsi,HC Brook,96,2
+80,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,SP Narine,CA Lynn,97,2
+81,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,97,2
+82,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,97,2
+83,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,97,2
+84,0,1,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,CA Lynn,SP Narine,HC Brook,97,3
+85,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,S Mahmood,DJ Vilas,98,3
+86,0,1,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,DJ Vilas,S Mahmood,HC Brook,98,4
+87,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,S Mahmood,HC Brook,98,4
+88,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,S Mahmood,HC Brook,100,4
+89,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,S Mahmood,HC Brook,102,4
+90,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,TK Curran,HC Brook,103,4
+91,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,TK Curran,JA Simpson,105,4
+92,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,TK Curran,JA Simpson,106,4
+93,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,TK Curran,HC Brook,107,4
+94,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,TK Curran,JA Simpson,111,4
+95,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,RJW Topley,HC Brook,112,4
+96,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,RJW Topley,JA Simpson,114,4
+97,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,HC Brook,RJW Topley,JA Simpson,115,4
+98,0,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,RJW Topley,HC Brook,115,4
+99,2,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,RJW Topley,HC Brook,117,4
+100,1,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,TK Curran,HC Brook,118,4
+101,4,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,TK Curran,HC Brook,122,4
+102,6,0,Northern Superchargers,2,2021,male,Northern Superchargers,6 wickets,"Headingley, Leeds",Oval Invincibles,bat,Oval Invincibles,JA Simpson,TK Curran,HC Brook,128,4

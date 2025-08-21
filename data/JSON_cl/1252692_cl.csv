@@ -1,0 +1,207 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SJ Cook,WCF Smeed,1,0
+2,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,SJ Cook,FH Allen,1,0
+3,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,SJ Cook,FH Allen,1,0
+4,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,SJ Cook,FH Allen,5,0
+5,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,SJ Cook,FH Allen,9,0
+6,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,SR Patel,FH Allen,13,0
+7,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,SR Patel,FH Allen,14,0
+8,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,WCF Smeed,15,0
+9,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,SR Patel,FH Allen,16,0
+10,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,WCF Smeed,20,0
+11,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,M Carter,FH Allen,20,0
+12,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,M Carter,FH Allen,24,0
+13,0,1,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,WCF Smeed,M Carter,FH Allen,24,1
+14,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M Carter,FH Allen,25,1
+15,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,M Carter,LS Livingstone,29,1
+16,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,LS Livingstone,31,1
+17,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,LS Livingstone,32,1
+18,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,SR Patel,FH Allen,33,1
+19,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,LS Livingstone,34,1
+20,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,SR Patel,FH Allen,35,1
+21,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,SJ Cook,FH Allen,35,1
+22,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,SJ Cook,FH Allen,39,1
+23,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,SJ Cook,FH Allen,40,1
+24,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SJ Cook,LS Livingstone,40,1
+25,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SJ Cook,LS Livingstone,41,1
+26,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,FH Allen,42,1
+27,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,Rashid Khan,LS Livingstone,43,1
+28,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,FH Allen,43,1
+29,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,FH Allen,43,1
+30,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,FH Allen,43,1
+31,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,Rashid Khan,LS Livingstone,44,1
+32,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,FH Allen,45,1
+33,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,Rashid Khan,LS Livingstone,46,1
+34,6,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,FH Allen,52,1
+35,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,FH Allen,56,1
+36,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M de Lange,FH Allen,56,1
+37,6,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M de Lange,FH Allen,62,1
+38,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M de Lange,FH Allen,63,1
+39,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,M de Lange,LS Livingstone,64,1
+40,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M de Lange,FH Allen,65,1
+41,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M Carter,FH Allen,66,1
+42,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,M Carter,LS Livingstone,66,1
+43,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,M Carter,LS Livingstone,67,1
+44,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M Carter,FH Allen,67,1
+45,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M Carter,FH Allen,68,1
+46,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,LS Livingstone,69,1
+47,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,SR Patel,FH Allen,70,1
+48,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,LS Livingstone,72,1
+49,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,LS Livingstone,72,1
+50,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,SR Patel,LS Livingstone,72,1
+51,6,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M Carter,FH Allen,78,1
+52,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M Carter,FH Allen,82,1
+53,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M Carter,FH Allen,83,1
+54,6,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,M Carter,LS Livingstone,89,1
+55,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,M Carter,LS Livingstone,90,1
+56,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M de Lange,FH Allen,94,1
+57,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,M de Lange,FH Allen,95,1
+58,0,1,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,FH Allen,M de Lange,LS Livingstone,95,2
+59,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,LS Livingstone,95,2
+60,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,LS Livingstone,95,2
+61,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,Miles Hammond,95,2
+62,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,Miles Hammond,96,2
+63,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,Rashid Khan,LS Livingstone,97,2
+64,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,Miles Hammond,99,2
+65,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,Miles Hammond,100,2
+66,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,Rashid Khan,Miles Hammond,102,2
+67,0,1,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,LS Livingstone,SR Patel,Miles Hammond,102,3
+68,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CG Benjamin,SR Patel,Miles Hammond,103,3
+69,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,SR Patel,CG Benjamin,105,3
+70,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,SR Patel,CG Benjamin,105,3
+71,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,SR Patel,CG Benjamin,109,3
+72,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CG Benjamin,M Carter,Miles Hammond,110,3
+73,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M Carter,CG Benjamin,112,3
+74,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M Carter,CG Benjamin,112,3
+75,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M Carter,CG Benjamin,113,3
+76,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CG Benjamin,M Carter,Miles Hammond,113,3
+77,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CG Benjamin,SJ Cook,Miles Hammond,117,3
+78,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CG Benjamin,SJ Cook,Miles Hammond,118,3
+79,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CG Benjamin,SJ Cook,Miles Hammond,119,3
+80,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,SJ Cook,CG Benjamin,120,3
+81,0,1,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CG Benjamin,SJ Cook,Miles Hammond,120,4
+82,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,BAC Howell,SJ Cook,Miles Hammond,121,4
+83,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,BAC Howell,Rashid Khan,Miles Hammond,123,4
+84,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,BAC Howell,Rashid Khan,Miles Hammond,123,4
+85,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,BAC Howell,Rashid Khan,Miles Hammond,124,4
+86,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,Rashid Khan,BAC Howell,128,4
+87,6,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,Rashid Khan,BAC Howell,134,4
+88,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,BAC Howell,138,4
+89,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,BAC Howell,142,4
+90,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,BAC Howell,146,4
+91,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,BAC Howell,146,4
+92,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,BAC Howell,148,4
+93,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,BAC Howell,152,4
+94,0,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,BAC Howell,SJ Cook,Miles Hammond,152,4
+95,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,BAC Howell,SJ Cook,Miles Hammond,156,4
+96,4,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,BAC Howell,SJ Cook,Miles Hammond,160,4
+97,0,1,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,BAC Howell,SJ Cook,Miles Hammond,160,5
+98,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CB Cooke,SJ Cook,Miles Hammond,161,5
+99,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,CB Cooke,162,5
+100,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CB Cooke,M de Lange,Miles Hammond,163,5
+101,1,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,Miles Hammond,M de Lange,CB Cooke,164,5
+102,2,0,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CB Cooke,M de Lange,Miles Hammond,166,5
+103,0,1,Birmingham Phoenix,1,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Trent Rockets,CB Cooke,M de Lange,Miles Hammond,166,6
+1,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJM Short,DY Pennington,AD Hales,0,0
+2,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJM Short,DY Pennington,AD Hales,0,0
+3,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJM Short,DY Pennington,AD Hales,4,0
+4,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJM Short,DY Pennington,AD Hales,4,0
+5,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJM Short,DY Pennington,AD Hales,5,0
+6,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,AD Hales,TG Helm,DJM Short,9,0
+7,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,AD Hales,TG Helm,DJM Short,11,0
+8,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,AD Hales,TG Helm,DJM Short,15,0
+9,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,AD Hales,TG Helm,DJM Short,17,0
+10,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,AD Hales,TG Helm,DJM Short,19,0
+11,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,AD Hales,TG Helm,DJM Short,20,0
+12,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,AD Hales,DY Pennington,DJM Short,20,1
+13,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJ Malan,DY Pennington,DJM Short,20,1
+14,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJ Malan,DY Pennington,DJM Short,20,1
+15,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJ Malan,DY Pennington,DJM Short,20,2
+16,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,DY Pennington,DJM Short,20,2
+17,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,DY Pennington,DJM Short,24,2
+18,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,DY Pennington,DJM Short,25,2
+19,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJM Short,DY Pennington,SJ Mullaney,26,2
+20,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,DY Pennington,DJM Short,26,2
+21,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,DY Pennington,DJM Short,27,2
+22,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,PR Brown,DJM Short,28,2
+23,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJM Short,PR Brown,SJ Mullaney,28,2
+24,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,DJM Short,PR Brown,SJ Mullaney,28,3
+25,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SR Patel,PR Brown,SJ Mullaney,32,3
+26,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SR Patel,PR Brown,SJ Mullaney,36,3
+27,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SR Patel,Imran Tahir,SJ Mullaney,37,3
+28,6,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,Imran Tahir,SR Patel,43,3
+29,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,Imran Tahir,SR Patel,47,3
+30,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,Imran Tahir,SR Patel,48,3
+31,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SR Patel,Imran Tahir,SJ Mullaney,49,3
+32,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SR Patel,BAC Howell,SJ Mullaney,53,3
+33,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SR Patel,BAC Howell,SJ Mullaney,54,3
+34,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,BAC Howell,SR Patel,55,3
+35,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SR Patel,BAC Howell,SJ Mullaney,56,3
+36,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,BAC Howell,SR Patel,57,3
+37,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SR Patel,Imran Tahir,SJ Mullaney,57,4
+38,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,58,4
+39,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,Imran Tahir,L Gregory,59,4
+40,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,59,4
+41,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,59,4
+42,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,BAC Howell,L Gregory,61,4
+43,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,BAC Howell,L Gregory,62,4
+44,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,BAC Howell,SJ Mullaney,63,4
+45,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,BAC Howell,L Gregory,64,4
+46,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,BAC Howell,SJ Mullaney,68,4
+47,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,68,4
+48,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,72,4
+49,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,73,4
+50,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,Imran Tahir,L Gregory,74,4
+51,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,75,4
+52,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,LS Livingstone,SJ Mullaney,75,4
+53,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,LS Livingstone,SJ Mullaney,79,4
+54,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,LS Livingstone,SJ Mullaney,80,4
+55,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,LS Livingstone,L Gregory,80,4
+56,6,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,LS Livingstone,L Gregory,86,4
+57,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,TG Helm,L Gregory,87,4
+58,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,TG Helm,SJ Mullaney,88,4
+59,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,TG Helm,L Gregory,89,4
+60,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,TG Helm,SJ Mullaney,90,4
+61,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,TG Helm,SJ Mullaney,90,4
+62,6,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,TG Helm,SJ Mullaney,96,4
+63,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,Imran Tahir,L Gregory,97,4
+64,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,98,4
+65,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,Imran Tahir,L Gregory,99,4
+66,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,L Gregory,Imran Tahir,SJ Mullaney,99,5
+67,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,Imran Tahir,SJ Mullaney,100,5
+68,6,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,LS Livingstone,TJ Moores,106,5
+69,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,LS Livingstone,TJ Moores,106,5
+70,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,LS Livingstone,TJ Moores,107,5
+71,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,LS Livingstone,TJ Moores,109,5
+72,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,LS Livingstone,TJ Moores,110,5
+73,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,LS Livingstone,SJ Mullaney,111,5
+74,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,BAC Howell,SJ Mullaney,112,5
+75,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,BAC Howell,TJ Moores,113,5
+76,6,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,BAC Howell,SJ Mullaney,119,5
+77,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,BAC Howell,SJ Mullaney,119,5
+78,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,BAC Howell,SJ Mullaney,121,5
+79,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,PR Brown,SJ Mullaney,122,5
+80,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,PR Brown,TJ Moores,123,5
+81,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,PR Brown,SJ Mullaney,124,5
+82,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,PR Brown,TJ Moores,124,5
+83,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,PR Brown,TJ Moores,124,5
+84,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,TJ Moores,BAC Howell,SJ Mullaney,124,6
+85,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,Rashid Khan,BAC Howell,SJ Mullaney,125,6
+86,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,BAC Howell,Rashid Khan,126,6
+87,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,Rashid Khan,BAC Howell,SJ Mullaney,127,6
+88,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,BAC Howell,Rashid Khan,128,6
+89,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,Rashid Khan,PR Brown,SJ Mullaney,128,7
+90,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,PR Brown,SJ Mullaney,129,7
+91,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Mullaney,PR Brown,M Carter,129,8
+92,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M de Lange,PR Brown,M Carter,131,8
+93,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M de Lange,PR Brown,M Carter,135,8
+94,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,PR Brown,M de Lange,136,8
+95,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M de Lange,PR Brown,M Carter,137,8
+96,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,PR Brown,M de Lange,139,8
+97,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,PR Brown,M de Lange,141,8
+98,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,PR Brown,M de Lange,143,8
+99,2,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,TG Helm,M de Lange,145,8
+100,4,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,TG Helm,M de Lange,149,8
+101,0,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,TG Helm,M de Lange,149,8
+102,0,1,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,M Carter,TG Helm,M de Lange,149,9
+103,1,0,Trent Rockets,2,2021,male,Birmingham Phoenix,16 runs,"Trent Bridge, Nottingham",Trent Rockets,field,Birmingham Phoenix,SJ Cook,TG Helm,M de Lange,150,9

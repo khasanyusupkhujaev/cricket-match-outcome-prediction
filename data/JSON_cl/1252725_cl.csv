@@ -1,0 +1,196 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Winfield-Hill,KL Cross,JI Rodrigues,2,0
+2,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Winfield-Hill,KL Cross,JI Rodrigues,2,0
+3,0,1,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Winfield-Hill,KL Cross,JI Rodrigues,2,1
+4,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,JI Rodrigues,4,1
+5,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,JI Rodrigues,5,1
+6,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JI Rodrigues,S Ecclestone,L Wolvaardt,5,1
+7,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JI Rodrigues,S Ecclestone,L Wolvaardt,7,1
+8,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JI Rodrigues,S Ecclestone,L Wolvaardt,8,1
+9,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,JI Rodrigues,10,1
+10,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,JI Rodrigues,10,1
+11,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JI Rodrigues,HE Jones,L Wolvaardt,14,1
+12,0,1,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,JI Rodrigues,HE Jones,L Wolvaardt,14,2
+13,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,AN Davidson-Richards,HE Jones,L Wolvaardt,14,2
+14,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,AN Davidson-Richards,HE Jones,L Wolvaardt,15,2
+15,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,HE Jones,AN Davidson-Richards,16,2
+16,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,AN Davidson-Richards,KL Cross,L Wolvaardt,16,2
+17,0,1,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,AN Davidson-Richards,KL Cross,L Wolvaardt,16,3
+18,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,BAM Heath,KL Cross,L Wolvaardt,16,3
+19,0,1,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,BAM Heath,KL Cross,L Wolvaardt,16,4
+20,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,KL Cross,L Wolvaardt,16,4
+21,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,SL Kalis,16,4
+22,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,SL Kalis,16,4
+23,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,SL Kalis,16,4
+24,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,SL Kalis,16,4
+25,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,SL Kalis,16,4
+26,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,A Hartley,SL Kalis,17,4
+27,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,A Hartley,L Wolvaardt,17,4
+28,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,A Hartley,L Wolvaardt,17,4
+29,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,A Hartley,L Wolvaardt,17,4
+30,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,A Hartley,L Wolvaardt,21,4
+31,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,SL Kalis,25,4
+32,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,SL Kalis,29,4
+33,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,SL Kalis,30,4
+34,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,S Ecclestone,L Wolvaardt,32,4
+35,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,SL Kalis,32,4
+36,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,SL Kalis,32,4
+37,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,SL Kalis,33,4
+38,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,AE Dyson,L Wolvaardt,35,4
+39,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,AE Dyson,L Wolvaardt,35,4
+40,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,AE Dyson,L Wolvaardt,36,4
+41,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,SL Kalis,36,4
+42,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,HE Jones,L Wolvaardt,38,4
+43,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,HE Jones,L Wolvaardt,38,4
+44,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,HE Jones,L Wolvaardt,39,4
+45,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,HE Jones,SL Kalis,40,4
+46,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,HE Jones,L Wolvaardt,41,4
+47,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,N Brown,SL Kalis,41,4
+48,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,N Brown,SL Kalis,42,4
+49,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,N Brown,L Wolvaardt,42,4
+50,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,N Brown,L Wolvaardt,42,4
+51,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,N Brown,L Wolvaardt,42,4
+52,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,A Hartley,SL Kalis,43,4
+53,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,A Hartley,L Wolvaardt,44,4
+54,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,A Hartley,SL Kalis,45,4
+55,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,A Hartley,L Wolvaardt,49,4
+56,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,A Hartley,L Wolvaardt,50,4
+57,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,EL Lamb,SL Kalis,50,4
+58,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,EL Lamb,SL Kalis,51,4
+59,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,EL Lamb,L Wolvaardt,52,4
+60,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,EL Lamb,SL Kalis,53,4
+61,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,EL Lamb,L Wolvaardt,54,4
+62,0,1,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,SL Kalis,S Ecclestone,L Wolvaardt,54,5
+63,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,S Ecclestone,L Wolvaardt,54,5
+64,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,S Ecclestone,L Wolvaardt,54,5
+65,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,S Ecclestone,L Wolvaardt,54,5
+66,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,S Ecclestone,L Wolvaardt,55,5
+67,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,EL Lamb,LCN Smith,55,5
+68,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,EL Lamb,LCN Smith,56,5
+69,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,EL Lamb,L Wolvaardt,56,5
+70,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,EL Lamb,L Wolvaardt,57,5
+71,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,EL Lamb,LCN Smith,58,5
+72,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,LCN Smith,62,5
+73,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,LCN Smith,63,5
+74,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,KL Cross,L Wolvaardt,67,5
+75,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,KL Cross,L Wolvaardt,68,5
+76,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,KL Cross,LCN Smith,72,5
+77,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,A Hartley,LCN Smith,73,5
+78,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,A Hartley,L Wolvaardt,74,5
+79,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,A Hartley,LCN Smith,74,5
+80,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,A Hartley,LCN Smith,78,5
+81,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,A Hartley,LCN Smith,78,5
+82,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,HE Jones,L Wolvaardt,79,5
+83,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,HE Jones,LCN Smith,81,5
+84,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,HE Jones,LCN Smith,81,5
+85,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,HE Jones,LCN Smith,85,5
+86,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,HE Jones,LCN Smith,85,5
+87,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,LCN Smith,86,5
+88,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,AE Dyson,L Wolvaardt,87,5
+89,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,LCN Smith,88,5
+90,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,AE Dyson,L Wolvaardt,92,5
+91,0,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,AE Dyson,L Wolvaardt,92,5
+92,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,LCN Smith,93,5
+93,3,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,S Ecclestone,L Wolvaardt,96,5
+94,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,LCN Smith,98,5
+95,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,LCN Smith,99,5
+96,1,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,LCN Smith,100,5
+97,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,LCN Smith,S Ecclestone,L Wolvaardt,102,5
+98,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,S Ecclestone,LCN Smith,106,5
+99,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,LCN Smith,110,5
+100,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,LCN Smith,114,5
+101,4,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,LCN Smith,118,5
+102,2,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,LCN Smith,120,5
+103,6,0,Northern Superchargers,1,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Manchester Originals,L Wolvaardt,AE Dyson,LCN Smith,126,5
+1,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,LCN Smith,EL Lamb,0,0
+2,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,LCN Smith,EL Lamb,4,0
+3,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,LCN Smith,EL Lamb,5,0
+4,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,LCN Smith,L Lee,6,0
+5,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,LCN Smith,EL Lamb,10,0
+6,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,EL Lamb,10,0
+7,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,EL Lamb,11,0
+8,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,EL Lamb,12,0
+9,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,EL Lamb,13,0
+10,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,EL Lamb,17,0
+11,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,EL Lamb,21,0
+12,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,EL Lamb,25,0
+13,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,EL Lamb,25,0
+14,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,AN Davidson-Richards,L Lee,29,0
+15,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,AN Davidson-Richards,L Lee,30,0
+16,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,AN Davidson-Richards,EL Lamb,34,0
+17,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,AN Davidson-Richards,EL Lamb,34,0
+18,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,AN Davidson-Richards,EL Lamb,34,0
+19,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,EL Lamb,34,0
+20,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,EL Lamb,38,0
+21,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,EL Lamb,42,0
+22,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,EL Lamb,46,0
+23,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,EL Lamb,46,0
+24,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,EA Russell,L Lee,46,0
+25,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,EA Russell,L Lee,46,0
+26,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,EA Russell,L Lee,46,0
+27,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,EA Russell,L Lee,50,0
+28,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,EA Russell,L Lee,50,0
+29,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,LCN Smith,L Lee,50,0
+30,0,1,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,EL Lamb,LCN Smith,L Lee,50,1
+31,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,LCN Smith,L Lee,51,1
+32,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,LCN Smith,M du Preez,51,1
+33,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,LCN Smith,M du Preez,55,1
+34,5,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,KA Levick,L Lee,60,1
+35,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,KA Levick,L Lee,60,1
+36,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,KA Levick,L Lee,61,1
+37,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,M du Preez,62,1
+38,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,KA Levick,L Lee,63,1
+39,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,M du Preez,63,1
+40,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,EA Russell,M du Preez,67,1
+41,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,EA Russell,M du Preez,68,1
+42,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,EA Russell,L Lee,69,1
+43,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,EA Russell,M du Preez,69,1
+44,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,EA Russell,M du Preez,70,1
+45,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,EA Russell,M du Preez,71,1
+46,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,AN Davidson-Richards,M du Preez,72,1
+47,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,AN Davidson-Richards,L Lee,72,1
+48,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,AN Davidson-Richards,L Lee,72,1
+49,2,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,AN Davidson-Richards,L Lee,74,1
+50,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,AN Davidson-Richards,L Lee,75,1
+51,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,EA Russell,M du Preez,79,1
+52,6,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,EA Russell,M du Preez,85,1
+53,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,EA Russell,M du Preez,86,1
+54,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,EA Russell,L Lee,86,1
+55,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,EA Russell,L Lee,87,1
+56,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,K Moore,L Lee,87,1
+57,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,K Moore,L Lee,88,1
+58,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,K Moore,M du Preez,88,1
+59,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,K Moore,M du Preez,89,1
+60,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,K Moore,L Lee,90,1
+61,2,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,M du Preez,92,1
+62,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,M du Preez,96,1
+63,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,M du Preez,97,1
+64,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,BA Langston,L Lee,98,1
+65,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,BA Langston,M du Preez,98,1
+66,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,KA Levick,L Lee,99,1
+67,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,M du Preez,100,1
+68,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,KA Levick,L Lee,100,1
+69,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,KA Levick,L Lee,101,1
+70,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,KA Levick,M du Preez,101,1
+71,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,LCN Smith,M du Preez,101,1
+72,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,LCN Smith,M du Preez,102,1
+73,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,LCN Smith,L Lee,102,1
+74,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,LCN Smith,L Lee,102,1
+75,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,LCN Smith,L Lee,102,1
+76,0,1,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,L Lee,K Moore,M du Preez,102,2
+77,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,K Moore,M du Preez,103,2
+78,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,K Moore,CL Griffith,104,2
+79,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,K Moore,M du Preez,105,2
+80,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,K Moore,M du Preez,105,2
+81,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,K Moore,M du Preez,106,2
+82,2,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,K Moore,CL Griffith,108,2
+83,6,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,K Moore,CL Griffith,114,2
+84,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,K Moore,CL Griffith,115,2
+85,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,K Moore,M du Preez,119,2
+86,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,K Moore,M du Preez,119,2
+87,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,LCN Smith,CL Griffith,119,2
+88,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,M du Preez,LCN Smith,CL Griffith,120,2
+89,2,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,LCN Smith,M du Preez,122,2
+90,4,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,LCN Smith,M du Preez,126,2
+91,0,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,LCN Smith,M du Preez,126,2
+92,1,0,Manchester Originals,2,2021,female,Manchester Originals,8 wickets,"Headingley, Leeds",Manchester Originals,field,Northern Superchargers,CL Griffith,AN Davidson-Richards,M du Preez,127,2

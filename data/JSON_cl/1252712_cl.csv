@@ -1,0 +1,205 @@
+Ball,Runs,Wicket,Team,Innings,Year,Gender,Winner,Winning_Margin,Venue,Toss_Winner,Toss_Decision,Opposition_Team,Batter,Bowler,Non_Striker,Cumulative_Runs,Cumulative_Wickets
+1,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Winfield-Hill,A Capsey,JI Rodrigues,1,0
+2,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,A Capsey,L Winfield-Hill,2,0
+3,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Winfield-Hill,A Capsey,JI Rodrigues,3,0
+4,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,A Capsey,L Winfield-Hill,3,0
+5,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,A Capsey,L Winfield-Hill,3,0
+6,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,NE Farrant,L Winfield-Hill,7,0
+7,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,NE Farrant,L Winfield-Hill,7,0
+8,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,NE Farrant,L Winfield-Hill,11,0
+9,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,NE Farrant,L Winfield-Hill,12,0
+10,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Winfield-Hill,NE Farrant,JI Rodrigues,12,0
+11,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,MK Villiers,L Winfield-Hill,16,0
+12,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,MK Villiers,L Winfield-Hill,16,0
+13,0,1,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,JI Rodrigues,MK Villiers,L Winfield-Hill,16,1
+14,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,MK Villiers,L Winfield-Hill,20,1
+15,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,MK Villiers,L Winfield-Hill,21,1
+16,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Winfield-Hill,A Capsey,L Wolvaardt,21,1
+17,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Winfield-Hill,A Capsey,L Wolvaardt,22,1
+18,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,A Capsey,L Winfield-Hill,22,1
+19,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,A Capsey,L Winfield-Hill,22,1
+20,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,A Capsey,L Winfield-Hill,23,1
+21,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,NE Farrant,L Winfield-Hill,24,1
+22,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Winfield-Hill,NE Farrant,L Wolvaardt,25,1
+23,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,NE Farrant,L Winfield-Hill,25,1
+24,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,NE Farrant,L Winfield-Hill,25,1
+25,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,NE Farrant,L Winfield-Hill,25,1
+26,2,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,GJ Gibbs,L Winfield-Hill,27,1
+27,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,GJ Gibbs,L Winfield-Hill,27,1
+28,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,GJ Gibbs,L Winfield-Hill,28,1
+29,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Winfield-Hill,GJ Gibbs,L Wolvaardt,28,1
+30,0,1,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Winfield-Hill,GJ Gibbs,L Wolvaardt,28,2
+31,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,D van Niekerk,AN Davidson-Richards,29,2
+32,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,D van Niekerk,L Wolvaardt,29,2
+33,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,D van Niekerk,L Wolvaardt,30,2
+34,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,D van Niekerk,AN Davidson-Richards,31,2
+35,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,D van Niekerk,L Wolvaardt,32,2
+36,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,D van Niekerk,AN Davidson-Richards,36,2
+37,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,D van Niekerk,AN Davidson-Richards,36,2
+38,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,D van Niekerk,AN Davidson-Richards,37,2
+39,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,D van Niekerk,L Wolvaardt,41,2
+40,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,D van Niekerk,L Wolvaardt,42,2
+41,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,MK Villiers,L Wolvaardt,43,2
+42,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,MK Villiers,AN Davidson-Richards,44,2
+43,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,MK Villiers,L Wolvaardt,44,2
+44,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,MK Villiers,L Wolvaardt,45,2
+45,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,MK Villiers,AN Davidson-Richards,46,2
+46,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,D Gregory,L Wolvaardt,50,2
+47,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,D Gregory,L Wolvaardt,51,2
+48,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,D Gregory,AN Davidson-Richards,55,2
+49,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,D Gregory,AN Davidson-Richards,56,2
+50,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,D Gregory,L Wolvaardt,57,2
+51,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,GJ Gibbs,L Wolvaardt,61,2
+52,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,GJ Gibbs,L Wolvaardt,62,2
+53,2,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,GJ Gibbs,AN Davidson-Richards,64,2
+54,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,GJ Gibbs,AN Davidson-Richards,64,2
+55,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,GJ Gibbs,AN Davidson-Richards,65,2
+56,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,A Capsey,L Wolvaardt,66,2
+57,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,A Capsey,AN Davidson-Richards,66,2
+58,0,1,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Wolvaardt,A Capsey,AN Davidson-Richards,66,3
+59,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,BAM Heath,A Capsey,AN Davidson-Richards,66,3
+60,0,1,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,BAM Heath,A Capsey,AN Davidson-Richards,66,4
+61,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,E Gray,L Harris,66,4
+62,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,E Gray,L Harris,67,4
+63,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Harris,E Gray,AN Davidson-Richards,71,4
+64,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Harris,E Gray,AN Davidson-Richards,72,4
+65,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,E Gray,L Harris,73,4
+66,0,1,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,L Harris,GJ Gibbs,AN Davidson-Richards,73,5
+67,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,LCN Smith,GJ Gibbs,AN Davidson-Richards,73,5
+68,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,LCN Smith,GJ Gibbs,AN Davidson-Richards,74,5
+69,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,GJ Gibbs,LCN Smith,75,5
+70,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,LCN Smith,GJ Gibbs,AN Davidson-Richards,75,5
+71,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,MK Villiers,LCN Smith,76,5
+72,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,LCN Smith,MK Villiers,AN Davidson-Richards,76,5
+73,2,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,LCN Smith,MK Villiers,AN Davidson-Richards,78,5
+74,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,LCN Smith,MK Villiers,AN Davidson-Richards,78,5
+75,0,1,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,LCN Smith,MK Villiers,AN Davidson-Richards,78,6
+76,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,A Capsey,AN Davidson-Richards,78,6
+77,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,A Capsey,AN Davidson-Richards,78,6
+78,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,A Capsey,AN Davidson-Richards,79,6
+79,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,A Capsey,K Moore,80,6
+80,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,A Capsey,AN Davidson-Richards,81,6
+81,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,GJ Gibbs,AN Davidson-Richards,85,6
+82,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,GJ Gibbs,AN Davidson-Richards,85,6
+83,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,GJ Gibbs,AN Davidson-Richards,86,6
+84,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,GJ Gibbs,K Moore,90,6
+85,2,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,GJ Gibbs,K Moore,92,6
+86,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,NE Farrant,K Moore,93,6
+87,2,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,NE Farrant,AN Davidson-Richards,95,6
+88,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,NE Farrant,AN Davidson-Richards,96,6
+89,4,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,NE Farrant,K Moore,100,6
+90,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,NE Farrant,K Moore,101,6
+91,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,MK Villiers,K Moore,102,6
+92,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,MK Villiers,AN Davidson-Richards,102,6
+93,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,MK Villiers,AN Davidson-Richards,103,6
+94,0,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,MK Villiers,K Moore,103,6
+95,2,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,MK Villiers,K Moore,105,6
+96,2,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,NE Farrant,K Moore,107,6
+97,0,1,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,AN Davidson-Richards,NE Farrant,K Moore,107,7
+98,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,PC Graham,NE Farrant,K Moore,108,7
+99,0,1,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,K Moore,NE Farrant,PC Graham,108,8
+100,1,0,Northern Superchargers,1,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Oval Invincibles,EA Russell,NE Farrant,PC Graham,109,8
+1,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,EA Russell,A Capsey,4,0
+2,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,EA Russell,A Capsey,5,0
+3,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,EA Russell,GL Adams,6,0
+4,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,EA Russell,GL Adams,6,0
+5,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,EA Russell,GL Adams,6,0
+6,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,EA Russell,GL Adams,6,0
+7,2,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,AN Davidson-Richards,GL Adams,8,0
+8,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,AN Davidson-Richards,GL Adams,8,0
+9,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,AN Davidson-Richards,GL Adams,8,0
+10,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,AN Davidson-Richards,GL Adams,8,0
+11,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,AN Davidson-Richards,GL Adams,8,0
+12,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,LCN Smith,A Capsey,9,0
+13,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,LCN Smith,GL Adams,10,0
+14,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,LCN Smith,A Capsey,10,0
+15,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,LCN Smith,A Capsey,10,0
+16,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,LCN Smith,A Capsey,11,0
+17,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,KA Levick,GL Adams,12,0
+18,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,A Capsey,12,0
+19,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,A Capsey,12,0
+20,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,A Capsey,16,0
+21,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,A Capsey,16,0
+22,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,AN Davidson-Richards,GL Adams,20,0
+23,0,1,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,A Capsey,AN Davidson-Richards,GL Adams,20,1
+24,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,AN Davidson-Richards,GL Adams,20,1
+25,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,AN Davidson-Richards,GL Adams,21,1
+26,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,AN Davidson-Richards,SJ Bryce,22,1
+27,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,EA Russell,GL Adams,22,1
+28,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,EA Russell,GL Adams,23,1
+29,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,EA Russell,SJ Bryce,23,1
+30,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,EA Russell,SJ Bryce,23,1
+31,2,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,EA Russell,SJ Bryce,25,1
+32,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,KA Levick,GL Adams,26,1
+33,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,SJ Bryce,26,1
+34,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,SJ Bryce,30,1
+35,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,SJ Bryce,34,1
+36,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,SJ Bryce,35,1
+37,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,PC Graham,GL Adams,35,1
+38,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,PC Graham,GL Adams,36,1
+39,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,PC Graham,SJ Bryce,37,1
+40,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,PC Graham,GL Adams,37,1
+41,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,PC Graham,GL Adams,41,1
+42,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,LCN Smith,SJ Bryce,42,1
+43,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,LCN Smith,GL Adams,43,1
+44,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,LCN Smith,SJ Bryce,43,1
+45,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,LCN Smith,SJ Bryce,44,1
+46,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,LCN Smith,GL Adams,44,1
+47,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,KA Levick,GL Adams,45,1
+48,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,SJ Bryce,45,1
+49,0,1,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,GL Adams,KA Levick,SJ Bryce,45,2
+50,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,KA Levick,SJ Bryce,46,2
+51,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,KA Levick,FC Wilson,47,2
+52,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,KA Levick,FC Wilson,48,2
+53,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,EA Russell,FC Wilson,49,2
+54,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,EA Russell,SJ Bryce,49,2
+55,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,EA Russell,SJ Bryce,50,2
+56,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,EA Russell,FC Wilson,51,2
+57,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,EA Russell,SJ Bryce,52,2
+58,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,PC Graham,FC Wilson,56,2
+59,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,PC Graham,FC Wilson,57,2
+60,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,PC Graham,SJ Bryce,57,2
+61,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,PC Graham,SJ Bryce,61,2
+62,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,PC Graham,SJ Bryce,62,2
+63,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,PC Graham,SJ Bryce,62,2
+64,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,LCN Smith,FC Wilson,63,2
+65,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,LCN Smith,SJ Bryce,64,2
+66,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,LCN Smith,FC Wilson,65,2
+67,0,1,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,FC Wilson,LCN Smith,SJ Bryce,65,3
+68,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,LCN Smith,SJ Bryce,66,3
+69,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,AN Davidson-Richards,D van Niekerk,67,3
+70,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,AN Davidson-Richards,SJ Bryce,68,3
+71,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,AN Davidson-Richards,D van Niekerk,69,3
+72,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,AN Davidson-Richards,D van Niekerk,70,3
+73,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,AN Davidson-Richards,SJ Bryce,70,3
+74,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,AN Davidson-Richards,SJ Bryce,70,3
+75,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,K Moore,D van Niekerk,71,3
+76,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,K Moore,SJ Bryce,72,3
+77,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,K Moore,D van Niekerk,73,3
+78,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,K Moore,SJ Bryce,73,3
+79,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,K Moore,SJ Bryce,77,3
+80,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,EA Russell,SJ Bryce,77,3
+81,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,EA Russell,SJ Bryce,78,3
+82,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,EA Russell,D van Niekerk,78,3
+83,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,EA Russell,D van Niekerk,79,3
+84,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,EA Russell,SJ Bryce,79,3
+85,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,KA Levick,D van Niekerk,80,3
+86,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,KA Levick,SJ Bryce,81,3
+87,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,KA Levick,D van Niekerk,81,3
+88,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,KA Levick,D van Niekerk,82,3
+89,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,KA Levick,SJ Bryce,83,3
+90,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,K Moore,D van Niekerk,83,3
+91,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,K Moore,D van Niekerk,84,3
+92,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,K Moore,SJ Bryce,85,3
+93,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,K Moore,D van Niekerk,86,3
+94,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,K Moore,SJ Bryce,87,3
+95,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,LCN Smith,SJ Bryce,91,3
+96,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,LCN Smith,SJ Bryce,95,3
+97,4,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,LCN Smith,SJ Bryce,99,3
+98,0,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,LCN Smith,SJ Bryce,99,3
+99,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,LCN Smith,SJ Bryce,100,3
+100,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,AN Davidson-Richards,D van Niekerk,101,3
+101,2,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,AN Davidson-Richards,SJ Bryce,103,3
+102,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,D van Niekerk,AN Davidson-Richards,SJ Bryce,104,3
+103,0,1,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,SJ Bryce,AN Davidson-Richards,D van Niekerk,104,4
+104,1,0,Oval Invincibles,2,2021,female,Northern Superchargers,4 runs,"Headingley, Leeds",Oval Invincibles,field,Northern Superchargers,MK Villiers,AN Davidson-Richards,D van Niekerk,105,4
