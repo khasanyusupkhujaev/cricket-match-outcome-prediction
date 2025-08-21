@@ -1,5 +1,8 @@
 # Cricket Match Outcome Prediction
 
+<img width="400" height="180" alt="image" src="https://github.com/user-attachments/assets/cbdb578b-fed4-422a-909e-1cffd9ff8153" />
+
+
 This project is a dissertation research effort aimed at developing an accurate predictive model for forecasting outcomes in The Hundred cricket format. Using machine learning techniques, we analyze match data to identify influential factors like team composition, playing strategies, and performance metrics. The research explores whether match results can be reliably predicted and how insights can optimize team strategies.
 
 ## Project Overview
